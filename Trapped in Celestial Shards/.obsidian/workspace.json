@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
+                "file": "Main Plots/_Saffron Meadow/- Dribble -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The 'giving'"
+              "title": "- Dribble -"
             },
             "group": "a22b9edc08a6bd62"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
+                "file": "Main Plots/_Saffron Meadow/- Dribble -.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The 'giving'"
+              "title": "Graph of - Dribble -"
             },
             "group": "a22b9edc08a6bd62"
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
+                "file": "Main Plots/_Saffron Meadow/- Dribble -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The 'giving'"
+              "title": "Backlinks for - Dribble -"
             }
           },
           {
@@ -230,8 +230,11 @@
   },
   "active": "60b8450021e221e4",
   "lastOpenFiles": [
-    "Main Plots/_Mystic Silence/1. The early days/The egg.md",
+    "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
+    "Main Plots/_Saffron Meadow/- Dribble -.md",
     "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
+    "Main Plots/_Saffron Meadow/1. The begining",
+    "Main Plots/_Mystic Silence/1. The early days/The egg.md",
     "Main Plots/_Mystic Silence/1. The early days",
     "Main Plots/x - Legends - x/The sun.md",
     "Main Plots/_Mystic Silence/The compiound",
@@ -252,7 +255,6 @@
     "create a link.md",
     "Main Plots/_Eden Reality",
     "Main Plots/_Mystic Silence",
-    "Main Plots/_Sequin Eyes",
-    "Main Plots/_Saffron Meadow"
+    "Main Plots/_Sequin Eyes"
   ]
 }
