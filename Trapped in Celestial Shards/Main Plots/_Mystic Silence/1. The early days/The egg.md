@@ -59,3 +59,20 @@ It held a peculiar belief, that the celestials in the sky could help you find yo
 
 "Yes." Looking at her beloved egg with adoration.
 
+"Ah, I see, you too must have been blessed then."
+
+"Blessed?"
+
+"Well, of course! Our dear founder has a celestial child too."
+
+"They do?" 
+
+"Yes. A pure child of the stars, a true angle."
+
+"Oh."
+
+`----------------------------`
+
+Then, one day, the egg finally hatched.
+
+A little larvae, reminiscent of fluffy dog with scales came through.
