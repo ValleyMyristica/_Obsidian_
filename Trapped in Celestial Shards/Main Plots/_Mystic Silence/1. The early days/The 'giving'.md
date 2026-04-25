@@ -30,3 +30,6 @@ And, when she came too it, in her arms laid an egg.
 Big, and slightly soft, she handled it with care.
 
 "Thank you." She whispered.
+
+
+[[The egg|NEXT >]]

@@ -76,3 +76,6 @@ It held a peculiar belief, that the celestials in the sky could help you find yo
 Then, one day, the egg finally hatched.
 
 A little larvae, reminiscent of fluffy dog with scales came through.
+
+
+[[The 'giving'|< PREV]]
