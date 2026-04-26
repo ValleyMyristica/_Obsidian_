@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/_Saffron Meadow/- Dribble -.md",
+                "file": "Main Plots/_Mystic Silence/1. The early days/The egg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- Dribble -"
+              "title": "The egg"
             },
             "group": "a22b9edc08a6bd62"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/_Saffron Meadow/- Dribble -.md",
+                "file": "Main Plots/_Mystic Silence/1. The early days/The egg.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.5087618855792585,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of - Dribble -"
+              "title": "Graph of The egg"
             },
             "group": "a22b9edc08a6bd62"
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Plots/_Saffron Meadow/- Dribble -.md",
+                "file": "Main Plots/_Mystic Silence/1. The early days/The egg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for - Dribble -"
+              "title": "Backlinks for The egg"
             }
           },
           {
@@ -230,8 +230,13 @@
   },
   "active": "60b8450021e221e4",
   "lastOpenFiles": [
+    "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
+    "Main Plots/_Saffron Meadow/Untitled",
+    "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
+    "Main Plots/_Saffron Meadow/3. What it takes",
     "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
-    "Main Plots/_Saffron Meadow/- Dribble -.md",
+    "Main Plots/_Saffron Meadow/2. The seperation",
     "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
     "Main Plots/_Saffron Meadow/1. The begining",
     "Main Plots/_Mystic Silence/1. The early days/The egg.md",
@@ -252,9 +257,6 @@
     "Main Plots",
     "Main Plots/Mystic Saffron",
     "Characters",
-    "create a link.md",
-    "Main Plots/_Eden Reality",
-    "Main Plots/_Mystic Silence",
-    "Main Plots/_Sequin Eyes"
+    "create a link.md"
   ]
 }
