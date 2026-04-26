@@ -1,0 +1,1 @@
+_very_ bare. It’s mostly made up of floating islands, very cloudy, and areas that are large and have flora are abundant in rare healing plants. The main area of The Cloudscape is the palace of the Angel Dragons

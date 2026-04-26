@@ -1,0 +1,1 @@
+The ruler of these dragons and [[Star-Sighted Dragon]]s is [[Nebula]] and [[Comet]].

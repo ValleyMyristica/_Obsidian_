@@ -1,0 +1,1 @@
+The ruler of these dragons and [[Meteor Dragon]]s is [[Nebula]] and [[Comet]].

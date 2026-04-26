@@ -1,0 +1,1 @@
+Wilting Roses is a story revolving around a dragon named Wither, the last of her kind! She is a Wither Dragon, which had gone extinct in a purge around 18-20 years ago.

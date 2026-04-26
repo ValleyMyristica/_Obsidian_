@@ -1,0 +1,1 @@
+Gold/Silver is the most common currency
