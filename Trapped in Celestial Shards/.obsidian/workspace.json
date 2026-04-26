@@ -19,7 +19,52 @@
               },
               "icon": "lucide-file",
               "title": "Sol"
-            }
+            },
+            "group": "7292876cef50ec8c"
+          }
+        ]
+      },
+      {
+        "id": "201cd79346a4ebb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "553c46434f0728f7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2. Characters/Side Characters/SE STARS/Sol.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Sol"
+            },
+            "group": "7292876cef50ec8c"
           }
         ]
       }
@@ -183,7 +228,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2e907ca28002a77",
+  "active": "553c46434f0728f7",
   "lastOpenFiles": [
     "2. Characters/Side Characters/SE STARS/Sol.md",
     "Welcome.md"
