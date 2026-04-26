@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Side/Comet.md",
+                "file": "Worldbuilding/Currency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comet"
+              "title": "Currency"
             },
             "group": "4241432e65d94cf9"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characters/Side/Comet.md",
+                "file": "Worldbuilding/Currency.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Comet"
+              "title": "Graph of Currency"
             },
             "group": "4241432e65d94cf9"
           }
@@ -230,41 +230,41 @@
   },
   "active": "88281affdc1bd9e8",
   "lastOpenFiles": [
-    "Worldbuilding/Dragon types/Main types/Earth/Desert Dragon.md",
+    "Characters/Side/Comet.md",
+    "Worldbuilding/Dragon types/Main types/Ancient/Meteor Dragon.md",
+    "Worldbuilding/Dragon types/Main types/Ancient/Star-Sighted Dragon.md",
+    "Worldbuilding/Dragon types/Main types/Earth/Desert Dragons/Desert Dragon.md",
+    "Characters/Main/Scorpion.md",
+    "Worldbuilding/Dragon types/Main types/Aether/God Dragons.md",
+    "Worldbuilding/Dragon types/Main types/Aether/Dream Dragon.md",
+    "Worldbuilding/Dragon types/Main types/Aether/Cloud Dragons",
+    "Worldbuilding/Dragon types/Main types/Aether/Angelic Dragon.md",
+    "Worldbuilding/Dragon types/Angel Dragon.md",
+    "Characters/Main/Dream.md",
+    "Worldbuilding/Dragon types/Main types/Earth/Void Dragons",
+    "Worldbuilding/Dragon types/Main types/Earth/Oceanic Dragons",
+    "Worldbuilding/Dragon types/Main types/Earth/Desert Dragons",
+    "Worldbuilding/Dragon types/Main types/Earth/Valley Dragons",
+    "Worldbuilding/Dragon types/Main types/Earth/Flower Dragons",
+    "Worldbuilding/Dragon types/Main types/Earth/Forest Dragons",
     "Worldbuilding/Currency.md",
     "Worldbuilding/Portals.md",
-    "Worldbuilding/Dragon types/Angelic Dragon.md",
-    "Worldbuilding/Dragon types/Hellfire Dragon.md",
+    "Worldbuilding/Dragon types/Main types/Netherworld/Hellfire Dragon.md",
     "Worldbuilding/Planets/The Netherworld.md",
     "Worldbuilding/Planets/Rhynal.md",
     "Worldbuilding/Dragon types/Main types/Ancient/Ancient Dragon.md",
     "Worldbuilding/Dragon types/Main types/Ancient/Sub",
     "Characters/Extra/Extra.md",
     "Worldbuilding/Dragon types/Main types/Ancient",
-    "Worldbuilding/Dragon types/Main types/Underworld",
-    "Worldbuilding/Dragon types/Main types/Aether",
-    "Worldbuilding/Dragon types/Main types/Earth/Untitled",
-    "Worldbuilding/Dragon types/Main types/Earth",
-    "Worldbuilding/Dragon types/Main types",
+    "Worldbuilding/Dragon types/Main types/Netherworld",
     "Worldbuilding/Dragon types/Main types/Ancient/Mountain Dragon.md",
-    "Worldbuilding/Dragon types/Volcanic Dragon.md",
-    "Worldbuilding/Dragon types/Griffin Dragon.md",
+    "Worldbuilding/Dragon types/Main types/Ancient/Volcanic Dragon.md",
+    "Worldbuilding/Dragon types/Main types/Ancient/Griffin Dragon.md",
     "Worldbuilding/Dragon types/Main types/Ancient/Atlantis Dragon.md",
-    "Characters/Side/Comet.md",
     "Characters/Side/Nebula.md",
-    "Characters/Extra",
-    "Worldbuilding/Dragon types/Star-Sighted Dragon.md",
-    "Worldbuilding/Dragon types/Main types/Ancient/Meteor Dragon.md",
-    "Worldbuilding/Dragon types/Coral Dragon.md",
+    "Worldbuilding/Dragon types/Main types/Earth/Oceanic Dragons/Coral Dragon.md",
     "Characters/Main/Oceanic.md",
-    "Characters/Main/Dream.md",
-    "Characters/Main/Scorpion.md",
     "Characters/Main/Wither.md",
-    "Characters/Main/Golden.md",
-    "Worldbuilding/Dragon types/Angel Dragon.md",
-    "Worldbuilding/Dragon types/Rose Dragon.md",
-    "Worldbuilding/Dragon types/Main types/Ancient/Wither Dragon.md",
-    "Characters/Side",
-    "Characters/Main"
+    "Characters/Main/Golden.md"
   ]
 }
