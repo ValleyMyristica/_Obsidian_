@@ -111,3 +111,19 @@ Breathing.
 
 "Forever."
 
+*'I- Really?'*
+
+"I should." An idea starts forming. 
+
+*'Should what?' A treble is sound.*
+
+"I'll eradicate you at night, then after lunch I can take a lunch nap, then if you come back again, I'll just take a nap. And **get rid of you.**"
+
+*'Please don't.'*
+
+"Be **quiet** then." He gets up.
+
+*'I- I promise!'*
+
+"Don't make promises you can't keep." Moving towards his bedroom.
+
