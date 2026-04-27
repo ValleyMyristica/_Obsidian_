@@ -6,7 +6,7 @@
       {
         "id": "85144ef9518f83ec",
         "type": "tabs",
-        "dimension": 68.23843416370107,
+        "dimension": 81.14985862393968,
         "children": [
           {
             "id": "2f80f06285e1938d",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Places/🗺️The facility.md",
+                "file": "1. Places/🗺️The town.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗺️The facility"
+              "title": "🗺️The town"
             },
             "group": "3583764ffef2cad1"
           }
@@ -28,7 +28,7 @@
       {
         "id": "b0220f3711378e58",
         "type": "tabs",
-        "dimension": 31.76156583629893,
+        "dimension": 18.85014137606032,
         "children": [
           {
             "id": "d2e9680dc556b071",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Places/🗺️The facility.md",
+                "file": "1. Places/🗺️The town.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 🗺️The facility"
+              "title": "Graph of 🗺️The town"
             },
             "group": "3583764ffef2cad1"
           }
@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5026054382324
+    "width": 200
   },
   "right": {
     "id": "4a73887428c11988",
@@ -232,30 +232,32 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
+    "2. Characters/👤Mystic.md",
+    "2. Characters/👤Saffron.md",
     "2. Characters/Side Characters/MS MOON/👤Moonlight.md",
+    "Main Plots/Index.md",
+    "Main Plots/x - Legends - x/The sun.md",
+    "Main Plots/x - Legends - x/The moon.md",
+    "Main Plots/Mystic Saffron/- Short - I don't need you.md",
     "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
     "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
-    "2. Characters/👤Mystic.md",
-    "Main Plots/Index.md",
-    "2. Characters/Side Characters/MS MOON/👤Mother.md",
-    "Main Plots/Mystic Saffron/- Short - I don't need you.md",
-    "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
+    "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
+    "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
     "Main Plots/_Mystic Silence/1. The early days/The egg.md",
+    "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
     "Main Plots/_Eden Reality/Summary.md",
-    "Welcome.md",
+    "2. Characters/👤Sequin.md",
     "2. Characters/👤Eden.md",
-    "2. Characters/Side Characters/ER EARTH/Untitled.md",
-    "2. Characters/Side Characters/ER EARTH",
+    "2. Characters/Side Characters/SM SUN/👤Sunshine.md",
+    "2. Characters/Side Characters/SE STARS/👤Sol.md",
+    "2. Characters/Side Characters/MS MOON/👤Mother.md",
     "1. Places/🗺️The town.md",
     "1. Places/🗺️The ghost town.md",
     "1. Places/🗺️The forest.md",
     "1. Places/🗺️The facility.md",
     "1. Places/🗺️The compound.md",
-    "Main Plots/x - Legends - x/The moon.md",
-    "Main Plots/x - Legends - x/The sun.md",
-    "2. Characters/Side Characters/SE STARS/👤Sol.md",
-    "2. Characters/👤Sequin.md",
-    "2. Characters/Side Characters/SM SUN/👤Sunshine.md",
-    "2. Characters/👤Saffron.md"
+    "Welcome.md",
+    "2. Characters/Side Characters/ER EARTH/Untitled.md",
+    "2. Characters/Side Characters/ER EARTH"
   ]
 }
