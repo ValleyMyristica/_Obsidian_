@@ -1,7 +1,7 @@
 
-"I don't need you." [[👤Saffron]] tells, blunt.
+"I don't need you." [[Saffron]] tells, blunt.
 
-"What?" The words hit [[👤Mystic]] like cold water to the face. "Why-"
+"What?" The words hit [[Mystic]] like cold water to the face. "Why-"
 
 "But... I..." He looks away. "I'm really happy I have you?"
 

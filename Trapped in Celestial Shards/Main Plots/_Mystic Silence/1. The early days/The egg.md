@@ -1,4 +1,4 @@
-She cared for the egg
+[[Mother|She]] cared for the egg
 As if it was the only thing worth living for
 
 People didn't understand
@@ -76,6 +76,8 @@ It held a peculiar belief, that the celestials in the sky could help you find yo
 Then, one day, the egg finally hatched.
 
 A little larvae, reminiscent of fluffy dog with scales came through.
+
+It was so *[[Mystic|mystical]]* she couldn't help but look at it with awe.
 
 
 [[The 'giving'|< PREV]]

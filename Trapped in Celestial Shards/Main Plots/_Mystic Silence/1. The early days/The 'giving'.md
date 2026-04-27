@@ -1,4 +1,4 @@
-A mother grieving of sorrow
+A [[Mother]] grieving of sorrow
 Fled to the sea
 
 Wanting to drown in the waters blue

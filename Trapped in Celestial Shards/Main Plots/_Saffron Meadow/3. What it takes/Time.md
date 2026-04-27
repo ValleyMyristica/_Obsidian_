@@ -1,4 +1,4 @@
-* [[👤Sunshine|Kid]] meets [[👤Saffron]]
+* [[Sunshine|Kid]] meets [[Saffron]]
 * Kid breaks Saffron
 * Saffron sees his *parents* around another kid
 	* He can't process his emotions, he can't understand
@@ -12,7 +12,7 @@
 * The kid is *fine*
 * **Everything is *perfect*.**
   
-* A [[👤Mystic||stranger]] waltz into town.
+* A [[Mystic||stranger]] waltz into town.
 * "Who. Are. You." He can't trust this *unknown*.
 * Saffron plans on just sending a warning shot, but Sunshine, in fear, tries to stop him. Making the *warning* a *hit*.
 * Panicked, Saffron does his best to erase the memory, dispose of the body, EVERYTHING. He can't have his dear Sunshine thing he'd hurt someone without reason. He can't have his dear sunshine think he's a monster. He's good. He's a good kid. Sunshine is a good kid.

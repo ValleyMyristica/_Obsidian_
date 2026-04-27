@@ -1,6 +1,5 @@
 
-## Eden Reality
- [[Summary]]
+### Eden Reality
 > Tells of Eden, how the pretty town once was
 > How it all crumbled by eir hand
 > How it was left as rubble by what was done
@@ -8,10 +7,18 @@
 > 
 > And
 > 
-> How a lost [[👤Mystic|soul]] was found and used
+> How a lost soul was found and used
+
+### Silent meadow - the bad
+> Infinite decapitation
 
 
-Mystic saffron - the good
+### Mystic saffron - the good
+> Abusive core
 
-Silent meadow - the bad
+
+
+
+
+
 
