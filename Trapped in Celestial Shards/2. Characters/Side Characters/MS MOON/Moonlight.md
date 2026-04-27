@@ -1,1 +1,0 @@
-Nickname to the friend [[Mystic]] made in the facility

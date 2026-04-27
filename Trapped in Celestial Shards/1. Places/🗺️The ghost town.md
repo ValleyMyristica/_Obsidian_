@@ -1,4 +1,4 @@
-[[Eden]]'s town, it was once so pretty
+[[👤Eden]]'s town, it was once so pretty
 But something *despicable* came in
 And a *sickness* spread
 

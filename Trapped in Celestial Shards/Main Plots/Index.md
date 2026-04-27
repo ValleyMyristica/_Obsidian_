@@ -8,7 +8,7 @@
 > 
 > And
 > 
-> How a lost [[Mystic|soul]] was found and used
+> How a lost [[👤Mystic|soul]] was found and used
 
 
 Mystic saffron - the good
