@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Places/Island of the lost/🗺️The ghost town.md",
+                "file": "Main Plots/_Mystic Silence/2. The dog days/Sad Moon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗺️The ghost town"
+              "title": "Sad Moon"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Places/Island of the lost/🗺️The ghost town.md",
+                "file": "Main Plots/_Mystic Silence/2. The dog days/Sad Moon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 🗺️The ghost town"
+              "title": "Graph of Sad Moon"
             },
             "group": "3583764ffef2cad1"
           }
@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5026054382324
   },
   "right": {
     "id": "4a73887428c11988",
@@ -232,6 +232,8 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
+    "Main Plots/Mystic Saffron/Am I real.md",
+    "1. Places/Island of the lost/🗺️The ghost town.md",
     "Main Plots/_Eden Reality/Eden Reality notes.md",
     "Main Plots/x - Legends - x/The sun.md",
     "Main Plots/x - Legends - x/The moon.md",
@@ -250,7 +252,6 @@
     "Main Plots/Index.md",
     "Welcome.md",
     "1. Places/Island of the lost/🗺️The town.md",
-    "1. Places/Island of the lost/🗺️The ghost town.md",
     "1. Places/Island of the lost/🗺️Island of the lost.md",
     "1. Places/Island of the lost",
     "Main Plots/Untitled.canvas",
@@ -260,7 +261,6 @@
     "Main Plots/_Mystic Silence/2. The dog days",
     "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
     "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
-    "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
     "2. Characters/Side Characters/ER EARTH"
   ]
 }
