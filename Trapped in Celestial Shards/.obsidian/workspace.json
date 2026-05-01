@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Legends/Origin.md",
+                "file": "3. Legends/REASON.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origin"
+              "title": "REASON"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3. Legends/Origin.md",
+                "file": "3. Legends/REASON.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Origin"
+              "title": "Graph of REASON"
             },
             "group": "3583764ffef2cad1"
           }
@@ -247,6 +247,7 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
+    "Main Plots/_Mystic Silence/1. The early days/The egg.md",
     "3. Legends/REASON.md",
     "3. Legends/Origin.md",
     "3. Legends/The sun.md",
@@ -266,7 +267,6 @@
     "2. Characters/Sequin.md",
     "2. Characters/Side Characters/MS MOON/Timber.md",
     "2. Characters/Side Characters/MS MOON/Moonlight.md",
-    "Main Plots/_Mystic Silence/1. The early days/The egg.md",
     "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
     "2. Characters/Side Characters/MS MOON/Mother.md",
     "Main Plots/_Mystic Silence/2. The dog days/Sad Moon.md",
