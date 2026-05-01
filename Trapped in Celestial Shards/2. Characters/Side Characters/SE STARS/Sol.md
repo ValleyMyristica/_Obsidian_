@@ -1,4 +1,3 @@
-
 The fake sun
 So that the cult has a representative
 
@@ -13,3 +12,11 @@ And really likes Sol, especially because Sol is nice to them.
 
 
 Sol is pretty bad at remembering people, but always tries to be nice and have fun.
+
+Just. Goldfish. That's what Sol is.
+Animal Cell. Goldfish.
+
+Sunflower?
+
+
+
