@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Characters/Mystic.md",
+                "file": "3. Legends/Origin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mystic"
+              "title": "Origin"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Characters/Mystic.md",
+                "file": "3. Legends/Origin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Mystic"
+              "title": "Graph of Origin"
             },
             "group": "3583764ffef2cad1"
           }
@@ -247,16 +247,27 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
-    "2. Characters/Side Characters/SE STARS/Sol.md",
+    "3. Legends/REASON.md",
+    "3. Legends/Origin.md",
+    "3. Legends/The sun.md",
+    "Side Stories",
+    "3. Legends/The cat man.md",
+    "3. Legends/The moon.md",
+    "1. Places/Island of the lost/The forest.md",
+    "1. Places/MAP.canvas",
+    "1. Places/Island of the lost/The town.md",
+    "1. Places/Island of the lost/The ghost town.md",
+    "1. Places/Island of the lost/Island of the lost.md",
+    "1. Places/The compound.md",
+    "1. Places/The facility.md",
     "2. Characters/Mystic.md",
+    "2. Characters/Side Characters/SE STARS/Sol.md",
     "2. Characters/Saffron.md",
     "2. Characters/Sequin.md",
     "2. Characters/Side Characters/MS MOON/Timber.md",
     "2. Characters/Side Characters/MS MOON/Moonlight.md",
     "Main Plots/_Mystic Silence/1. The early days/The egg.md",
     "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
-    "1. Places/The compound.md",
-    "1. Places/The facility.md",
     "2. Characters/Side Characters/MS MOON/Mother.md",
     "Main Plots/_Mystic Silence/2. The dog days/Sad Moon.md",
     "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
@@ -264,15 +275,6 @@
     "Main Plots/Mystic Saffron/- Short - I don't need you.md",
     "Main Plots/Mystic Saffron/Am I real.md",
     "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
-    "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
-    "1. Places/Island of the lost/🗺️The ghost town.md",
-    "Main Plots/_Eden Reality/Eden Reality notes.md",
-    "Main Plots/x - Legends - x/The sun.md",
-    "Main Plots/x - Legends - x/The moon.md",
-    "2. Characters/Eden.md",
-    "2. Characters/Side Characters/SM SUN/Sunshine.md",
-    "Main Plots/Index.md",
-    "Welcome.md",
     "1. Places/Island of the lost",
     "Main Plots/Untitled.canvas",
     "Main Plots/_Mystic Silence/2. The dog days",

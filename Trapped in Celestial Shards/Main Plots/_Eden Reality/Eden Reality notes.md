@@ -1,5 +1,5 @@
-There were once two towns on [[🗺️Island of the lost]]
-[[🗺️The town]] and [[🗺️The ghost town]]
+There were once two towns on [[1. Places/Island of the lost/Island of the lost]]
+[[1. Places/Island of the lost/The town]] and [[1. Places/Island of the lost/The ghost town]]
 
 The town is taken care of by a cat who sees glimpses of the future and past
 Smart and treated like the mayor of the town
