@@ -5,7 +5,7 @@ A pretty day by all accounts, one where you'd like to have a lovely little picni
 
 "Make sure to smile sweetie."
 
-*Sweetie* smiles, mimicking the happy one that was there yesterday. In the morning, for the lost him at noon. Looking at their mom with pleading eyes.
+*Sweetie* smiles, mimicking the happy one that was there yesterday. In the morning, for they lost him at noon. Looking at their mom with pleading eyes.
 
 "And try not to frown, you'll be standing up there with very important people." She minutely pricks at every little part of their body, wanting them to be perfect.
 
@@ -19,11 +19,27 @@ A pretty day by all accounts, one where you'd like to have a lovely little picni
 
 "I-" Memories of yesterday start flooding back. Keep it together. Keep it together!
 
-"You don't have to "
+"You don't have to-"
 
 "Timber died."
 
 "Who?"
+
+Trying to tell - tears burst - no words comes out.
+
+"Sweetie." A worried mother hugs her child.
+
+Only sobs fill the room. Making mothers pretty dress wet. Holding onto her as tears keep steaming down. Trying to breath. It's all so shaky.
+
+Pat. Mother comforts. 
+
+Grip tightens, as if afraid to let go.
+
+"I love you." Mother tells sweetly, holding her dear child. Protective. Oh, how she wishes to take away all that is haunting her beloved child's mind.
+
+"I'm sorry." Is uttered out of the sobs.
+
+
 
 
 [[Main Plots/_Mystic Silence/2. The dog days/Happy Moon|< Prev]]
