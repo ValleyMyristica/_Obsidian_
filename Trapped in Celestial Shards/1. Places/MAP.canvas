@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"e060c4686f008c23","type":"text","text":"[[1. Places/Island of the lost/The ghost town|The ghost town]]","x":-440,"y":234,"width":250,"height":60},
-		{"id":"0497b88aaf09ff55","x":-170,"y":234,"width":250,"height":60,"type":"text","text":"[[1. Places/Island of the lost/The forest|The forest]]"},
-		{"id":"0bf17655d9a22847","x":-170,"y":60,"width":250,"height":60,"type":"text","text":"[[1. Places/Island of the lost/Island of the lost|Island of the lost]]"},
-		{"id":"99bdec86116e6d39","x":100,"y":234,"width":250,"height":60,"type":"text","text":"[[1. Places/Island of the lost/The town|The town]]"},
 		{"id":"103963ad8109c355","type":"text","text":"[[1. Places/The compound|The compound]]","x":-420,"y":-340,"width":250,"height":60},
-		{"id":"0989e01d5ed92105","type":"text","text":"[[1. Places/The facility|The facility]]","x":-420,"y":-220,"width":250,"height":60}
+		{"id":"e060c4686f008c23","type":"text","text":"[[1. Places/Island of the lost/The ghost town|The ghost town]]","x":-420,"y":114,"width":250,"height":60},
+		{"id":"0497b88aaf09ff55","type":"text","text":"[[1. Places/Island of the lost/The forest|The forest]]","x":-150,"y":114,"width":250,"height":60},
+		{"id":"99bdec86116e6d39","type":"text","text":"[[1. Places/Island of the lost/The town|The town]]","x":120,"y":114,"width":250,"height":60},
+		{"id":"0bf17655d9a22847","type":"text","text":"[[1. Places/Island of the lost/Island of the lost|Island of the lost]]","x":-150,"y":-40,"width":250,"height":60},
+		{"id":"0989e01d5ed92105","type":"text","text":"[[1. Places/The facility|The facility]]","x":-420,"y":-260,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"32ec488a40870ab1","fromNode":"0bf17655d9a22847","fromSide":"bottom","toNode":"0497b88aaf09ff55","toSide":"top"},
 		{"id":"11088866f04bbb23","fromNode":"0bf17655d9a22847","fromSide":"left","toNode":"e060c4686f008c23","toSide":"top"},
-		{"id":"25420c37f2481a7e","fromNode":"0bf17655d9a22847","fromSide":"right","toNode":"99bdec86116e6d39","toSide":"top"}
+		{"id":"25420c37f2481a7e","fromNode":"0bf17655d9a22847","fromSide":"right","toNode":"99bdec86116e6d39","toSide":"top"},
+		{"id":"df4330977b60a921","fromNode":"0bf17655d9a22847","fromSide":"bottom","toNode":"0497b88aaf09ff55","toSide":"top"}
 	]
 }

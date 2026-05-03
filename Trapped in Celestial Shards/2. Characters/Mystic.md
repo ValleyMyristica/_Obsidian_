@@ -1,4 +1,6 @@
 
+![[2. Characters/Images/mini_mystic.png|80]]
+
 | Name      | Eden       |
 | --------- | ---------- |
 | Cell type | Animal     |

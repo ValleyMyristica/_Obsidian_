@@ -6,6 +6,8 @@ Cell: Protista
 
 
 ## Relationships
+
+### The Stars
 *Sequin's relation with "the stars", its celestial*
 
 Initially listened, was a good kid
@@ -23,3 +25,24 @@ Some angry. Some impressed.
 
 Using what was learned from growing up being hailed as the future leader
 Sequin was able to negotiate with the stars some
+
+
+### [[2. Characters/Mystic|Mystic]]
+Initially didn't care
+But, with the stars *want* 
+And how *incompetent* Mystic can be
+
+Always having to clean up their mess is an annoyance
+*Can't they learn how to do things right?*
+
+"Just stand there. Quiet." Oh, how many times Sequin has said that too them.
+
+
+### [[2. Characters/Side Characters/SE STARS/Sol|Sol]]
+Finds Sol to be *fine*
+Competent enough
+
+
+### [[2. Characters/Saffron|Saffron]]
+Interesting
+One they sometimes tell Mystics *incompetence* too

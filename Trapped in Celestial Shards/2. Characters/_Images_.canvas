@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"12e87a66b0b55888","type":"file","file":"2. Characters/Images/BC_MYSTIC_Final_orgColour.png","x":-340,"y":-550,"width":120,"height":120},
+		{"id":"ceebadd9d7a0d375","x":-340,"y":-600,"width":120,"height":50,"type":"text","text":"[[2. Characters/Mystic|Mystic]]"},
+		{"id":"a67709e602b558e5","type":"file","file":"2. Characters/Images/BC_SAFFRON_Final.png","x":-100,"y":-550,"width":120,"height":120},
+		{"id":"2c753cd141c088f3","x":-100,"y":-600,"width":120,"height":50,"type":"text","text":"[[2. Characters/Saffron|Saffron]]"},
+		{"id":"29685e37559ca458","type":"file","file":"2. Characters/Images/BC_SEQUIN_Final.png","x":140,"y":-550,"width":120,"height":120},
+		{"id":"daab04e111855391","x":140,"y":-600,"width":120,"height":50,"type":"text","text":"[[2. Characters/Sequin|Sequin]]"},
+		{"id":"dec63b2dd78b978e","type":"file","file":"2. Characters/Images/BC_MYSTIC_Final_Blue.png","x":-340,"y":-300,"width":120,"height":120},
+		{"id":"b486696ebfbda623","type":"file","file":"2. Characters/Images/BC_SAFFRON_Final-shadowt.png","x":-100,"y":-300,"width":120,"height":120}
+	],
+	"edges":[
+		{"id":"175e29be6c8f2f6a","fromNode":"a67709e602b558e5","fromSide":"bottom","toNode":"b486696ebfbda623","toSide":"top","label":"Silhouette"},
+		{"id":"892215b2d0cd0fc8","fromNode":"12e87a66b0b55888","fromSide":"bottom","toNode":"dec63b2dd78b978e","toSide":"top","label":"Moon power"}
+	]
+}
