@@ -1,7 +1,5 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "userIgnoreFilters": [
-    "Main Plots/"
-  ]
+  "userIgnoreFilters": null
 }

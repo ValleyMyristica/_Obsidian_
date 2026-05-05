@@ -6,23 +6,20 @@
       {
         "id": "85144ef9518f83ec",
         "type": "tabs",
-        "dimension": 68.23623304070232,
+        "dimension": 64.86068111455108,
         "children": [
           {
             "id": "2f80f06285e1938d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Places/MAP.canvas",
-                "viewState": {
-                  "x": -25,
-                  "y": -83,
-                  "zoom": -0.02343175704114016
-                }
+                "file": "Main Plots/_Mystic Silence/1. The early days/Growing up.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "MAP"
+              "icon": "lucide-file",
+              "title": "Growing up"
             },
             "group": "3583764ffef2cad1"
           }
@@ -31,7 +28,7 @@
       {
         "id": "b0220f3711378e58",
         "type": "tabs",
-        "dimension": 31.763766959297683,
+        "dimension": 35.139318885448915,
         "children": [
           {
             "id": "d2e9680dc556b071",
@@ -39,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Places/MAP.canvas",
+                "file": "Main Plots/_Mystic Silence/1. The early days/Growing up.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -78,11 +75,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.8914715268792585,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MAP"
+              "title": "Graph of Growing up"
             },
             "group": "3583764ffef2cad1"
           }
@@ -143,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324
+    "width": 258.5026054382324
   },
   "right": {
     "id": "4a73887428c11988",
@@ -250,45 +247,45 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
-    "Main Plots/_Eden Reality/Eden Reality notes.md",
-    "1. Places/Island of the lost/Island of the lost.md",
-    "1. Places/MAP.canvas",
-    "1. Places/Island of the lost/The forest.md",
-    "3. Legends/The cat man.md",
-    "1. Places/Island of the lost/The ghost town.md",
-    "2. Characters/Eden.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
+    "Main Plots/_Mystic Silence/1. The early days/Growing up.md",
     "2. Characters/Side Characters/SM SUN/Sunshine.md",
-    "2. Characters/Saffron.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
+    "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
+    "2. Characters/Side Characters/MS MOON/Timber.md",
+    "2. Characters/Side Characters/MS MOON/Mother.md",
+    "2. Characters/Side Characters/MS MOON/Moonlight.md",
     "2. Characters/Sequin.md",
-    "2. Characters/Side Characters/SE STARS/Sol.md",
-    "2. Characters/Mystic.md",
     "2. Characters/_Images_.canvas",
-    "2. Characters/Images/BC_MYSTIC_Final_Blue.png",
+    "2. Characters/Images/mini_sequin.png",
     "2. Characters/Images/mini_saffron.png",
     "2. Characters/Images/mini_mystic.png",
     "2. Characters/Images/mini_eden.png",
-    "2. Characters/Images/mini_sequin.png",
-    "mini_eden.png",
-    "mini_eden 1.png",
-    "mini_saffron 1.png",
-    "mini_mystic 1.png",
-    "mini_sequin 1.png",
+    "2. Characters/Images/BC_SEQUIN_Final.png",
+    "2. Characters/Images/BC_SAFFRON_Final.png",
+    "2. Characters/Images/BC_SAFFRON_Final-shadowt.png",
+    "2. Characters/Images/BC_MYSTIC_Final_orgColour.png",
+    "2. Characters/Images/BC_MYSTIC_Final_Blue.png",
     "2. Characters/Images",
     "3. Legends/Origin.md",
     "3. Legends/REASON.md",
-    "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
-    "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
     "Main Plots/_Mystic Silence/1. The early days/The egg.md",
-    "Main Plots/Mystic Saffron/Am I real.md",
     "3. Legends/The sun.md",
     "Side Stories",
+    "3. Legends/The cat man.md",
     "3. Legends/The moon.md",
+    "1. Places/Island of the lost/The forest.md",
+    "1. Places/MAP.canvas",
     "1. Places/Island of the lost/The town.md",
+    "1. Places/Island of the lost/The ghost town.md",
+    "1. Places/Island of the lost/Island of the lost.md",
     "1. Places/The compound.md",
     "1. Places/The facility.md",
-    "2. Characters/Side Characters/MS MOON/Timber.md",
-    "2. Characters/Side Characters/MS MOON/Moonlight.md",
-    "2. Characters/Side Characters/MS MOON/Mother.md",
+    "2. Characters/Mystic.md",
+    "2. Characters/Side Characters/SE STARS/Sol.md",
+    "2. Characters/Saffron.md",
+    "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
+    "Main Plots/_Mystic Silence/2. The dog days/Sad Moon.md",
     "1. Places/Island of the lost",
     "Main Plots/Untitled.canvas",
     "Main Plots/_Mystic Silence/2. The dog days",
