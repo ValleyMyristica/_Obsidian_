@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/_Mystic Silence/1. The early days/Growing up.md",
+                "file": "Main Plots/_Eden Reality/Eden Reality notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Growing up"
+              "title": "Eden Reality notes"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/_Mystic Silence/1. The early days/Growing up.md",
+                "file": "Main Plots/_Eden Reality/Eden Reality notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Growing up"
+              "title": "Graph of Eden Reality notes"
             },
             "group": "3583764ffef2cad1"
           }
@@ -247,8 +247,11 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
-    "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
+    "3. Legends/REASON.md",
+    "Main Plots/_Mystic Silence/1. The early days/The egg.md",
+    "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
     "Main Plots/_Mystic Silence/1. The early days/Growing up.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
     "2. Characters/Side Characters/SM SUN/Sunshine.md",
     "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
     "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
@@ -268,8 +271,6 @@
     "2. Characters/Images/BC_MYSTIC_Final_Blue.png",
     "2. Characters/Images",
     "3. Legends/Origin.md",
-    "3. Legends/REASON.md",
-    "Main Plots/_Mystic Silence/1. The early days/The egg.md",
     "3. Legends/The sun.md",
     "Side Stories",
     "3. Legends/The cat man.md",
@@ -284,7 +285,6 @@
     "2. Characters/Mystic.md",
     "2. Characters/Side Characters/SE STARS/Sol.md",
     "2. Characters/Saffron.md",
-    "Main Plots/_Mystic Silence/1. The early days/The 'giving'.md",
     "Main Plots/_Mystic Silence/2. The dog days/Sad Moon.md",
     "1. Places/Island of the lost",
     "Main Plots/Untitled.canvas",
