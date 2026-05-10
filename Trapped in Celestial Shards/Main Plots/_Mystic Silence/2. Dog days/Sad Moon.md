@@ -42,4 +42,4 @@ Grip tightens, as if afraid to let go.
 
 
 
-[[Main Plots/_Mystic Silence/2. The dog days/Happy Moon|< Prev]]
+[[Main Plots/_Mystic Silence/2. Dog days/Happy Moon|< Prev]]

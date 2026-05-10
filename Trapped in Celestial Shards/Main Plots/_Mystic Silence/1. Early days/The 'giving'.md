@@ -32,4 +32,4 @@ Big, and slightly soft, she handled it with care.
 "Thank you." She whispered.
 
 
-[[The egg|NEXT >]]
+[[Main Plots/_Mystic Silence/1. Early days/The egg|NEXT >]]
