@@ -1,0 +1,56 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "9xLsmwTRPhiZsGyRMcZ6B",
+      "name": "Mystic",
+      "value": "#a0dcf0"
+    },
+    {
+      "id": "d6iLroduYOxRrWyLVcNQu",
+      "name": "Sequin",
+      "value": "#736eeb"
+    },
+    {
+      "id": "ipH-VecjEBnYdYYtQxsn2",
+      "name": "Saffron",
+      "value": "#ebaafa"
+    },
+    {
+      "id": "govtxuXzR1RnPy0adR4bY",
+      "name": "Eden",
+      "value": "#cbf08e"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "2. Characters/Eden.md",
+      "color": "govtxuXzR1RnPy0adR4bY"
+    },
+    {
+      "path": "2. Characters/Mystic.md",
+      "color": "9xLsmwTRPhiZsGyRMcZ6B"
+    },
+    {
+      "path": "2. Characters/Saffron.md",
+      "color": "ipH-VecjEBnYdYYtQxsn2"
+    },
+    {
+      "path": "2. Characters/Sequin.md",
+      "color": "d6iLroduYOxRrWyLVcNQu"
+    },
+    {
+      "path": "Main Plots/_Eden Reality",
+      "color": "govtxuXzR1RnPy0adR4bY"
+    },
+    {
+      "path": "Main Plots/_Mystic Silence",
+      "color": "9xLsmwTRPhiZsGyRMcZ6B"
+    },
+    {
+      "path": "Main Plots/_Saffron Meadow",
+      "color": "ipH-VecjEBnYdYYtQxsn2"
+    }
+  ]
+}

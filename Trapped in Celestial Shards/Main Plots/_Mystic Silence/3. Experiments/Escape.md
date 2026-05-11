@@ -25,3 +25,8 @@ Feeling like a failure
 Mystic runs off
 Trying to find help
 
+
+That is the day in which Mystic falls silent
+To the moons utter despair
+Wanting to do all
+To rewrite the worlds affair
