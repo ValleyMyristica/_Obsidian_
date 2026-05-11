@@ -1,11 +1,11 @@
-But, the human is sick and hungry
+But, the [[Moonlight|human]] is sick and hungry
 Hurt and needing care
 
 (Underlying issue?)
 
 
 Feeling like a failure
-Mystic runs off
+[[Mystic]] runs off
 Trying to find help
 
 

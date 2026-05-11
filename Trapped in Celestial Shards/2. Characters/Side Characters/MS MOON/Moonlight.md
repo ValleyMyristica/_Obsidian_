@@ -1,4 +1,5 @@
 
-Nickname to the friend [[Mystic]] made in the [[1. Places/The facility]]
+Nickname to the friend [[Mystic]] made in the [[The facility]]
 
-Real name, Alice?
+Real name: Alice
+Age: 24

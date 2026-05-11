@@ -1,5 +1,5 @@
 
-![[2. Characters/Images/mini_mystic.png|80]]
+![[2. Characters/Images/mini_mystic.png|64]]
 
 | Name      | Eden       |
 | --------- | ---------- |

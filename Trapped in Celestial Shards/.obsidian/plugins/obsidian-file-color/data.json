@@ -10,17 +10,42 @@
     {
       "id": "d6iLroduYOxRrWyLVcNQu",
       "name": "Sequin",
-      "value": "#736eeb"
+      "value": "#c3d2ff"
     },
     {
       "id": "ipH-VecjEBnYdYYtQxsn2",
       "name": "Saffron",
-      "value": "#ebaafa"
+      "value": "#ffd7fa"
     },
     {
       "id": "govtxuXzR1RnPy0adR4bY",
       "name": "Eden",
       "value": "#cbf08e"
+    },
+    {
+      "id": "-rBmn_xK0Vi522aqunxm1",
+      "name": "OTHER",
+      "value": "#ffb35c"
+    },
+    {
+      "id": "bzhhp5FTnmNbKBNIMmUrJ",
+      "name": "SubMystic",
+      "value": "#32c3c3"
+    },
+    {
+      "id": "qxHETC2KqtMF-Yls8lJto",
+      "name": "SubSequin",
+      "value": "#736eeb"
+    },
+    {
+      "id": "nOVCWzZKC4Q5EHYgLoNQ4",
+      "name": "SubSaffron",
+      "value": "#be73eb"
+    },
+    {
+      "id": "lS6vQw0u1wthefKwcQOiC",
+      "name": "SubEden",
+      "value": "#5ab95f"
     }
   ],
   "fileColors": [
@@ -51,6 +76,54 @@
     {
       "path": "Main Plots/_Saffron Meadow",
       "color": "ipH-VecjEBnYdYYtQxsn2"
+    },
+    {
+      "path": "Main Plots/Mystic Saffron",
+      "color": "-rBmn_xK0Vi522aqunxm1"
+    },
+    {
+      "path": "Main Plots/_Mystic Silence/1. Early days",
+      "color": "bzhhp5FTnmNbKBNIMmUrJ"
+    },
+    {
+      "path": "Main Plots/_Mystic Silence/2. Dog days",
+      "color": "bzhhp5FTnmNbKBNIMmUrJ"
+    },
+    {
+      "path": "Main Plots/_Mystic Silence/3. Experiments",
+      "color": "bzhhp5FTnmNbKBNIMmUrJ"
+    },
+    {
+      "path": "Main Plots/_Mystic Silence/4. Alice",
+      "color": "bzhhp5FTnmNbKBNIMmUrJ"
+    },
+    {
+      "path": "Main Plots/_Saffron Meadow/1. The begining",
+      "color": "nOVCWzZKC4Q5EHYgLoNQ4"
+    },
+    {
+      "path": "Main Plots/_Saffron Meadow/2. The seperation",
+      "color": "nOVCWzZKC4Q5EHYgLoNQ4"
+    },
+    {
+      "path": "Main Plots/_Saffron Meadow/3. What it takes",
+      "color": "nOVCWzZKC4Q5EHYgLoNQ4"
+    },
+    {
+      "path": "2. Characters/Side Characters/MS MOON",
+      "color": "bzhhp5FTnmNbKBNIMmUrJ"
+    },
+    {
+      "path": "2. Characters/Side Characters/SE STARS",
+      "color": "qxHETC2KqtMF-Yls8lJto"
+    },
+    {
+      "path": "2. Characters/Side Characters/SM SUN",
+      "color": "nOVCWzZKC4Q5EHYgLoNQ4"
+    },
+    {
+      "path": "Main Plots/_Sequin Eyes",
+      "color": "d6iLroduYOxRrWyLVcNQu"
     }
   ]
 }

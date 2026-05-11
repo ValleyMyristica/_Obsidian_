@@ -40,7 +40,8 @@
   "2. Characters/Saffron.md": "CsMiniSaffron",
   "2. Characters/Sequin.md": "CsMiniSequin",
   "Main Plots/_Eden Reality": "CsMiniEden",
-  "Main Plots/_Mystic Silence": "CsMiniMystic",
   "Main Plots/_Saffron Meadow": "CsMiniSaffron",
-  "Main Plots/Mystic Saffron": "LiAperture"
+  "Main Plots/Mystic Saffron": "LiAperture",
+  "Main Plots/_Mystic Silence": "CsMiniMystic",
+  "Main Plots/_Sequin Eyes": "CsMiniSequin"
 }

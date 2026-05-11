@@ -1,5 +1,5 @@
 
-![[2. Characters/Images/mini_eden.png|100]]
+![[2. Characters/Images/mini_eden.png|64]]
 
 | Name      | Eden     |
 | --------- | -------- |

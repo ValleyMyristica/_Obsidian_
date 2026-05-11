@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/Mystic Saffron/Leave..md",
+                "file": "3. Legends/EXTRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leave."
+              "title": "EXTRA"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/Mystic Saffron/Leave..md",
+                "file": "3. Legends/EXTRA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Leave."
+              "title": "Graph of EXTRA"
             },
             "group": "3583764ffef2cad1"
           }
@@ -247,17 +247,32 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
-    "Main Plots/Mystic Saffron/Am I real.md",
-    "Main Plots/Mystic Saffron/Leave..md",
-    "Main Plots/Mystic Saffron/- Short - I don't need you.md",
+    "Main Plots/_Sequin Eyes/Star Story.md",
+    "3. Legends/EXTRA.md",
+    "2. Characters/Side Characters/MS MOON/Timber.md",
+    "Main Plots/_Sequin Eyes",
+    "2. Characters/Side Characters/MS MOON/Mother.md",
+    "2. Characters/Side Characters/MS MOON/Moonlight.md",
+    "2. Characters/Images/BC_SEQUIN_Final.png",
+    "2. Characters/Images/mini_eden.png",
+    "2. Characters/Images/BC_SAFFRON_Final-shadowt.png",
+    "2. Characters/Images/BC_SAFFRON_Final.png",
+    "2. Characters/Images/BC_MYSTIC_Final_orgColour.png",
+    "2. Characters/Images/BC_MYSTIC_Final_Blue.png",
+    "2. Characters/Eden.md",
+    "2. Characters/Mystic.md",
+    "2. Characters/Saffron.md",
+    "2. Characters/Sequin.md",
+    "1. Places/The facility.md",
     "Main Plots/_Mystic Silence/4. Alice/In the forest.md",
+    "Main Plots/Mystic Saffron/Leave..md",
+    "Main Plots/Mystic Saffron/Am I real.md",
+    "Main Plots/Mystic Saffron/- Short - I don't need you.md",
     "Main Plots/_Mystic Silence/3. Experiments/Escape.md",
     "Main Plots/_Mystic Silence/4. Alice",
     "Main Plots/_Mystic Silence/3. Experiments/During.md",
     "Main Plots/_Mystic Silence/3. Experiments/Capture.md",
-    "2. Characters/Mystic.md",
     "Main Plots/_Mystic Silence/3. Experiments",
-    "2. Characters/Eden.md",
     "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
     "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
     "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
@@ -267,25 +282,11 @@
     "Main Plots/_Mystic Silence/1. Early days/The egg.md",
     "Main Plots/_Mystic Silence/1. Early days/The 'giving'.md",
     "Main Plots/_Mystic Silence/1. Early days/Growing up.md",
-    "Main Plots/_Eden Reality/Eden Reality notes.md",
-    "3. Legends/The sun.md",
-    "3. Legends/The moon.md",
-    "3. Legends/The cat man.md",
-    "3. Legends/REASON.md",
-    "3. Legends/Origin.md",
-    "2. Characters/Sequin.md",
-    "2. Characters/Saffron.md",
     "2. Characters/_Images_.canvas",
-    "2. Characters/Images/mini_eden.png",
-    "2. Characters/Images/BC_SAFFRON_Final.png",
-    "2. Characters/Images/BC_MYSTIC_Final_Blue.png",
     "1. Places/MAP.canvas",
     "2. Characters/Images/mini_sequin.png",
     "2. Characters/Images/mini_saffron.png",
     "2. Characters/Images/mini_mystic.png",
-    "2. Characters/Images/BC_SEQUIN_Final.png",
-    "2. Characters/Images/BC_SAFFRON_Final-shadowt.png",
-    "2. Characters/Images/BC_MYSTIC_Final_orgColour.png",
     "2. Characters/Images",
     "Side Stories",
     "1. Places/Island of the lost",

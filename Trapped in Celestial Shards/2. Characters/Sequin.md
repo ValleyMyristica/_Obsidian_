@@ -1,4 +1,5 @@
- 
+
+![[2. Characters/Images/mini_sequin.png|64]]
 Cell: Protista
 
 
