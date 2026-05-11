@@ -14,5 +14,51 @@ Only those seeking guidance and clarity will persist
 A lost one entered, during a rainy day
 What a sorry sight
 
-Lost one went out, gathering dead leaves, moss and decay
+Lost one went out, gathering dead leaves, moss, decay
 Things easy to carry
+
+Presenting it
+For the lost have nothing else to their name
+
+A booming feeling 
+A pressure
+The creeping of **death**
+Fill them
+
+They try to move away
+To run
+
+Yet, the body is frozen in fear
+
+Monsters of pure white approach
+A black obsidian ore is dropped into the pile
+RIPPED from one of the monsters who's body falls like sand
+
+A pile on the floor
+
+All monsters retreat, except the victor
+Who approaches
+
+Closer
+
+Eyes full of fear look at it
+
+It takes hold of the lost ones wrist.
+*It feels like sandpaper.*
+
+Dragging them closer to the pile.
+
+Holding the arm straight up, it takes its other "hand" and *drags* it along the arm.
+*It feels like sandpaper.*
+
+Clenched teeth as skin is scraped off.
+
+It lets go.
+And throws the gathered skin into the pile.
+
+Then, moves away.
+
+Leaving the lost one lost and alone yet again
+Now, even more confused
+Looking at the pile
+

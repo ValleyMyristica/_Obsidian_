@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Legends/EXTRA.md",
+                "file": "Main Plots/_Mystic Silence/4. Alice/In the forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXTRA"
+              "title": "In the forest"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3. Legends/EXTRA.md",
+                "file": "Main Plots/_Mystic Silence/4. Alice/In the forest.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of EXTRA"
+              "title": "Graph of In the forest"
             },
             "group": "3583764ffef2cad1"
           }
@@ -247,7 +247,20 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
+    "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
+    "Main Plots/Mystic Saffron/Leave..md",
+    "Main Plots/Mystic Saffron/Am I real.md",
+    "Main Plots/Mystic Saffron/- Short - I don't need you.md",
     "Main Plots/_Sequin Eyes/Star Story.md",
+    "Main Plots/_Mystic Silence/3. Experiments/3. Escape.md",
+    "Main Plots/_Mystic Silence/3. Experiments/2. During.md",
+    "Main Plots/_Mystic Silence/3. Experiments/1. Capture.md",
+    "Main Plots/_Mystic Silence/1. Early days/2. The egg.md",
+    "Main Plots/_Mystic Silence/1. Early days/3. Growing up.md",
+    "Main Plots/_Mystic Silence/1. Early days/1. The 'giving'.md",
+    "Main Plots/_Mystic Silence/2. Dog days/1. Finding Timber.md",
+    "Main Plots/_Mystic Silence/2. Dog days/2. Happy Moon.md",
+    "Main Plots/_Mystic Silence/2. Dog days/3. Sad Moon.md",
     "3. Legends/EXTRA.md",
     "2. Characters/Side Characters/MS MOON/Timber.md",
     "Main Plots/_Sequin Eyes",
@@ -265,23 +278,10 @@
     "2. Characters/Sequin.md",
     "1. Places/The facility.md",
     "Main Plots/_Mystic Silence/4. Alice/In the forest.md",
-    "Main Plots/Mystic Saffron/Leave..md",
-    "Main Plots/Mystic Saffron/Am I real.md",
-    "Main Plots/Mystic Saffron/- Short - I don't need you.md",
-    "Main Plots/_Mystic Silence/3. Experiments/Escape.md",
     "Main Plots/_Mystic Silence/4. Alice",
-    "Main Plots/_Mystic Silence/3. Experiments/During.md",
-    "Main Plots/_Mystic Silence/3. Experiments/Capture.md",
     "Main Plots/_Mystic Silence/3. Experiments",
-    "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
     "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
     "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
-    "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
-    "Main Plots/_Mystic Silence/2. Dog days/Sad Moon.md",
-    "Main Plots/_Mystic Silence/2. Dog days/Happy Moon.md",
-    "Main Plots/_Mystic Silence/1. Early days/The egg.md",
-    "Main Plots/_Mystic Silence/1. Early days/The 'giving'.md",
-    "Main Plots/_Mystic Silence/1. Early days/Growing up.md",
     "2. Characters/_Images_.canvas",
     "1. Places/MAP.canvas",
     "2. Characters/Images/mini_sequin.png",
