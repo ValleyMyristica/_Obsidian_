@@ -36,6 +36,8 @@ Idea:
 * Insane
 ### End
 * Finally able to just *be*
+* Tries his best to lift others up
+* 
 ## [[Sequin]]
 
 ### Start
