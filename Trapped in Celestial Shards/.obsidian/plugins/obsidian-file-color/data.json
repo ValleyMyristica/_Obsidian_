@@ -46,6 +46,11 @@
       "id": "lS6vQw0u1wthefKwcQOiC",
       "name": "SubEden",
       "value": "#5ab95f"
+    },
+    {
+      "id": "C-Er2hvIIKMCixFgrcbyy",
+      "name": "OTHER2",
+      "value": "#ffeb78"
     }
   ],
   "fileColors": [
@@ -132,6 +137,10 @@
     {
       "path": "2. Characters/Side Characters/ER EARTH",
       "color": "lS6vQw0u1wthefKwcQOiC"
+    },
+    {
+      "path": "Main Plots/Silent Meadow",
+      "color": "C-Er2hvIIKMCixFgrcbyy"
     }
   ]
 }

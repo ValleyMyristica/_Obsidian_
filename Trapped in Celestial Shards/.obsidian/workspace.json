@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/_Sequin Eyes/1. Young/Meeting Saffron.md",
+                "file": "2. Characters/Side Characters/SM SUN/Brother.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting Saffron"
+              "title": "Brother"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/_Sequin Eyes/1. Young/Meeting Saffron.md",
+                "file": "2. Characters/Side Characters/SM SUN/Brother.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Meeting Saffron"
+              "title": "Graph of Brother"
             },
             "group": "3583764ffef2cad1"
           }
@@ -247,15 +247,23 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
+    "2. Characters/Side Characters/SM SUN/Fuchsia and Fern.md",
+    "2. Characters/Side Characters/SM SUN/Brother.md",
+    "2. Characters/Side Characters/SM SUN/Sunshine.md",
+    "Main Plots/Silent Meadow/Night 1.md",
+    "Main Plots/Silent Meadow/The sea.md",
+    "2. Characters/Mystic.md",
+    "Main Plots/Silent Meadow",
+    "Main Plots/_Eden Reality/2. Then it grew bigger.md",
     "Main Plots/_Eden Reality/1. It started small.md",
-    "Main Plots/_Eden Reality/Eden Reality notes.md",
-    "3. Legends/Origin.md",
     "3. Legends/EXTRA.md",
     "2. Characters/Side Characters/MS MOON/Moonlight.md",
+    "Main Plots/_Sequin Eyes/1. Young/Meeting Saffron.md",
+    "Main Plots/_Eden Reality/Eden Reality notes.md",
+    "3. Legends/Origin.md",
     "2. Characters/Side Characters/ER EARTH/Florence.md",
     "2. Characters/_Images_.canvas",
     "Main Plots/_Sequin Eyes/1. Young/With the stars.md",
-    "Main Plots/_Sequin Eyes/1. Young/Meeting Saffron.md",
     "Main Plots/_Sequin Eyes/Star Story.md",
     "Main Plots/_Sequin Eyes/1. Young",
     "Main Plots/Beginning, middle and end.md",
@@ -268,13 +276,6 @@
     "Main Plots/_Mystic Silence/3. Experiments/3. Escape.md",
     "Main Plots/_Mystic Silence/3. Experiments/2. During.md",
     "Main Plots/_Mystic Silence/3. Experiments/1. Capture.md",
-    "Main Plots/_Mystic Silence/1. Early days/2. The egg.md",
-    "Main Plots/_Mystic Silence/1. Early days/3. Growing up.md",
-    "Main Plots/_Mystic Silence/1. Early days/1. The 'giving'.md",
-    "Main Plots/_Mystic Silence/2. Dog days/1. Finding Timber.md",
-    "Main Plots/_Mystic Silence/2. Dog days/2. Happy Moon.md",
-    "Main Plots/_Mystic Silence/2. Dog days/3. Sad Moon.md",
-    "2. Characters/Side Characters/MS MOON/Timber.md",
     "Main Plots/_Sequin Eyes",
     "2. Characters/Images/BC_SEQUIN_Final.png",
     "2. Characters/Images/mini_eden.png",

@@ -1,0 +1,1 @@
+The parents of [[Saffron]], or close enough. More the guardians of the flower of with he grew. They grew attached to a little kid who kept wanting to visit the temple. Finally letting the kid come freely after trying for so long.

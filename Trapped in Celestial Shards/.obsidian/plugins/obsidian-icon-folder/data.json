@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFlower",
+      "LiActivity",
       "CsMiniSequin",
       "CsMiniSaffron",
-      "CsMiniMystic",
-      "CsMiniEden",
-      "LiAperture"
+      "CsMiniMystic"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,7 +41,8 @@
   "2. Characters/Sequin.md": "CsMiniSequin",
   "Main Plots/_Eden Reality": "CsMiniEden",
   "Main Plots/_Saffron Meadow": "CsMiniSaffron",
-  "Main Plots/Mystic Saffron": "LiAperture",
+  "Main Plots/Mystic Saffron": "LiFlower",
   "Main Plots/_Mystic Silence": "CsMiniMystic",
-  "Main Plots/_Sequin Eyes": "CsMiniSequin"
+  "Main Plots/_Sequin Eyes": "CsMiniSequin",
+  "Main Plots/Silent Meadow": "LiActivity"
 }

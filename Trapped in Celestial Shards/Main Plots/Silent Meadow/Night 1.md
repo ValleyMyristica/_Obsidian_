@@ -1,0 +1,1 @@
+Confusion, that was all there was. Confusion. Screaming. Trying to think but all feels like static.

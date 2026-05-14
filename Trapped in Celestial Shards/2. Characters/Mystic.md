@@ -19,3 +19,9 @@
 | Angle      | Anger           | 19     | it        | All that frustration boiled into one, no filter, blunt and won't hold back.                                                                                |
 
 Extra: Mizuki
+
+
+Note
+* Mystic didn't experience the sea
+  Only lived close to it when they were so young they didn't remember
+
