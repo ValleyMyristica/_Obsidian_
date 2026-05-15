@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFlower",
-      "LiActivity",
-      "CsMiniSequin",
-      "CsMiniSaffron",
-      "CsMiniMystic"
+      "LiMap",
+      "LiStarHalf",
+      "LiLibrary",
+      "LiChessPawn",
+      "LiFlower"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "1. Places": "LiAperture",
+  "1. Places": {
+    "iconName": "LiMap",
+    "iconColor": "#00ff00"
+  },
   "2. Characters/Eden.md": "CsMiniEden",
   "2. Characters/Mystic.md": "CsMiniMystic",
   "2. Characters/Saffron.md": "CsMiniSaffron",
@@ -44,5 +47,17 @@
   "Main Plots/Mystic Saffron": "LiFlower",
   "Main Plots/_Mystic Silence": "CsMiniMystic",
   "Main Plots/_Sequin Eyes": "CsMiniSequin",
-  "Main Plots/Silent Meadow": "LiActivity"
+  "Main Plots/Silent Meadow": "LiActivity",
+  "2. Characters": {
+    "iconName": "LiChessPawn",
+    "iconColor": "#00ffff"
+  },
+  "3. Legends": {
+    "iconName": "LiLibrary",
+    "iconColor": "#ff00ff"
+  },
+  "Main Plots": {
+    "iconName": "LiStarHalf",
+    "iconColor": "#ffff00"
+  }
 }

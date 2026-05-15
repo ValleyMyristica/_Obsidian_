@@ -1,4 +1,4 @@
-Someone was lost without guidance
+[[2. Characters/Side Characters/SE STARS/Alexander|Someone]] was lost without guidance
 Went to the hall of white flowing sand
 Seeking to know
 Seeking to find

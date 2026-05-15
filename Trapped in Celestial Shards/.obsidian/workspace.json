@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Characters/Side Characters/SM SUN/Brother.md",
+                "file": "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brother"
+              "title": "The beginings"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Characters/Side Characters/SM SUN/Brother.md",
+                "file": "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Brother"
+              "title": "Graph of The beginings"
             },
             "group": "3583764ffef2cad1"
           }
@@ -245,10 +245,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f80f06285e1938d",
+  "active": "ce15d5e68113059e",
   "lastOpenFiles": [
-    "2. Characters/Side Characters/SM SUN/Fuchsia and Fern.md",
+    "2. Characters/Side Characters/SE STARS/Alexander.md",
+    "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
+    "Main Plots/_Sequin Eyes/2. Young/With the stars.md",
+    "Main Plots/_Sequin Eyes/2. Young/Meeting Saffron.md",
+    "2. Characters/Sequin.md",
+    "1. Places/Island of the lost/Island of the lost.md",
+    "3. Legends/EXTRA.md",
+    "Main Plots/_Sequin Eyes/1. Background/Star Story.md",
+    "Main Plots/_Sequin Eyes/1. Background",
+    "2. Characters/Side Characters/ER EARTH/Florence.md",
+    "2. Characters/Side Characters/MS MOON/Moonlight.md",
+    "2. Characters/Side Characters/MS MOON/Mother.md",
+    "2. Characters/Side Characters/MS MOON/Timber.md",
+    "3. Legends/Origin.md",
+    "3. Legends/REASON.md",
+    "2. Characters/Eden.md",
     "2. Characters/Side Characters/SM SUN/Brother.md",
+    "2. Characters/Side Characters/SM SUN/Fuchsia and Fern.md",
     "2. Characters/Side Characters/SM SUN/Sunshine.md",
     "Main Plots/Silent Meadow/Night 1.md",
     "Main Plots/Silent Meadow/The sea.md",
@@ -256,26 +272,11 @@
     "Main Plots/Silent Meadow",
     "Main Plots/_Eden Reality/2. Then it grew bigger.md",
     "Main Plots/_Eden Reality/1. It started small.md",
-    "3. Legends/EXTRA.md",
-    "2. Characters/Side Characters/MS MOON/Moonlight.md",
-    "Main Plots/_Sequin Eyes/1. Young/Meeting Saffron.md",
     "Main Plots/_Eden Reality/Eden Reality notes.md",
-    "3. Legends/Origin.md",
-    "2. Characters/Side Characters/ER EARTH/Florence.md",
     "2. Characters/_Images_.canvas",
-    "Main Plots/_Sequin Eyes/1. Young/With the stars.md",
-    "Main Plots/_Sequin Eyes/Star Story.md",
-    "Main Plots/_Sequin Eyes/1. Young",
+    "Main Plots/_Sequin Eyes/2. Young",
     "Main Plots/Beginning, middle and end.md",
     "Main Plots/Index.md",
-    "Main Plots/_Mystic Silence/4. Alice/In the forest.md",
-    "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
-    "Main Plots/Mystic Saffron/Leave..md",
-    "Main Plots/Mystic Saffron/Am I real.md",
-    "Main Plots/Mystic Saffron/- Short - I don't need you.md",
-    "Main Plots/_Mystic Silence/3. Experiments/3. Escape.md",
-    "Main Plots/_Mystic Silence/3. Experiments/2. During.md",
-    "Main Plots/_Mystic Silence/3. Experiments/1. Capture.md",
     "Main Plots/_Sequin Eyes",
     "2. Characters/Images/BC_SEQUIN_Final.png",
     "2. Characters/Images/mini_eden.png",
@@ -293,7 +294,6 @@
     "Side Stories",
     "1. Places/Island of the lost",
     "Main Plots/Untitled.canvas",
-    "Main Plots/_Mystic Silence/2. Dog days",
-    "2. Characters/Side Characters/ER EARTH"
+    "Main Plots/_Mystic Silence/2. Dog days"
   ]
 }

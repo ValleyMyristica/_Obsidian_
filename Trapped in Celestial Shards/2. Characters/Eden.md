@@ -8,3 +8,5 @@
 | Celestial | Earth    |
 Pretty chill
 Just wants you to calm down a little
+
+Though, has a slight dislike for the stars, and by extension [[Sequin]]
