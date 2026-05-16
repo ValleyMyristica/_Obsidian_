@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
+                "file": "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The beginings"
+              "title": "3. Joining the cult"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
+                "file": "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The beginings"
+              "title": "Graph of 3. Joining the cult"
             },
             "group": "3583764ffef2cad1"
           }
@@ -245,10 +245,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ce15d5e68113059e",
+  "active": "2f80f06285e1938d",
   "lastOpenFiles": [
-    "2. Characters/Side Characters/SE STARS/Alexander.md",
+    "Main Plots/_Mystic Silence/1. Early days/4. Growing up.md",
+    "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
     "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
+    "2. Characters/Side Characters/SE STARS/Alexander.md",
     "Main Plots/_Sequin Eyes/2. Young/With the stars.md",
     "Main Plots/_Sequin Eyes/2. Young/Meeting Saffron.md",
     "2. Characters/Sequin.md",
@@ -275,8 +277,6 @@
     "Main Plots/_Eden Reality/Eden Reality notes.md",
     "2. Characters/_Images_.canvas",
     "Main Plots/_Sequin Eyes/2. Young",
-    "Main Plots/Beginning, middle and end.md",
-    "Main Plots/Index.md",
     "Main Plots/_Sequin Eyes",
     "2. Characters/Images/BC_SEQUIN_Final.png",
     "2. Characters/Images/mini_eden.png",
