@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
+                "file": "Main Plots/_Mystic Silence/1. Early days/1. The 'giving'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Joining the cult"
+              "title": "1. The 'giving'"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
+                "file": "Main Plots/_Mystic Silence/1. Early days/1. The 'giving'.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 3. Joining the cult"
+              "title": "Graph of 1. The 'giving'"
             },
             "group": "3583764ffef2cad1"
           }
@@ -247,8 +247,17 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
-    "Main Plots/_Mystic Silence/1. Early days/4. Growing up.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/Time.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
+    "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
+    "Main Plots/Silent Meadow/Night 1.md",
+    "Main Plots/Silent Meadow/The sea.md",
+    "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
+    "Main Plots/_Mystic Silence/3. Experiments/3. Escape.md",
+    "3. Legends/The sun.md",
+    "3. Legends/The moon.md",
     "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
+    "Main Plots/_Mystic Silence/1. Early days/4. Growing up.md",
     "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
     "2. Characters/Side Characters/SE STARS/Alexander.md",
     "Main Plots/_Sequin Eyes/2. Young/With the stars.md",
@@ -265,16 +274,7 @@
     "3. Legends/Origin.md",
     "3. Legends/REASON.md",
     "2. Characters/Eden.md",
-    "2. Characters/Side Characters/SM SUN/Brother.md",
-    "2. Characters/Side Characters/SM SUN/Fuchsia and Fern.md",
-    "2. Characters/Side Characters/SM SUN/Sunshine.md",
-    "Main Plots/Silent Meadow/Night 1.md",
-    "Main Plots/Silent Meadow/The sea.md",
-    "2. Characters/Mystic.md",
     "Main Plots/Silent Meadow",
-    "Main Plots/_Eden Reality/2. Then it grew bigger.md",
-    "Main Plots/_Eden Reality/1. It started small.md",
-    "Main Plots/_Eden Reality/Eden Reality notes.md",
     "2. Characters/_Images_.canvas",
     "Main Plots/_Sequin Eyes/2. Young",
     "Main Plots/_Sequin Eyes",
