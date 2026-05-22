@@ -21,10 +21,10 @@ But unsure of what is wanted
 Though, seeing how the stars created a representative
 Thinks that might be what should be done?
 
-Then, a [[2. Characters/Side Characters/MS MOON/Mother|mother]] pleads for a child
+Then, a [[2. Characters/Side Characters/MS MOON/Mama|mother]] pleads for a child
 And with the help of the dragon child
 They both granted the wish 
-Giving the [[2. Characters/Side Characters/MS MOON/Mother|mother]] a [[2. Characters/Mystic|child]]
+Giving the [[2. Characters/Side Characters/MS MOON/Mama|mother]] a [[2. Characters/Mystic|child]]
 
 
 As for the stars?

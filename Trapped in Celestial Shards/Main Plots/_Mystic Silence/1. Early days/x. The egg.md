@@ -1,4 +1,4 @@
-[[Mother|She]] cared for the egg
+[[2. Characters/Side Characters/MS MOON/Mama|She]] cared for the egg
 As if it was the only thing worth living for
 
 People didn't understand

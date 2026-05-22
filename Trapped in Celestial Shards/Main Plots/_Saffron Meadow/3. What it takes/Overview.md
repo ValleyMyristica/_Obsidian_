@@ -32,7 +32,7 @@
 * He's **FINE**
 
 He even took in that *person* that the victim tried to save and care for, gave it a home.
-'Why won't the guilt go away?'*
+*'Why won't the guilt go away?'*
 
 He hated it.
 SO **MUCH.**
