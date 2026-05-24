@@ -80,4 +80,3 @@ A little larvae, reminiscent of fluffy dog with scales came through.
 It was so *[[Mystic|mystical]]* she couldn't help but look at it with awe.
 
 
-[[Main Plots/_Mystic Silence/1. Early days/1. The 'giving'|< PREV]]
