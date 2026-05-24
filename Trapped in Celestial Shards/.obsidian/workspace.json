@@ -6,7 +6,7 @@
       {
         "id": "85144ef9518f83ec",
         "type": "tabs",
-        "dimension": 64.86068111455108,
+        "dimension": 72.57318952234206,
         "children": [
           {
             "id": "2f80f06285e1938d",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/_Sequin Eyes/2. Young/Meeting Mystic.md",
+                "file": "2. Characters/Mystic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting Mystic"
+              "title": "Mystic"
             },
             "group": "3583764ffef2cad1"
           }
@@ -28,7 +28,7 @@
       {
         "id": "b0220f3711378e58",
         "type": "tabs",
-        "dimension": 35.139318885448915,
+        "dimension": 27.426810477657938,
         "children": [
           {
             "id": "d2e9680dc556b071",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/_Sequin Eyes/2. Young/Meeting Mystic.md",
+                "file": "2. Characters/Mystic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Meeting Mystic"
+              "title": "Graph of Mystic"
             },
             "group": "3583764ffef2cad1"
           }
@@ -247,18 +247,17 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
-    "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
-    "Main Plots/_Sequin Eyes/2. Young/Meeting Mystic.md",
-    "Main Plots/_Sequin Eyes/1. Background/Star Story.md",
-    "Main Plots/_Mystic Silence/1. Early days/4. Growing up.md",
-    "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
-    "Main Plots/Silent Meadow/Night -.md",
-    "Main Plots/_Sequin Eyes/2. Young/Meeting Saffron.md",
-    "Main Plots/Silent Meadow/Night 1.md",
     "Main Plots/_Mystic Silence/1. Early days/2. The 'hatching'.md",
     "Main Plots/_Mystic Silence/1. Early days/1. The 'giving'.md",
-    "2. Characters/Side Characters/MS MOON/Mama.md",
+    "Main Plots/_Mystic Silence/5. Nightmares/Night 1.md",
+    "Main Plots/Silent Meadow/Night 1.md",
+    "Main Plots/_Mystic Silence/5. Nightmares",
+    "Main Plots/Silent Meadow/Night -.md",
+    "Main Plots/_Mystic Silence/1. Early days/4. Growing up.md",
+    "Main Plots/_Sequin Eyes/2. Young/Meeting Mystic.md",
     "Main Plots/_Mystic Silence/1. Early days/x. The egg.md",
+    "2. Characters/Side Characters/MS MOON/Mama.md",
+    "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
     "3. Legends/The moon.md",
     "Main Plots/_Mystic Silence/4. Alice/In the forest.md",
     "Main Plots/_Mystic Silence/3. Experiments/3. Escape.md",
@@ -266,13 +265,15 @@
     "Main Plots/Silent Meadow/The sea.md",
     "Main Plots/Mystic Saffron/- Short - I don't need you.md",
     "1. Places/Island of the lost/The forest.md",
+    "Main Plots/_Sequin Eyes/1. Background/Star Story.md",
+    "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
+    "Main Plots/_Sequin Eyes/2. Young/Meeting Saffron.md",
     "Main Plots/_Sequin Eyes/2. Young/With the stars.md",
     "Main Plots/Beginning, middle and end.md",
     "Main Plots/_Mystic Silence/1. Early days/3. Growing up.md",
     "2. Characters/Side Characters/SE STARS/Alexander.md",
     "2. Characters/Sequin.md",
     "1. Places/Island of the lost/Island of the lost.md",
-    "3. Legends/EXTRA.md",
     "Main Plots/_Sequin Eyes/1. Background",
     "Main Plots/Silent Meadow",
     "2. Characters/_Images_.canvas",
@@ -293,7 +294,6 @@
     "2. Characters/Images",
     "Side Stories",
     "1. Places/Island of the lost",
-    "Main Plots/Untitled.canvas",
-    "Main Plots/_Mystic Silence/2. Dog days"
+    "Main Plots/Untitled.canvas"
   ]
 }

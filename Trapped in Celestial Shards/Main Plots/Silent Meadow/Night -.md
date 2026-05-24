@@ -87,8 +87,10 @@ They lean on him.
 
 "Something painless, please."
 
-It takes him a few moments.
+A few quiet moments.
 
 He sighs.
 
-"Okay. I'll make it quick."
+"I'll make it quick."
+
+A little nod, accepting their fate.
