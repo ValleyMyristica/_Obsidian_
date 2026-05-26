@@ -60,7 +60,7 @@ Then. They can feel the weight of a blanket fall onto them.
 
 "Stay quiet." He tells them off, looking out at the deep cold waves again.
 
-Quietly, they wrap the blanket around themself. Sitting up, watching the waves with him. It's like a cloudy day. Ready to burst with rain. A booming quiet. Heavy in the air.
+Quietly, they wrap the blanket around themself. Sitting up, watching the waves with him. Like it's a cloudy day. Ready to burst with rain. A booming quiet. Heavy in the air.
 
 ' *He's having a bad day.* ' 
 
