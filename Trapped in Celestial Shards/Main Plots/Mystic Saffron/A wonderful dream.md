@@ -367,6 +367,4 @@ He gets out of bed.
 
 "I..." The door starts to utter. "I love you too." 
 
-"W- What?"
-
-But, all he is met with, is the quiet.
+*W- What?*
