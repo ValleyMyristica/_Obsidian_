@@ -174,7 +174,7 @@ Wide eyes. "Quiet." They *always* say that. "I don't like lies." He always tells
 
 "But..." They try to think. "Why did you do it?"
 
-"I..." Turning away. "I *wanted* to keep him-" Squeezing his own arm. "Safe." He let's fall out.
+"I..." Turning away. "I *wanted* to keep him-" Squeezing his own arm. "Safe." He lets fall out.
 
 "That's nice though?"
 
@@ -182,7 +182,7 @@ Wide eyes. "Quiet." They *always* say that. "I don't like lies." He always tells
 
 "Huh?"
 
-"I..." To many memories, of all the bad he's done. And, he's done so much bad. Hurting everyone that he comes in contact with. He's truly embodies all the negative parts of the sun. Hurting all who stay for too long. Melting the wax wings of all who try to reach him. Watching them fall, and hit the solid ground.
+"I..." To many memories, of all the bad he's done. And, he's done so much bad. Hurting everyone that he comes in contact with. Truly the embodiment of all the sun's negative parts. Hurting all who stay for too long. Melting the wax wings of all who try to reach him. Watching them fall, and hit the solid ground.
 
 Pat.
 
@@ -230,7 +230,7 @@ Smiling at them happily. "You're always so cute." Starting to lead the way.
 
 "I- I am?"
 
-"Yeah." At this point, he can't imagine how he ever saw them as a threat.
+"Yeah." At this point, he can't believe how he ever saw them as a threat.
 
 "You..." Following along. "You're amazing." Fidgeting with their paws. 
 
@@ -244,13 +244,13 @@ He turns around. "We're here."
 
 "Your room." Opening the door. Same room as they lived in before he got this second chance.
 
-They walk in, looking around, taking note of the double bed. "Will- Will you also be sleeping here?"
+They walk in, looking around, taking note of the big big bed. "Will- Will you also be sleeping here?"
 
 "I have my own room, this is yours."
 
 "But... why is there a double bed then?"
 
-"Cause it's soft and so you have a place to put all your plushies?" 
+"Cause it's soft, and so you have a place to put all your plushies?" 
 
 "I don't... have any plushies?"
 
@@ -291,9 +291,6 @@ Thinking they're asleep, he mutters the feelings he rarely dares tell, cause, in
 "I-" They weren't asleep.
 
 <center>᚛         RRRRRRRRIIIIIIIIIIIINNNNNNNNNNNNGGGGGGGG         ᚜</center>
-
-What a rude awakening.
-His alarm sure is-
 
 No.
 
