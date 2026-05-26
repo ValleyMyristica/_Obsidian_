@@ -284,7 +284,9 @@ They pat the bed.
 
 He sits down and starts to read.
 
-Thinking they're asleep, he mutters the feelings he rarely dares tell, cause, in the first timeline, he wouldn't deserve them loving him back. After all the horrible things he's done. They deserve someone kind, someone caring, someone **good**. Someone who isn't a monster like him. Though, maybe in this timeline? Maybe with this second chance? He can... 
+Then.
+
+Thinking they're asleep, he mutters the feelings he rarely dares tell, cause, in the first timeline, he doesn't deserve them loving him back. After all the horrible things he's done. They deserve someone kind, someone caring, someone **good**. Someone who isn't a monster like him. Though, maybe in this timeline? Maybe with this second chance? He can... 
 
 "I..." Averting his eyes somewhat. "I love you." *Always.*
 
@@ -344,7 +346,7 @@ Damnit...
 
 "Bad?"
 
-"Nothing I couldn't handle." He reassures. "Don't worry." He tries to reassure at least.
+"Nothing I couldn't handle." He reassures. "Don't worry." He *tries* to reassure at least.
 
 "Mmm... can I... come in?"
 
