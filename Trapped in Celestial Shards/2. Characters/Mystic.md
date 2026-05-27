@@ -26,3 +26,26 @@ Note
 * Mystic didn't experience the sea
   Only lived close to it when they were so young they didn't remember
 
+
+Changes
+* Orb
+  > The orb on their chest gets broken on the piano night, it becomes the physical representative of **Reverent**
+  > 
+* Eye 
+  >Initially messed up from the research facility. (Should there be an alt for that?) Then after they got attacked by the parasite in one of the dreams. The parasite started to reside in the eye, becoming the physical representation of **Parasite**
+  > 
+* Wings (+ missing attenne?)
+> Their pretty lunar wings get cut and ripped. Giving way for anger in the form of angle.
+> 
+* Arms
+> After messing up the arms, ripping them off and forcing them to be eaten. Leaving only two viable arms to die with. The missing arms become a physical representation of **Cotton**. One who is a copy of Saffron.
+> 
+* Furry tail + furry body
+> Skinning the tail and forcing it to become fluffy. All to make them more *pretty*. He treats them like a pet, resulting in this one practical acting more like a little pet.
+> 
+* Missing attenne 
+ >Ripped out and poured salt into that wound. Almost got crushed and that was the only thing caught. 
+
+
+Boney back from blood eagle?
+
