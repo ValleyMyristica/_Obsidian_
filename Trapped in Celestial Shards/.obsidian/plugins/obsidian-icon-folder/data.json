@@ -47,7 +47,6 @@
   "Main Plots/Mystic Saffron": "LiFlower",
   "Main Plots/_Mystic Silence": "CsMiniMystic",
   "Main Plots/_Sequin Eyes": "CsMiniSequin",
-  "Main Plots/Silent Meadow": "LiActivity",
   "2. Characters": {
     "iconName": "LiChessPawn",
     "iconColor": "#00ffff"
@@ -59,5 +58,6 @@
   "Main Plots": {
     "iconName": "LiStarHalf",
     "iconColor": "#ffff00"
-  }
+  },
+  "Main Plots/Meadow Silence": "LiActivity"
 }
