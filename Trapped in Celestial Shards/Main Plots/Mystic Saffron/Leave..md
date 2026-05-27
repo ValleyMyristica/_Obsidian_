@@ -23,5 +23,11 @@ They curl up, like a ball on the sofa.
 
 "Maybe it would be better if-"
 
-"No."
+"No." Claws digging into their furry arms. "You always say you don't like me." Holding their voice. "So..." Taking a breath to keep voice steady. "You can leave."
+
+"Mystic..."
+
+Quiet.
+
+"I don't mind leaving." Taking a step towards them. "If that's what *you* want."
 
