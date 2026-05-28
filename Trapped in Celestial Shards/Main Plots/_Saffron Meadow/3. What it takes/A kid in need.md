@@ -9,7 +9,7 @@ But... *someone* really wants them to...
 
 So, with a soft little blow.
 
-*'I wish to make dad proud.'* The kid tells in mind, and maybe a whisper is let through.
+*'I wish to make mom proud.'* The kid tells in mind, and maybe a whisper is let through.
 
 
 *The kid reminds you of someone.*
