@@ -12,6 +12,16 @@ A neglected girl with a rich mom who seems far more concerned about how others *
 
 
 
+Plays the violin, it's a pain, but she does it
+She has some interest in mythology and stuff and the one instrument she _wants_ to play, is the lyre
+
+Her sport is tennis, she wanted a sport, that's what she got
+It's not really the most fun, but it *can* be nice
+If it wasn't for all that pressure...
+
+
+
+
 
 
 
