@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/_Saffron Meadow/3. What it takes/1. Meeting the sun.md",
+                "file": "Main Plots/Meadow Silence/The sea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Meeting the sun"
+              "title": "The sea"
             },
             "group": "3583764ffef2cad1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/_Saffron Meadow/3. What it takes/1. Meeting the sun.md",
+                "file": "Main Plots/Meadow Silence/The sea.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1. Meeting the sun"
+              "title": "Graph of The sea"
             },
             "group": "3583764ffef2cad1"
           }
@@ -247,6 +247,10 @@
   },
   "active": "2f80f06285e1938d",
   "lastOpenFiles": [
+    "2. Characters/Side Characters/MS MOON/Moonlight.md",
+    "2. Characters/Side Characters/MS MOON/Mama.md",
+    "2. Characters/Side Characters/ER EARTH/Florence.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/1. Meeting the sun.md",
     "Main Plots/_Saffron Meadow/3. What it takes/Overview.md",
     "Main Plots/_Eden Reality/1. It started small.md",
     "Main Plots/_Eden Reality/2. Then it grew bigger.md",
@@ -258,7 +262,6 @@
     "Main Plots/_Mystic Silence/1. Early days/2. The 'hatching'.md",
     "Main Plots/_Mystic Silence/1. Early days/1. The 'giving'.md",
     "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
-    "Main Plots/_Saffron Meadow/3. What it takes/1. Meeting the sun.md",
     "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
     "2. Characters/Side Characters/SM SUN/Sunshine.md",
     "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
@@ -270,9 +273,6 @@
     "2. Characters/Side Characters/SM SUN/Sister.md",
     "2. Characters/Side Characters/SM SUN/Fuchsia and Fern.md",
     "Main Plots/_Mystic Silence/1. Early days/4. Growing up.md",
-    "Main Plots/Mystic Saffron/A wonderful dream.md",
-    "Main Plots/Mystic Saffron/Am I real.md",
-    "Main Plots/Mystic Saffron/Leave..md",
     "Main Plots/_Mystic Silence/5. Nightmares",
     "Main Plots/_Sequin Eyes/1. Background",
     "Main Plots/Meadow Silence",
