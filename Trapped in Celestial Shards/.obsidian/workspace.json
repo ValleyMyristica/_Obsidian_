@@ -14,16 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plots/Meadow Silence/The sea.md",
+                "file": "Main Plots/_Saffron Meadow/3. What it takes/1. Meeting the sun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The sea"
+              "title": "1. Meeting the sun"
             },
             "group": "3583764ffef2cad1"
+          },
+          {
+            "id": "49356d31019246a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A kid in need"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b0220f3711378e58",
@@ -36,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Plots/Meadow Silence/The sea.md",
+                "file": "Main Plots/_Saffron Meadow/3. What it takes/1. Meeting the sun.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +94,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The sea"
+              "title": "Graph of 1. Meeting the sun"
             },
             "group": "3583764ffef2cad1"
           }
@@ -245,34 +260,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f80f06285e1938d",
+  "active": "49356d31019246a6",
   "lastOpenFiles": [
+    "Main Plots/_Sequin Eyes/2. Young/Meeting Saffron.md",
+    "Main Plots/_Sequin Eyes/2. Young/Meeting Mystic.md",
+    "Main Plots/_Sequin Eyes/1. Background/Star Story.md",
+    "Main Plots/_Sequin Eyes/1. Background/The beginings.md",
+    "Magic.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/1. Meeting the sun.md",
+    "2. Characters/Side Characters/SM SUN/Sunshine.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
+    "Main Plots/_Saffron Meadow/3. What it takes/Overview.md",
+    "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
+    "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
+    "Main Plots/_Mystic Silence/5. Nightmares/Night 1.md",
+    "Main Plots/Meadow Silence/Night 1.md",
+    "Main Plots/_Mystic Silence/1. Early days/4. Growing up.md",
+    "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
+    "Main Plots/_Mystic Silence/1. Early days/1. The 'giving'.md",
+    "Main Plots/_Eden Reality/1. It started small.md",
+    "Main Plots/Meadow Silence/The sea.md",
     "2. Characters/Side Characters/MS MOON/Moonlight.md",
     "2. Characters/Side Characters/MS MOON/Mama.md",
     "2. Characters/Side Characters/ER EARTH/Florence.md",
-    "Main Plots/_Saffron Meadow/3. What it takes/1. Meeting the sun.md",
-    "Main Plots/_Saffron Meadow/3. What it takes/Overview.md",
-    "Main Plots/_Eden Reality/1. It started small.md",
     "Main Plots/_Eden Reality/2. Then it grew bigger.md",
     "Main Plots/_Mystic Silence/3. Experiments/3. Escape.md",
     "Main Plots/_Mystic Silence/3. Experiments/2. During.md",
     "Main Plots/_Mystic Silence/3. Experiments/1. Capture.md",
     "Main Plots/_Mystic Silence/2. Dog days/1. Finding Timber.md",
-    "Main Plots/_Mystic Silence/1. Early days/3. Joining the cult.md",
-    "Main Plots/_Mystic Silence/1. Early days/2. The 'hatching'.md",
-    "Main Plots/_Mystic Silence/1. Early days/1. The 'giving'.md",
-    "Main Plots/_Saffron Meadow/2. The seperation/- Dribble -.md",
-    "Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
-    "2. Characters/Side Characters/SM SUN/Sunshine.md",
-    "Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
-    "Main Plots/_Mystic Silence/4. Alice/In the forest.md",
-    "Main Plots/_Eden Reality/Eden Reality notes.md",
-    "3. Legends/The cat man.md",
-    "3. Legends/The moon.md",
-    "3. Legends/The sun.md",
-    "2. Characters/Side Characters/SM SUN/Sister.md",
-    "2. Characters/Side Characters/SM SUN/Fuchsia and Fern.md",
-    "Main Plots/_Mystic Silence/1. Early days/4. Growing up.md",
     "Main Plots/_Mystic Silence/5. Nightmares",
     "Main Plots/_Sequin Eyes/1. Background",
     "Main Plots/Meadow Silence",
