@@ -18,9 +18,9 @@ Looking at their small little paws.
 "And." It's a soft touch. 
 "You're **real**."
 
-"How can I be real?" They ask of the pretty eyes.
+"How can I be real?" They ask of void eyes.
 
-"How do you want me to answer that?" The face looks kind, pretty eyes.
+"How do you want me to answer that?" The face looks kind, pretty void eyes.
 
 "Honest?"
 
@@ -34,7 +34,7 @@ Looking at their small little paws.
 
 "You're real." Rubbing his thumb over the hand he's holding. "This is real." 
 
-"How can you be sure?" Pulling away.
+"How can you be sure?" Mystic pulls away.
 
 "I can't." Blunt. "But." He stands up. "I think it's real enough." He gives them a snickering smile, one they're so happy to see. "Don't you agree?"
 
