@@ -1,0 +1,1 @@
+An big power outage and later Dib finds Zim lifeless in his base.

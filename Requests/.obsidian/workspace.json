@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Gravity falls - Aladdin AU"
             }
+          },
+          {
+            "id": "3209016b4a4cafea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gravity falls - Aladdin AU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gravity falls - Aladdin AU"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "268f0333232bf35f",
+  "active": "3209016b4a4cafea",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Invader Zim.md",
     "Gravity falls - Aladdin AU.md",
+    "Welcome.md",
     "Untitled.md",
     "Untitled"
   ]
