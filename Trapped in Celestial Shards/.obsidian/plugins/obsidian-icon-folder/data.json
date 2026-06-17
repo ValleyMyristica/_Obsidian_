@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⭐",
+      "LiStar",
       "LiMap",
       "LiStarHalf",
-      "LiLibrary",
-      "LiChessPawn",
-      "LiFlower"
+      "LiLibrary"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,11 +42,6 @@
   "2. Characters/Mystic.md": "CsMiniMystic",
   "2. Characters/Saffron.md": "CsMiniSaffron",
   "2. Characters/Sequin.md": "CsMiniSequin",
-  "Main Plots/_Eden Reality": "CsMiniEden",
-  "Main Plots/_Saffron Meadow": "CsMiniSaffron",
-  "Main Plots/Mystic Saffron": "LiFlower",
-  "Main Plots/_Mystic Silence": "CsMiniMystic",
-  "Main Plots/_Sequin Eyes": "CsMiniSequin",
   "2. Characters": {
     "iconName": "LiChessPawn",
     "iconColor": "#00ffff"
@@ -55,9 +50,15 @@
     "iconName": "LiLibrary",
     "iconColor": "#ff00ff"
   },
-  "Main Plots": {
+  "4. Main Plots": {
     "iconName": "LiStarHalf",
     "iconColor": "#ffff00"
   },
-  "Main Plots/Meadow Silence": "LiActivity"
+  "4. Main Plots/Meadow Silence": "LiActivity",
+  "4. Main Plots/Mystic Saffron": "LiFlower",
+  "4. Main Plots/_Mystic Silence": "CsMiniMystic",
+  "4. Main Plots/_Eden Reality": "CsMiniEden",
+  "4. Main Plots/_Saffron Meadow": "CsMiniSaffron",
+  "4. Main Plots/_Sequin Eyes": "CsMiniSequin",
+  "Final Writings": "⭐"
 }
