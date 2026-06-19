@@ -6,14 +6,13 @@ They're trying hard to create a friend.
 
 # Recipe
 A wish has taken form
-Words spoken out loud
-The words
-They weave, such a pretty sight
+Words spoken loud
+Weaving a pretty sight
 Taking the magic
 Dimming the light
 
 A core is in hand
-Which gives new form
+Which gives form
 To the lifeless sand
 
 A form white as snow,
@@ -22,14 +21,8 @@ With gems of blue
 And bloom of flame
 The lifeless form is given a name
 
-It is here for you aid
-It is here to assist
-It is here with gratitude
+**Gratia.**
 
-It is here
-As a friend, made a new
-
-It is here
-As a friend, all for you
-
-Now then, what are they to do?
+Here for you aid
+Here to assist
+Here. With gratitude.

@@ -6,7 +6,6 @@
       {
         "id": "85144ef9518f83ec",
         "type": "tabs",
-        "dimension": 72.57318952234206,
         "children": [
           {
             "id": "2f80f06285e1938d",
@@ -20,8 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "1. Meeting the sun"
-            },
-            "group": "3583764ffef2cad1"
+            }
           },
           {
             "id": "49356d31019246a6",
@@ -29,76 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Writings/Saffron Meadow/Saffron Meadow Ch.1.md",
+                "file": "Final Writings/Saffron Meadow/1. Meeting the sun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saffron Meadow Ch.1"
+              "title": "1. Meeting the sun"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "b0220f3711378e58",
-        "type": "tabs",
-        "dimension": 27.426810477657938,
-        "children": [
-          {
-            "id": "d2e9680dc556b071",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Final Writings/Saffron Meadow/1. Meeting the sun.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:\"2. Characters\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5420768
-                      }
-                    },
-                    {
-                      "query": "path:\"1. Places\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7726563600865789,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of 1. Meeting the sun"
-            },
-            "group": "3583764ffef2cad1"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Characters/Side Characters/SE STARS/Sol.md",
+                "file": "Final Writings/Saffron Meadow/1. Meeting the sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sol"
+              "title": "Backlinks for 1. Meeting the sun"
             }
           },
           {
@@ -246,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 724.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,35 +199,35 @@
   },
   "active": "49356d31019246a6",
   "lastOpenFiles": [
-    "Final Writings/Saffron Meadow/1. Meeting the sun.md",
     "Final Writings/Saffron Meadow/Saffron Meadow Ch.1.md",
+    "Final Writings/Saffron Meadow/1. Meeting the sun.md",
+    "Final Writings/Saffron Meadow/_Chapter Overview.md",
+    "2. Characters/Sequin.md",
+    "2. Characters/Saffron.md",
+    "2. Characters/Eden.md",
+    "2. Characters/Side Characters/ER EARTH/Florence.md",
+    "4. Main Plots/Mystic Saffron/Leave..md",
+    "4. Main Plots/Mystic Saffron/Am I real.md",
+    "4. Main Plots/Mystic Saffron/- Short - I don't need you.md",
+    "4. Main Plots/Mystic Saffron/A wonderful dream.md",
+    "4. Main Plots/Meadow Silence/Night -.md",
+    "4. Main Plots/_Eden Reality/2. Then it grew bigger.md",
+    "4. Main Plots/_Eden Reality/1. It started small.md",
+    "4. Main Plots/_Eden Reality/Eden Reality notes.md",
     "4. Main Plots/_Saffron Meadow/3. What it takes/Overview.md",
     "4. Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
     "Final Writings/Saffron Meadow",
     "Final Writings/Eden Reality",
     "Final Writings",
     "4. Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
-    "4. Main Plots/_Eden Reality/1. It started small.md",
     "4. Main Plots/_Mystic Silence/3. Experiments/3. Escape.md",
     "4. Main Plots/_Mystic Silence/3. Experiments/2. During.md",
     "4. Main Plots/_Mystic Silence/3. Experiments/1. Capture.md",
-    "4. Main Plots/_Eden Reality/2. Then it grew bigger.md",
-    "2. Characters/Sequin.md",
-    "2. Characters/Saffron.md",
     "2. Characters/Mystic.md",
-    "2. Characters/Eden.md",
     "2. Characters/Side Characters/SM SUN/Sister.md",
     "2. Characters/Side Characters/SM SUN/Sunshine.md",
     "2. Characters/Side Characters/SM SUN/Fuchsia and Fern.md",
     "2. Characters/Side Characters/SE STARS/Sol.md",
-    "2. Characters/Side Characters/SE STARS/Alexander.md",
-    "2. Characters/Side Characters/MS MOON/Timber.md",
-    "2. Characters/Side Characters/MS MOON/Mama.md",
-    "2. Characters/Side Characters/ER EARTH/Florence.md",
-    "Magic.md",
-    "4. Main Plots/_Eden Reality/Eden Reality notes.md",
-    "4. Main Plots/_Eden Reality/Game Notes.md",
-    "2. Characters/░ QnA ░.md",
     "4. Main Plots/_Mystic Silence/5. Nightmares",
     "4. Main Plots/_Sequin Eyes/1. Background",
     "4. Main Plots/Meadow Silence",
