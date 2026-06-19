@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f80f06285e1938d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Plots/_Saffron Meadow/3. What it takes/1. Meeting the sun.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Meeting the sun"
-            }
-          },
-          {
             "id": "49356d31019246a6",
             "type": "leaf",
             "state": {
@@ -35,8 +21,23 @@
               "title": "1. Meeting the sun"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "85202d5c5e6b2fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f80f06285e1938d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Characters/Side Characters/SE STARS/Sol.md",
+                "file": "Final Writings/Saffron Meadow/1. Meeting the sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sol"
+              "title": "Outgoing links from 1. Meeting the sun"
             }
           },
           {
@@ -171,20 +172,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Characters/Side Characters/SE STARS/Sol.md",
+                "file": "Final Writings/Saffron Meadow/1. Meeting the sun.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sol"
+              "title": "Outline of 1. Meeting the sun"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 724.5
+    "width": 724.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
