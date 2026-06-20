@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Writings/Saffron Meadow/1. Meeting the sun.md",
+                "file": "Final Writings/Saffron Meadow/Saffron Meadow Ch.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Meeting the sun"
+              "title": "Saffron Meadow Ch.1"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Writings/Saffron Meadow/1. Meeting the sun.md",
+                "file": "Final Writings/Saffron Meadow/Saffron Meadow Ch.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Meeting the sun"
+              "title": "Backlinks for Saffron Meadow Ch.1"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final Writings/Saffron Meadow/1. Meeting the sun.md",
+                "file": "Final Writings/Saffron Meadow/Saffron Meadow Ch.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Meeting the sun"
+              "title": "Outgoing links from Saffron Meadow Ch.1"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Writings/Saffron Meadow/1. Meeting the sun.md",
+                "file": "Final Writings/Saffron Meadow/Saffron Meadow Ch.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Meeting the sun"
+              "title": "Outline of Saffron Meadow Ch.1"
             }
           }
         ],
@@ -202,9 +202,14 @@
   },
   "active": "49356d31019246a6",
   "lastOpenFiles": [
-    "Final Writings/Saffron Meadow/Saffron Meadow Ch.1.md",
     "Final Writings/Saffron Meadow/1. Meeting the sun.md",
+    "Final Writings/Saffron Meadow/Saffron Meadow Ch.1.md",
     "Final Writings/Saffron Meadow/_Chapter Overview.md",
+    "4. Main Plots/_Saffron Meadow/_Saffron display of character.md",
+    "4. Main Plots/_Sequin Eyes/2. Young/With the stars.md",
+    "4. Main Plots/_Saffron Meadow/3. What it takes/Overview.md",
+    "4. Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
+    "4. Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
     "2. Characters/Sequin.md",
     "2. Characters/Saffron.md",
     "2. Characters/Eden.md",
@@ -217,20 +222,15 @@
     "4. Main Plots/_Eden Reality/2. Then it grew bigger.md",
     "4. Main Plots/_Eden Reality/1. It started small.md",
     "4. Main Plots/_Eden Reality/Eden Reality notes.md",
-    "4. Main Plots/_Saffron Meadow/3. What it takes/Overview.md",
-    "4. Main Plots/_Saffron Meadow/3. What it takes/A kid in need.md",
     "Final Writings/Saffron Meadow",
     "Final Writings/Eden Reality",
     "Final Writings",
-    "4. Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
     "4. Main Plots/_Mystic Silence/3. Experiments/3. Escape.md",
     "4. Main Plots/_Mystic Silence/3. Experiments/2. During.md",
     "4. Main Plots/_Mystic Silence/3. Experiments/1. Capture.md",
     "2. Characters/Mystic.md",
     "2. Characters/Side Characters/SM SUN/Sister.md",
     "2. Characters/Side Characters/SM SUN/Sunshine.md",
-    "2. Characters/Side Characters/SM SUN/Fuchsia and Fern.md",
-    "2. Characters/Side Characters/SE STARS/Sol.md",
     "4. Main Plots/_Mystic Silence/5. Nightmares",
     "4. Main Plots/_Sequin Eyes/1. Background",
     "4. Main Plots/Meadow Silence",
