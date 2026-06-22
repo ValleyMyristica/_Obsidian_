@@ -1,3 +1,38 @@
+
+The cold.
+**Brutal** and indifferent.
+
+The winter snow treats everyone the same.
+
+Come.
+
+Unprepared, and you perish in it's claws.
+Ripped to shreds, leaving clothing scattered.
+
+Come.
+
+Prepared, and it might let you be.
+Only leave you with a memory.
+
+Come.
+
+Seeking death, and it will happily grant it.
+
+
+
+--- OR ---
+
+Carved with sand and water, a place for rest. 
+
+You may seek guidance.
+You may seek shelter.
+
+But, you are not to demand.
+
+
+
+--- OR ---
+
 [[2. Characters/Side Characters/SE STARS/Alexander|Someone]] was lost without guidance
 Went to the hall of white flowing sand
 Seeking to know
@@ -61,4 +96,6 @@ Then, moves away.
 Leaving the lost one lost and alone yet again
 Now, even more confused
 Looking at the pile
+
+
 
