@@ -209,7 +209,65 @@ It's quite a pretty cave. Full of intricate details. It felt ancient, yet new, a
 
 "Yeah." Which is why it should be monetized. If it's able to bring in enough money then maybe...
 
-""
+"So, my theory is that whatever is at the end her is alive and willing to grant wishes to all those pure of heart. And, I think this is proof, it's so well kept, there has to be a reason. I'm sure the creature is an intelligent being! Wouldn't you like to met it?"
+
+Looking at Jonathan as if he's an idiot. *Maybe 'jo-jo' is a fitting name.* Seems just as smart as what that would indicate. Can't even see the bigger picture. How useful this could be. People are fools who will pay to see what they can't comprehend.
+
+"I know it sounds a bit far-fetched, but that's why I wanted to come and explore here." Moving further in. "I... I know it sounds stupid, but... I thought it could help me." 
+
+"Money problems?"
+
+"Kinda... it's more... my sister really needs help. She did something... stupid... and... I just want her to have a place to feel safe. She's living with me right now, but it's too cramped and I..." Shaking his head. Turning to Alex. "I just want to help!" Full of determination.
+
+"Okay." Smiling. *Useful.* "I think I know something that could help."
+
+"Really?!" Happy like a golden waving it's tail.
+
+"Yeah." Going forward, placing his hand on Jo-jo's shoulder. "This place isn't well known right? Well, how about we come up with a plan to *make* it well known?"
+
+"Oh! That sounds nice!" Then people can come together and help each other.
+
+"Are you dense or just dumb?"
+
+"What?"
+
+"Jonathan. Listen."
+
+Nod. Nod. Egger.
+
+"We can charge people money to go here, that way you can earn enough to take care of your sister."
+
+"I don't... know..." 
+
+"You care about your sister, don't you?"
+
+"Of course, I just think there are better ways. Like, I do have a job, I just like exploring on the side. Help's me clear my mind. And it's nice to see what's out there."
+
+"And wouldn't it be nice to encourage others to do the same?"
+
+"But, they *can* do it."
+
+"Yet, it's only us here. Isn't it?"
+
+"That's... true..."
+
+"Well, I recommend you think about it at least." Moving forward. Going deeper. 
+
+"Okay!" Following after. "But, for now, let's explore a little and then head back. I promised my sister I'd be back before dark."
+
+"Sure." Thoughts more on this possible new business adventure. *This one **won't** fail.* 
+
+--- --- --- DIVIDER --- --- ---
+
+Further in, rivers of white sand flows with blue flowers that burn to the touch growing through cracks or rock and black obsidian. Looking up, feeling as if it's the night sky shining. It's a pretty sight, making one ponder how it could have stayed hidden for so long. It's clear there in knowledge about it's existence.
+
+Or, maybe the fool is a lucky one?
+
+"It's so pretty." The lucky fool says, walking further, finally reaching a big hall, so big, it's as if the whole mountain has been hollowed out.
+
+"Yeah." *This is even better than imagined.* Thinks the *useful* one. 
+
+The two walk further in, admiring the pretty sights.
 
 
 
