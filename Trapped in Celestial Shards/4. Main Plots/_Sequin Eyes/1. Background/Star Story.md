@@ -19,6 +19,68 @@ Come.
 Seeking death, and it will happily grant it.
 
 
+**Come.**
+
+
+And enjoy the quiet.
+The crisp sound of snow compressing under your sturdy boots.
+As each step shuffles more snow around.
+So fluffy it is. Like a cold blanket in which you can lay.
+
+Aren't your steps heavy?
+Doesn't your heart ache?
+Don't you just want to **drown** in the soft winter snow?
+
+Lay down.
+
+Close your eyes.
+
+Doesn't it feel warm?
+Isn't it nice here?
+
+You can lay for as long as you'd like.
+We'll always accept you.
+We won't judge you.
+
+Come.
+
+"Hello?"
+
+Don't listen.
+
+"Are you okay?"
+
+Make them leave.
+
+"Hi?"
+
+They can't save you.
+
+"You really shouldn't be here. Not dressed like that at least. Are you okay?"
+
+No. Don't look at them.
+
+"Hey."
+
+"H..e..y..."
+
+"Right. How long have you been out here?" Trying to warm the other up.
+
+"Idonow." With a weak shrug.
+
+"Well, let's get you somewhere... less in the open..."
+
+
+--- --- --- DIVIDER --- --- ---
+
+"Here?"
+
+
+
+
+
+
+
 
 --- OR ---
 
