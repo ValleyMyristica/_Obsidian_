@@ -66,7 +66,7 @@ No. Don't look at them.
 
 "Right. How long have you been out here?" Trying to warm the other up.
 
-"Idonow." With a weak shrug.
+"Idonow." A weak shrug.
 
 "Well, let's get you somewhere... less in the open..."
 
@@ -75,11 +75,149 @@ No. Don't look at them.
 
 "Here?"
 
+"Mmm..." Steps feel heavy. **Cold.**
+
+"I was actually planning on going here, it's said that in ancient times, people would go here seeking guidance."
+
+"..."
+
+"But... I guess you don't really care about that?"
+
+"I..." Looking around with tired eyes. It looks like some ancient cave, can still go further in, and, looking towards the entrance, can still see the snow falling slowly outside. Mesmerizing. Eyes closing.
+
+"Hey! Hey! Don't fall asleep on me now. It's still cold. And the middle of the day." Trying to joke while setting up a portable kitchen of sorts. "Plus, aren't you hungry?"
+
+"Mm?" 
+
+"I have some food I brought, we can share, doesn't that sound good?"
+
+"..."
+
+"I brought a pretty big portion, so I think it'll be fine."
+
+"I see..."
+
+"You're hungry, right?"
+
+"Yeah..."
+
+"Great! And how are you feeling?"
+
+"Cold."
+
+"Fair. What were you doing outside without the proper gear? It's a nice day, but... like... it's still winter. It's very cold."
+
+"..." Gaze shifts away.
+
+"It's okay." All set up. "As I said, it's a nice day." starting it up and putting some butter in a pan. "So, it would be sad to waste it, right?"
+
+"Yeah..."
+
+"Exactly!" Sitting down by cold ones side. "Would you like me to warm you up?"
+
+Looking away.
+
+"Dude, you need it." Giving a hug. Sharing warmth. 
+
+Sharing cold.
+
+"Wow. You're really cold." 
+
+"Yeah." In more ways than one. Maybe that's why everyone left? Maybe that's why there is no one around that cares? What's so good about pretending to be happy anyway? The world is horrible and cruel. What's so wrong with simply following along?
+
+"But, don't you worry, I got you!"
+
+"I can see that."
+
+"Oh? Is that a joke I hear? Maybe you're really warming up to me?" Joking back with a audible smile.
+
+"Maybe." It wasn't really a joke...
+
+"Oh! Right! Forgot to ask, do you have a name?"
+
+"No." 
+
+"Really?"
+
+"It was a joke." See. **That** is a joke. "Call me Alexander."
+
+"Can I call you Alex?"
+
+"Why did you ask for my name if you were just going to change it?"
+
+"I- Uh- Just thought a nickname would be nice. My friends sometimes call me Jo-Jo, they say it's cause I always go back and fort, forgetting and remembering stuff. But I think it started because another friend of mine had a yo-yo and I wanted to try it out, but I got really tangled up in it. Said I was *'one with the yo-yo'*, I like them all, but man..."
+
+"Uh huh." Not really listening.
+
+"I'm Jonathan, by the way."
+
+"Good to know."
+
+"And, I can call you Alexander if you'd like."
+
+"Doesn't matter."
+
+"Sure..." Getting up to put all the stuff in the pan.
+
+Quiet.
+
+"You know, after the food, how about we go further into the cave? I wanted to explore, this is why I came here, but-"
+
+"Sure."
+
+"You sure?"
+
+"Sure about what?"
+
+"About going further in?" *Isn't that what the 'sure' meant??*
+
+"I guess we can do that." It's either that or resting in the snow.
+
+"Cool!" Poking at the food. "Also, is there anything you're allergic to or like that?"
+
+"No."
+
+"Got ya." Working on the food. Making sure it's well cooked, putting everything in the pan and stirring it around. Letting the aroma fill the entrance of the intricate cave, while preparing a plate and keeping an eye on the food. "I'm not the greatest cook, but I hope it's too your liking." Pouring some of the food on the plate.
+
+"I think it's satisfactory." Feeling the hunger build and claw.
+
+"You should say that *after* you've had a taste." Giving the plate and a fork. "Here."
+
+"Alright." Taking the food. Giving it a taste.
+
+"Was it alright?"
+
+"It quells the hunger."
+
+"Guess that's something." Eating straight from the pan. 
+
+"You did good with the tools you've been allotted."
+
+"Heh. Thanks man." Smiling happily like a fool.
+
+--- --- --- DIVIDER --- --- ---
+
+"Feeling ready to explore?"
+
+"Sure."
+
+Everything was packed up. The two were rearing to go! Well, *one* of them where. The other is more along for the ride.
+
+It's quite a pretty cave. Full of intricate details. It felt ancient, yet new, as if someone was in charge of upkeep. Who would care about that? Who would pay for that? It's just a stupid cave. How much would it even cost? Is this some sort of tourist attraction during the summer? Doesn't feel like it, considering the lack of signs. It just... looks like an oddly taken care of cave. "Why?" Looking around more.
+
+"Oh! You're interested?" Quickly coming to the others side. "It's very pretty isn't it?"
+
+"Yeah." Which is why it should be monetized. If it's able to bring in enough money then maybe...
+
+""
 
 
 
 
 
+
+Notes:
+*Inheritance is a scary thing.*
 
 
 --- OR ---
