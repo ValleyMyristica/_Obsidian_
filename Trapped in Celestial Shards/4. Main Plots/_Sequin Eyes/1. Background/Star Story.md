@@ -296,9 +296,17 @@ Heavy breaths, moving towards the exits of this forsaken cave. What a fool, want
 
 The exit is near, can see the harsh whites outside. Looking cruel and cold. As if the flakes will cut and bring you down to your core. Leaving nothing but a shell. **Can't go outside.** It's a clear death sentence. *As if that room wasn't one.* 
 
-Stopping. Feeling the cold creeping. Clawing at the walls, **waiting**, for his moment of weakness, when he's close enough, so it may dig those claws in and **never** let go.
+Stopping. Feeling the cold creeping. Clawing at the walls, **waiting**, for his moment of weakness, when he's close enough, so it may dig those claws in and **never** let go. Dragging him out and forcing into that slumber he once sought.
 
-You can't go 
+You can't go outside.
+
+Not without proper clothing.
+
+And, looking back, there are some proper clothing back there.
+And, it's not like anyone is using them. Anymore...
+
+
+
 
 
 
