@@ -71,7 +71,8 @@ No. Don't look at them.
 "Well, let's get you somewhere... less in the open..."
 
 
---- --- --- DIVIDER --- --- ---
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
 
 "Here?"
 
@@ -195,7 +196,9 @@ Quiet.
 
 "Heh. Thanks man." Smiling happily like a fool.
 
---- --- --- DIVIDER --- --- ---
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
 
 "Feeling ready to explore?"
 
@@ -221,7 +224,7 @@ Looking at Jonathan as if he's an idiot. *Maybe 'jo-jo' is a fitting name.* Seem
 
 "Okay." Smiling. *Useful.* "I think I know something that could help."
 
-"Really?!" Happy like a golden waving it's tail.
+"Really?!" Happy like a golden waving its tail.
 
 "Yeah." Going forward, placing his hand on Jo-jo's shoulder. "This place isn't well known right? Well, how about we come up with a plan to *make* it well known?"
 
@@ -241,7 +244,7 @@ Nod. Nod. Egger.
 
 "You care about your sister, don't you?"
 
-"Of course, I just think there are better ways. Like, I do have a job, I just like exploring on the side. Help's me clear my mind. And it's nice to see what's out there."
+"Of course, I just think there are better ways. Like, I do have a job, I just like exploring on the side. Helps me clear my mind. And it's nice to see what's out there."
 
 "And wouldn't it be nice to encourage others to do the same?"
 
@@ -257,9 +260,11 @@ Nod. Nod. Egger.
 
 "Sure." Thoughts more on this possible new business adventure. *This one **won't** fail.* 
 
---- --- --- DIVIDER --- --- ---
 
-Further in, rivers of white sand flows with blue flowers that burn to the touch growing through cracks or rock and black obsidian. Looking up, feeling as if it's the night sky shining. It's a pretty sight, making one ponder how it could have stayed hidden for so long. It's clear there in knowledge about it's existence.
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+
+Further in, rivers of white sand flows with blue flowers that burn to the touch growing through cracks of different white rocks. Looking up, feeling as if it's the night sky shining, black obsidian was covering the celling. It's a pretty sight, making one ponder how it could have stayed hidden for so long. It's clear there in knowledge about it's existence.
 
 Or, maybe the fool is a lucky one?
 
@@ -267,9 +272,31 @@ Or, maybe the fool is a lucky one?
 
 "Yeah." *This is even better than imagined.* Thinks the *useful* one. 
 
-The two walk further in, admiring the pretty sights.
+The two walk further in, admiring the pretty sights. Jonathan first, taking the lead, so mesmerized and in awe. While Alexander slowly walks after, more admiring his own thoughts. Only to be brought out by something white flashing before his eyes.
 
+*Odd.* 
 
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+**Terror.**
+
+Fear.
+
+Steps echo in pain as blood drips from fresh cuts. 
+
+*It wasn't my fault.*
+
+*It wasn't my fault.*
+
+*It was the fools fault.* 
+
+*It **wasn't** my fault.*
+
+Heavy breaths, moving towards the exits of this forsaken cave. What a fool, wanting to go deeper. It's his own fault. *I'm not to blame.* Never to blame. **Never.**
+
+The exit is near, can see the harsh whites outside. Looking cruel and cold. As if the flakes will cut and bring you down to your core. Leaving nothing but a shell. **Can't go outside.** It's a clear death sentence. *As if that room wasn't one.* 
+
+Stopping. Feeling the cold creeping. As if clawing at the walls, **waiting**, for his moment of weakness, when he's close enough, to dig 
 
 
 
