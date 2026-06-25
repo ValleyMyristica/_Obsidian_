@@ -305,6 +305,23 @@ Not without proper clothing.
 And, looking back, there are some proper clothing back there.
 And, it's not like anyone is using them. Anymore...
 
+"No." There is a clear danger in going back. There are other ways. Maybe just resting here, maybe waiting for a rescue? The fool said he had promised to be home before night, right? That means people will come searching-
+
+*Oh no.* A slow realization creeping in.
+
+They're sure to think he killed Jonathan.
+They'll force him to say what happened.
+
+*They'll think I'm insane.*
+
+He- He can't stay here!
+Looking back and forth between two horrible decisions. Staying, with murder charges approaching.  Leaving as is, getting what he now regrets asking for, the cold soft embrace of a snowy death. Or, finally, going back, dragging the fools body so he can strip it of its warm clothes and steal them for a final escape. 
+
+Nothing sounded good.
+
+Nothing sounded ideal.
+
+But, starting to move back, one path sounded the least painful.
 
 
 
