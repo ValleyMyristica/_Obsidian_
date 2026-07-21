@@ -9,3 +9,12 @@
 
 **[[Eden]]:** "Does it matter if the outcome was the same as always?"
 
+
+
+
+> Aesthetic for each
+
+**[[Saffron]]:**  Sunny Meadow
+**[[Mystic]]:**   Moon Water
+**[[Sequin]]:**   Star Space
+**[[Eden]]:**      Earthly Forest
