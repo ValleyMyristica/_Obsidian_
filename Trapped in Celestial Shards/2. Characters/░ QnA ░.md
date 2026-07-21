@@ -11,10 +11,11 @@
 
 
 
+> Sillies for each
 
-> Aesthetic for each
-
-**[[Saffron]]:**  Sunny Meadow
-**[[Mystic]]:**   Moon Water
-**[[Sequin]]:**   Star Space
-**[[Eden]]:**      Earthly Forest
+| Subject         | Aesthetic      | Shape    | Season |
+| --------------- | -------------- | -------- | ------ |
+| **[[Sequin]]**  | Star Space     | Star     | Spring |
+| **[[Saffron]]** | Sunny Meadow   | Triangle | Summer |
+| **[[Eden]]**    | Earthly Forest | Square   | Fall   |
+| **[[Mystic]]**  | Moon Water     | Circle   | Winter |
