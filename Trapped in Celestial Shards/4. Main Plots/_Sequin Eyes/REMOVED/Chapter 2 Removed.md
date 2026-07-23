@@ -93,3 +93,54 @@ How can it be a wall???
 He pats the wall, checking around. 
 
 Maybe he just took a wrong turn? Maybe it's just further this way? 
+
+
+
+
+
+.
+.
+.
+.
+.
+.
+
+
+
+
+
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+It's haunting. The moments. The thoughts. He just wants it all out of his mind. 
+
+But it stays, haunted while awake, haunted while asleep. 
+
+"You should try and confront your fear."
+
+Every help he tries to find seems to tell.
+
+Stupid.
+
+Yet, at this point, what options does he have? What is there left that he can do? Maybe... maybe it would be worth it? He could even get a TV crew involved, make it a sceptical. Plus, if there is one think he knows, it's how to get others to do what you want them to.
+
+So. He calls. And, despite their *annoying* reluctance, they agree.  It's thankful that things can be so easy when you know what to say, like your last name. *Ah, yes, he's my father.* HAH!
+
+All he has to do is go down to the station. Urgh. He's about to give them the story of a lifetime and they can't be bothered to escort him? How *cheap*.
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+It's a wall.
+
+They went all this way.
+
+And.
+
+There is no cave to be found.
+
+That- That can't be? Was it all in his mind? No. 
+No. No. No.
+
+"And you're *sure* you met saw him around here."
+
+"**When** did I say I saw him?!" Turning around with more visceral than intended. "I-" Taking a step back. Steady now. "I recall there being something around here, thought there might be a cave."
