@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Main Plots/_Sequin Eyes/REMOVED/Chapter 2 Removed.md",
+                "file": "Final Writings/Sequin Eyes/2. Returning to them.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 Removed"
+              "title": "2. Returning to them"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5026054382324
+    "width": 258.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "4a73887428c11988",
@@ -187,12 +190,12 @@
   "active": "49356d31019246a6",
   "lastOpenFiles": [
     "Final Writings/Sequin Eyes/2. Returning to them.md",
+    "4. Main Plots/_Sequin Eyes/REMOVED/Chapter 2 Removed.md",
     "Final Writings/Sequin Eyes/1. Meeting the stars.md",
     "Final Writings/Saffron Meadow/1. Meeting the sun.md",
     "2. Characters/Mystic.md",
     "4. Main Plots/Meadow Silence/I'll still remember.md",
     "4. Main Plots/Meadow Silence/The sea.md",
-    "4. Main Plots/_Sequin Eyes/REMOVED/Chapter 2 Removed.md",
     "4. Main Plots/_Mystic Silence/2. Dog days/1. Finding Timber.md",
     "4. Main Plots/_Mystic Silence/1. Early days/x. The egg.md",
     "4. Main Plots/_Mystic Silence/1. Early days/4. Growing up.md",
