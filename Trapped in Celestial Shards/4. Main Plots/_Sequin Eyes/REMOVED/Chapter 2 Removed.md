@@ -1,5 +1,58 @@
 
 
+**Bad news:** Alexander was able to get a job and can luckily still live where he used to. 
+
+It's a worthless restaurant job. A waiter, the lowest of the low. Well, at least he's not some cleaning lady. He'll get out of it though. He won't keep it for long. He just needs a little bit of the money. Then he'll quit and make it big. This time he'll succeed.
+
+
+**Good news:** The search has ended.
+
+So, there is nothing to worry about. Everyone has given up. **Everyone.** No more bothersome news about how it's all going. No more pleading for someone with information to reach out. No more intrusive thoughts telling him to give up or give in. No more.
+
+Maybe now he'll be able to sleep at night.
+
+He'd like to believe that, but - looking at his bed - he can't help but feel as if he's lying to himself.
+
+But.
+
+Looking at the *borrowed* clothing.
+
+Something about the whole ordeal had to be true, else he wouldn't have these clothes. For, his memory wouldn't lie to him. If there one thing he can trust. It's himself.
+
+**Staring** at the clothing.
+
+As if they could disappear if he looked away. He reaches for them, taking hold of the jacket. It's in his hand. It's solid. It's there. He brings it closer. And, *smells* it. 
+
+████.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 it *is* pretty weird. Well, not *that* weird, people pretend to be kind all the time. Just wanting their face to be seen so that they can make a quick buck looking *charitable*. It's *sickening*. Let the idiots be idiots if they want. **He's** not going back at the very least. **Never**. He's never going back.
