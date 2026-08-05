@@ -1,3 +1,60 @@
+"No."
+
+"What?" Bored, and starting to feel slightly annoyed.
+
+"It's not obvious."
+
+"Are you blind?"
+
+"I actually see pretty well with my glasses." Smiling.
+
+"Yeah. Okay." He gets up. "Have fun believing in your fantasy." What a waste of time. He leaves.
+
+""
+
+
+
+
+
+
+
+
+
+"Sir, do you have a favorite colour?" She starts to follow.
+
+"Where did that come from?"
+
+"I can imagine you don't have one."
+
+"Why bother asking then?"
+
+"Maybe you need some colour in your life?"
+
+Eyeing her up and down. "And *where* would I find that colour?"
+
+"On a hike!" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **Bad news:** Alexander was able to get a job and can luckily still live where he used to. 
