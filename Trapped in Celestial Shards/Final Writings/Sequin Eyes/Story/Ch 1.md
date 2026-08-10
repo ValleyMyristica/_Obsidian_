@@ -1,0 +1,1 @@
+Glistening snow. Sparkling stars. A pretty night.

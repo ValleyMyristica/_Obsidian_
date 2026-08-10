@@ -323,7 +323,7 @@ Nothing sounded ideal.
 
 But, starting to move back, one path sounded the least painful.
 
-[[Final Writings/Sequin Eyes/1. Meeting the stars|1. Meeting the stars]]
+[[Final Writings/Sequin Eyes/PreStory - Falling for the stars/1. Meeting the stars|1. Meeting the stars]]
 
 
 

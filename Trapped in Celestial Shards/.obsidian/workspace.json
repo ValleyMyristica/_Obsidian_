@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Writings/Sequin Eyes/2. Returning to the stars.md",
+                "file": "Final Writings/Sequin Eyes/Story/Ch 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Returning to the stars"
+              "title": "Ch 1"
             }
           }
         ]
@@ -186,13 +186,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "49356d31019246a6",
+  "active": "ce15d5e68113059e",
   "lastOpenFiles": [
-    "Final Writings/Sequin Eyes/1.5 The in-between.md",
-    "Final Writings/Sequin Eyes/2. Returning to the stars.md",
-    "Final Writings/Sequin Eyes/_Chapter Overview.md",
+    "Final Writings/Sequin Eyes/PreStory - Falling for the stars/2. Returning to the stars.md",
+    "Final Writings/Sequin Eyes/Story/Ch 1.md",
+    "Final Writings/Sequin Eyes/Story",
+    "Final Writings/Sequin Eyes/PreStory - Falling for the stars/_Chapter Overview.md",
+    "Final Writings/Sequin Eyes/PreStory - Falling for the stars",
+    "Final Writings/Sequin Eyes/PreStory - Falling for the stars/1.5 The in-between.md",
     "4. Main Plots/_Sequin Eyes/REMOVED/Chapter 2 Removed.md",
-    "Final Writings/Sequin Eyes/1. Meeting the stars.md",
+    "Final Writings/Sequin Eyes/PreStory - Falling for the stars/1. Meeting the stars.md",
     "Final Writings/Saffron Meadow/1. Meeting the sun.md",
     "2. Characters/Mystic.md",
     "4. Main Plots/Meadow Silence/I'll still remember.md",
@@ -230,10 +233,7 @@
     "Final Writings/Sequin Eyes",
     "4. Main Plots/_Sequin Eyes/1. Background/The beginings.md",
     "2. Characters/Sequin.md",
-    "2. Characters/Side Characters/SM SUN/Sunshine.md",
     "Final Writings/Saffron Meadow",
-    "Final Writings/Eden Reality",
-    "Final Writings",
     "2. Characters/_Images_.canvas",
     "1. Places/MAP.canvas",
     "Main Plots/Untitled.canvas"
