@@ -37,3 +37,8 @@ A deep sigh, one of disappointment, one of repeating facts that never change. An
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
 ㅤ
 ㅤ
+One is the brightest. A star on earth shingling clear in pretty white contrasting the pretty night. Leading others to find the *right* light. Looking towards the sky for guidance. The stars, the sun and the dim moon. Like an angel. That is the simple truth. An angel, a gift.
+
+
+
+""
