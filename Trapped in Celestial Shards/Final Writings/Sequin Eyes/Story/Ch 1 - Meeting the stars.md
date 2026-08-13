@@ -1,4 +1,3 @@
-
 The cold.
 **Brutal** and indifferent.
 
@@ -6,7 +5,7 @@ The winter snow treats everyone the same.
 
 Come.
 
-Unprepared, and you perish in it's claws.
+Unprepared, and you perish in its claws.
 Ripped to shreds, leaving clothing scattered.
 
 Come.
@@ -17,10 +16,10 @@ Only leave you with a memory.
 Come.
 
 Seeking death, and it will happily grant it.
-
-
+ㅤ
+ㅤ
 **Come.**
-
+ㅤ
 
 And enjoy the quiet.
 The crisp sound of snow compressing under your sturdy boots.
@@ -69,11 +68,11 @@ No. Don't look at them.
 "Idonow." A weak shrug.
 
 "Well, let's get you somewhere... less in the open..."
-
-
+ㅤ
+ㅤ
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
-
-
+ㅤ
+ㅤ
 "Here?"
 
 "Mmm..." Steps feel heavy. **Cold.**
@@ -114,7 +113,7 @@ No. Don't look at them.
 
 "Yeah..."
 
-"Exactly!" Sitting down by cold ones side. "Would you like me to warm you up?"
+"Exactly!" Sitting down by cold one's side. "Would you like me to warm you up?"
 
 Looking away.
 
@@ -178,7 +177,7 @@ Quiet.
 
 "No."
 
-"Got ya." Working on the food. Making sure it's well cooked, putting everything in the pan and stirring it around. Letting the aroma fill the entrance of the intricate cave, while preparing a plate and keeping an eye on the food. "I'm not the greatest cook, but I hope it's too your liking." Pouring some of the food on the plate.
+"Got ya." Working on the food. Making sure it's well cooked, putting everything in the pan and stirring it around. Letting the aroma fill the entrance of the intricate cave, while preparing a plate and keeping an eye on the food. "I'm not the greatest cook, but I hope it's to your liking." Pouring some of the food on the plate.
 
 "I think it's satisfactory." Feeling the hunger build and claw.
 
@@ -195,11 +194,11 @@ Quiet.
 "You did good with the tools you've been allotted."
 
 "Heh. Thanks man." Smiling happily like a fool.
-
-
+ㅤ
+ㅤ
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
-
-
+ㅤ
+ㅤ
 "Feeling ready to explore?"
 
 "Sure."
@@ -212,7 +211,7 @@ It's quite a pretty cave. Full of intricate details. It felt ancient, yet new, a
 
 "Yeah." Which is why it should be monetized. If it's able to bring in enough money then maybe...
 
-"So, my theory is that whatever is at the end her is alive and willing to grant wishes to all those pure of heart. And, I think this is proof, it's so well kept, there has to be a reason. I'm sure the creature is an intelligent being! Wouldn't you like to met it?"
+"So, my theory is that whatever is at the end here is alive and willing to grant wishes to all those pure of heart. And, I think this is proof, it's so well kept, there has to be a reason. I'm sure the creature is an intelligent being! Wouldn't you like to met it?"
 
 Looking at Jonathan as if he's an idiot. *Maybe 'jo-jo' is a fitting name.* Seems just as smart as what that would indicate. Can't even see the bigger picture. How useful this could be. People are fools who will pay to see what they can't comprehend.
 
@@ -220,7 +219,7 @@ Looking at Jonathan as if he's an idiot. *Maybe 'jo-jo' is a fitting name.* Seem
 
 "Money problems?"
 
-"Kinda... it's more... my sister really needs help. She did something... stupid... and... I just want her to have a place to feel safe. She's living with me right now, but it's too cramped and I..." Shaking his head. Turning to Alex. "I just want to help!" Full of determination.
+"Kinda... it's more... my sister really needs help. She did something... stupid... and... I just want her to have a place to feel safe. She's living with me right now, but it's to cramped and I..." Shaking his head. Turning to Alex. "I just want to help!" Full of determination.
 
 "Okay." Smiling. *Useful.* "I think I know something that could help."
 
@@ -259,11 +258,11 @@ Nod. Nod. Egger.
 "Okay!" Following after. "But, for now, let's explore a little and then head back. I promised my sister I'd be back before dark."
 
 "Sure." Thoughts more on this possible new business adventure. *This one **won't** fail.* 
-
-
+ㅤ
+ㅤ
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
-
-
+ㅤ
+ㅤ
 Further in, rivers of white sand flows with blue flowers that burn to the touch growing through cracks of different white rocks. Looking up, feeling as if it's the night sky shining, black obsidian was covering the celling. It's a pretty sight, making one ponder how it could have stayed hidden for so long. It's clear there in knowledge about it's existence.
 
 Or, maybe the fool is a lucky one?
@@ -275,9 +274,15 @@ Or, maybe the fool is a lucky one?
 The two walk further in, admiring the pretty sights. Jonathan first, taking the lead, so mesmerized and in awe. While Alexander slowly walks after, more admiring his own thoughts. Only to be brought out by something white flashing before his eyes.
 
 *Odd.* 
-
+ㅤ
+ㅤ
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
 
+<center>It was a warning.</center>
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+ㅤ
+ㅤ
 **Terror.**
 
 Fear.
@@ -288,7 +293,7 @@ Steps echo in pain as blood drips from fresh cuts.
 
 *It wasn't my fault.*
 
-*It was the fools fault.* 
+*It was the fool's fault.* 
 
 *It **wasn't** my fault.*
 
@@ -315,98 +320,186 @@ They'll force him to say what happened.
 *They'll think I'm insane.*
 
 He- He can't stay here!
-Looking back and forth between two horrible decisions. Staying, with murder charges approaching.  Leaving as is, getting what he now regrets asking for, the cold soft embrace of a snowy death. Or, finally, going back, dragging the fools body so he can strip it of its warm clothes and steal them for a final escape. 
+Looking back and forth between two horrible decisions. Staying, with murder charges approaching.  Leaving as is, getting what he now regrets asking for, the cold soft embrace of a snowy death. Or, finally, going back, dragging the fool's body so he can strip it of its warm clothes and steal them for a final escape. 
 
 Nothing sounded good.
 
 Nothing sounded ideal.
 
-But, starting to move back, one path sounded the least painful.
+But, starting to move back, one path sounded the least painful. Even if each step taken was one that aced. It hurt. It was manageable. The bleeding had stopped. The cuts hadn't been to deep, even if legs and arms were covered in dried blood. Should maybe have used some snow to clean it up, but the idea of leaving evidence is a *bad* one.
 
-[[4. Main Plots/_Sequin Eyes/REMOVED/PreStory - Falling for the stars/1. Meeting the stars|1. Meeting the stars]]
+Hopefully the cuts on the fool didn't ruin the warm clothing.  
 
+*I didn't do anything bad.*
 
+**Would you like Jonathan to be dead or alive?**
 
-Notes:
-*Inheritance is a scary thing.*
+*It's not my fault.*
 
+Steps hasten.
 
---- OR ---
+He can't stay. 
 
-Carved with sand and water, a place for rest. 
+It's **loud**.
+It's not where he should be.
+Should have never gone outside.
 
-You may seek guidance.
-You may seek shelter.
+And then.
 
-But, you are not to demand.
+**Deafening.**
 
+Like a heavy blanket aiming to smother.
 
+It was starting to feel hazy. Blood loss?
 
---- OR ---
+Looking back, there is no blood. No new blood. No old blood. Nothing. Just as pretty and pristine as it was before. This is the same path, right? So then...
 
-[[2. Characters/Side Characters/SE STARS/Alexander|Someone]] was lost without guidance
-Went to the hall of white flowing sand
-Seeking to know
-Seeking to find
+Looking forward again. The dry blood he was somewhat following. Gone. That...
 
-The meaning of their sorry existence
+He feels the scars, how they're slowly trying to dry. That was real. The scars are still there. So. It had to have been real. **Why is it dry then?** *I don't know.* There has to be something around. What does it want from him? How easily could it kill him if it wanted to? Why was he allowed to survive? And... why would it clean up the blood?
 
+With weary steps, he keeps going.
 
-Only those pure of heart may enter
-Only those seeking guidance and clarity will persist
-<font color="#646a73">((aka. be polite, respectful and DON'T demand anything))</font>
+There is no use in turning back.
 
+Step.
 
-A lost one entered, during a rainy day
-What a sorry sight
+Step.
 
-Lost one went out, gathering dead leaves, moss, decay
-Things easy to carry
+Step.
 
-Presenting it
-For the lost have nothing else to their name
+With the surroundings bright and white.
+Pretty flowers with an obsidian sky.
 
-A booming feeling 
-A pressure
-The creeping of **death**
-Fill them
+Step.
 
-They try to move away
-To run
+Step.
 
-Yet, the body is frozen in fear
+Step.
 
-Monsters of pure white approach
-A black obsidian ore is dropped into the pile
-RIPPED from one of the monsters who's body falls like sand
+There. Can see the opening.
+One wrong step, and he's sure to end up as the fool.
 
-A pile on the floor
+Step.
 
-All monsters retreat, except the victor
-Who approaches
+Need to find that fool.
 
-Closer
+Step.
 
-Eyes full of fear look at it
+Where?
 
-It takes hold of the lost ones wrist.
-*It feels like sandpaper.*
+Step.
 
-Dragging them closer to the pile.
+Careful.
 
-Holding the arm straight up, it takes its other "hand" and *drags* it along the arm.
-*It feels like sandpaper.*
+Slowly poking in an arm, it doesn't get cut off. Okay. He pokes in his head, needing to look around if he's to find that-
 
-Clenched teeth as skin is scraped off.
+Oh.
 
-It lets go.
-And throws the gathered skin into the pile.
+That's... *weird.*
 
-Then, moves away.
+Right?
 
-Leaving the lost one lost and alone yet again
-Now, even more confused
-Looking at the pile
+The body is propped up. Just... sitting there... against the wall. Not a tear to be found in those warm clothes. He's... still dead right? Or... did he never really die?
 
+Looking around quickly, there doesn't seem to be any threats around. And, with that conclusion in hand. He approaches the body.
 
+"Jonathan?" Asking as quietly as possible, as to not disturb the *entity* or whatever it is that is messing with him.
 
+"You okay?" Putting a hand on the shoulder and giving a little shake.
+
+"We need to leave." A harder shake. Using both hands.
+
+Stopping.
+
+"**I** need to leave." Taking hold of the jacket zipper, *slowly* pulling it down. He needs that jacket off if he's to leave. And. He **will** leave. There is no way he's staying here, it's as if this whole cave is alive and messing with him. He is no mouse in the claws of a cat. He'll get out of here. He must.
+
+Zipper down.
+
+Carefully, he takes of the jacket. 
+
+Accidentally, he feels the body.
+
+**Cold.**
+
+Calm down.
+
+He pushes through. It's fine. It's like a deactivated robot. It's fine. It's fine. All he needs to focus on is the jacket, and when he finally has it, he can leave. Though... with the jacket now almost off, he can see an extra layer, which might be good to have to. 
+
+Yeah, and what's the harm in taking it? It's only better if it gets some use. 
+
+Those boots look to be the right size too.
+
+Actually, some coveralls would be nice to have.
+
+Oh, can't forget about gloves and that warm hat, not really his style, but it'll do. 
+
+Yeah.
+
+That should be enough.
+
+████.
+
+A sound. 
+
+As if the night sky was drowning beneath thick shards of ice in the sea, begging to be let out. Demanding. Cracks and twists. Like the winter snow will never let go. It sounds like shards of ice scratching.
+
+But, there is no ice.
+
+No water in sight.
+
+His eyes scan the area as he slowly moves back with all the stuff he's *borrowing*. He just need to get to a bit of safety. Put it on. 
+
+Then.
+
+*I'm getting the hell out of here.*
+
+**What a fun creature.**
+
+He runs.
+
+**So very fun.**
+
+As fast as his legs can take him.
+
+**When do you think it'll come back?**
+
+"I'm **never** coming back!"
+
+**A month.**
+
+"NEVER!"
+
+**Half a year.**
+
+He keeps running, almost there.
+
+**Fall would be nice.**
+
+*No.* The entrance is gone. Just a simple glow in it's place. *A trick*. Turning away. He'll find another way, this was just a wrong turn. Looking right and left, moving. Have to keep moving. 
+
+**Fall *would* be nice.**
+
+He stops. There are so many paths. So many choices.
+
+**It's too bad the *good* one had to die.**
+
+"IT WASN'T MY FAULT!" He turns, screaming at the cave. As if he had heard something. Yet, it was more a feeling, like invasive images digging into his mind. He's not insane.
+
+Backing away.
+
+He's not free yet.
+
+**Free?**
+
+He runs. One to the left. 
+
+**Is it stupid?**
+
+Hoping to find his escape.
+
+**Yes.**
+
+He **will** get out. 
+
+**Oh. He *won't*.**
