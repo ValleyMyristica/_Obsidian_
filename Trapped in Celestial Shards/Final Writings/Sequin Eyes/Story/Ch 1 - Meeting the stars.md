@@ -157,7 +157,7 @@ Sharing cold.
 
 "Doesn't matter."
 
-"Sure..." Getting up to put all the stuff in the pan.
+"Kay..." Getting up to put all the stuff in the pan.
 
 Quiet.
 
