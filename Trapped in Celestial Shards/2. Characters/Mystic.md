@@ -8,6 +8,11 @@
 | Celestial | Moon       |
 \* They go by she/her too, and depending on who's fronting, they can go by any pronouns
 
+***Aesthetic:** The moon reflected in the waters*
+Art Prompts:
+* *The horrors*
+* Happily playing with their dog
+	* Running through the autumn leaf's.
 
 | Name       | Origin          | Changes      | m. Age | Pronouns  | Extra?                                                                                                                                                     |
 | ---------- | --------------- | ------------ | ------ | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -2,6 +2,10 @@
 ![[2. Characters/Images/mini_sequin.png|64]]
 Cell: Protista
 
+***Aesthetic:** Space, the starlit night*
+Art Prompts:
+* Shining on stage
+* Dismissing Mystic
 
 
 
