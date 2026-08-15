@@ -60,3 +60,12 @@ The hunger.
 
 The meat.
 
+Using the wall as support, he gets on his feet. Standing. Slowly walking. You can't find what you're looking for if you don't take the first step. Or the second. Third.
+
+Everything feels... *weak*? 
+
+As if his own muscles are being eaten away. As if he's meant to fad into nothing. It all feels so... *fuzzy*. Every step. 
+
+How long has he been walking?
+
+
