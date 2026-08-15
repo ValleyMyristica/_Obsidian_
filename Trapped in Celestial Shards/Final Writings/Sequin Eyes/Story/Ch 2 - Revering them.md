@@ -31,3 +31,32 @@ He wakes.
 In the cave.
 
 "Stupid!" If he only didn't want to see things clear, he could have stayed. 
+
+Looking around the empty cave only dimply lit by the sparkling ceiling. *It's just been a day.* Looking at his dirty hands. *Right?* Feeling his aching tired legs. Should walk more, yet...  *w h e r e ?*  There is no path out, and - leaning towards the wall, his stomach rumbles - **hunger** is rising.  
+
+Feeling the few soft sands of the cave floor. All that plays in his mind is the dream. The food. The **meat**. The hunger. He grabs the soft sands, but lacking the strength, he quickly lets go again. It's useless. Futile. 
+
+*Maybe it would be alright to give up?*
+
+Though, starving to death sounds like a horrible way to go. 
+
+Trying to think. Need to figure a way out. Need to survive. Need to eat. All he has is the stupid clothing he got-
+
+**Meat.**
+
+There is a body.
+
+There is a body with meat.
+
+Stomach grumbles.
+
+"No..."
+
+He can't.
+
+He can't forget the dream.
+
+The hunger.
+
+The meat.
+
