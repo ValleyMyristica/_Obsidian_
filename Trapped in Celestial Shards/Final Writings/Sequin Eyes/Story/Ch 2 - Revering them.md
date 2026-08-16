@@ -66,19 +66,42 @@ Everything feels... *weak*?
 
 As if his own muscles are being eaten away. As if he's meant to fad into nothing. It all feels so... *fuzzy*. Every step. 
 
-How long has he been walking?
+Hand dragging by the cave wall, feeling the texture, how it slowly turns softer. Then. *Wet.*
 
-There is a light. It reminiscent of what he's seen. All he can hope is that it's not a dead-
+Retracting his hand.
 
-Oh.
+He looks. 
 
-Oh no.
+It's... water?
 
-Things are starting to feel very clear again.
+Right. Just water. 
 
-It's the room.
+Water...
 
-The room with the *meat*.
+Everything stops, mesmerized by the liquid. Feeling how dry his mouth is. When was the last time he had a cool glass of water? A nice wine to a lovely dinner? A shot of liquid courage? Making the stupid mistake that got him here? If only. If only it had worked out. If everything had gone to plan. It would have all been great. He would be rich. He would be back home. Where everything was at his fingertips.
+
+Stupid regulations. If that *partner* hadn't announced it all then it would have been fine. If no one knows what you're doing, who can stop you? And then when you have the money, just change the rules in your favour. Make yourself the exception. Find a loophole you can exploit. 
+
+It's so simple.
+
+Dragging his hand over the wet surface.
+
+It would have been so simple.
+
+Trying to gather as much liquid as he can in his palm. He sure does hope it's water. Though, it doesn't feel like it matters too much. Not when starvation seems to be on he table.
+
+HAH! Look at him. Drinking filthy cave water.
+
+What a joke.
+
+Heh.
+
+Yeah...
+
+Like always then.
+
+Right dad?
+
 
 
 
