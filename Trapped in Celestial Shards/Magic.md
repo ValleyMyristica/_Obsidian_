@@ -1,5 +1,14 @@
 # How does the magic work?
 
+Moon - **Water (H2O)**
+	The basis for life
+Sun - **Heat/Energy**
+	The energy needed for life
+Earth 
+	Stability
+Stars 
+	The drive, the will
+
 
 
 * Anima (Moon)

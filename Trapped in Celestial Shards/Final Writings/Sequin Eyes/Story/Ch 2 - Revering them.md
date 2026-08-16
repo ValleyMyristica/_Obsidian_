@@ -68,4 +68,18 @@ As if his own muscles are being eaten away. As if he's meant to fad into nothing
 
 How long has he been walking?
 
+There is a light. It reminiscent of what he's seen. All he can hope is that it's not a dead-
+
+Oh.
+
+Oh no.
+
+Things are starting to feel very clear again.
+
+It's the room.
+
+The room with the *meat*.
+
+
+
 
