@@ -78,7 +78,9 @@ Right. Just water.
 
 Water...
 
-Everything stops, mesmerized by the liquid. Feeling how dry his mouth is. When was the last time he had a cool glass of water? A nice wine to a lovely dinner? A shot of liquid courage? Making the stupid mistake that got him here? If only. If only it had worked out. If everything had gone to plan. It would have all been great. He would be rich. He would be back home. Where everything was at his fingertips.
+Everything stops, mesmerized by the liquid. Dry mouth. When was the last time he had a cool glass of water? A nice wine to a lovely dinner? *A shot of liquid courage?*
+
+Stupid mistake. If only. If only it had worked out. If everything had gone to plan. It would have all been great. He would be rich. He would be back home. Where everything was at his fingertips.
 
 Stupid regulations. If that *partner* hadn't announced it all then it would have been fine. If no one knows what you're doing, who can stop you? And then when you have the money, just change the rules in your favour. Make yourself the exception. Find a loophole you can exploit. 
 
@@ -88,7 +90,7 @@ Dragging his hand over the wet surface.
 
 It would have been so simple.
 
-Trying to gather as much liquid as he can in his palm. He sure does hope it's water. Though, it doesn't feel like it matters too much. Not when starvation seems to be on he table.
+Trying to gather as much liquid as he can in his palm. Hoping it's water. Though, it doesn't feel like it matters too much. Not when starvation seems to be on he table.
 
 HAH! Look at him. Drinking filthy cave water.
 
@@ -103,20 +105,67 @@ Like always then.
 Right dad?
 
 "Cheers." Melancholic words from one to the cave. A curtesy, a thank you. An unescapable darkness to drown in, as he gulps down the water.
-ㅤ
-<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
-ㅤ
-Maybe... maybe it would work to just survive on water?
-ㅤ
-<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
-ㅤ
-How would you even prepare the meat?
-ㅤ
-<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
-ㅤ
-Teeth can be pretty sharp.
-ㅤ
-<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
-ㅤ
-He looks at the light from the big room that is sure to bring death. As if he isn't on the verge already. Well. Slowly moving closer. Everything feels weak. There is no hurry. All one can hope is that death will be swift.
 
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+Maybe... maybe it would work to just survive on water?
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+How would you even prepare the meat?
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+Teeth can be pretty sharp.
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+His steps echo back with a clang of cold ice. Water isn't enough. 
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+The big room that is sure to bring relief one way or another. It's only been like... a day... the body should still be edible. Especially with how cold it is. It's a very nice cold. It would be. Sleep would be nice. Everyone likes sleep. And, if not that, the room is sure to end him just as quickly as it did the fool. Yeah... There is nothing to fear. Slowly moving closer. Weakness in every movement. There is no hurry. All one can hope is that death will be swift.
+
+He steps into the bright white imposing room. Ethereal. Pretty. 
+
+Blinking, he shifts his focus.
+
+**Meat.**
+
+The body looks the same. Good. Oh! There's even something sharp by the body to help with cutting it up. How *convenient*!
+
+Feeling a bit of hope, he moves closer and takes the sharp obsidian object. It's like a knife. 
+
+He looks back to the body.
+
+*Jonathan.*
+
+It's not like they really *knew* each other, but...
+
+Gaze moves down to the knife in hand.
+
+As the memory of sharing that simple meal plays in the back of his mind, he grips the knife with the little strength still in him. Taking hold of Jon- the arm closest. Moving away the clothing to grab onto the- **cold**. So cold. Like meat brought out of the freezer. So cold. 
+
+Breath.
+
+It's fine.
+
+Of course it's fine! 
+
+It's just some meat.
+
+Taking hold of the cold meat, he starts cutting through the skin. Severing the tendons. The only worthy part is the muscle meat. He has standards. 
+
+He has blood on his hands.
+
+Like the liquid from before.
+
+He drinks it.
+
+*Need it.*
+
+A little slab of meat in hand.
+
+He **bites**.
+
+Chewing the uncooked cold meat. 
