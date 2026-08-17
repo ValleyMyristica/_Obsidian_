@@ -102,6 +102,8 @@ Like always then.
 
 Right dad?
 
+"Cheers." Melancholic words from one to the cave. A curtesy, a thank you. An unescapable darkness to drown in as he gulps down the water.
+
 
 
 
