@@ -107,7 +107,16 @@ Right dad?
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
 ㅤ
 Maybe... maybe it would work to just survive on water?
-
 ㅤ
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+ㅤ
+How would you even prepare the meat?
+ㅤ
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+ㅤ
+Teeth can be pretty sharp.
+ㅤ
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+ㅤ
+He looks at the light from the big room that is sure to bring death. As if he isn't on the verge already. Well. Slowly moving closer. Everything feels weak. There is no hurry. All one can hope is that death will be swift.
 
