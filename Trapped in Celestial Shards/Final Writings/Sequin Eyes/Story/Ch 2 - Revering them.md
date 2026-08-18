@@ -169,3 +169,96 @@ A little slab of meat in hand.
 He **bites**.
 
 Chewing the uncooked cold meat. 
+
+Everything else is drowned out. Surroundings quiet. Focus lost. Need to **eat**. It's only been a day. Maybe two... Only water was a horrible idea. Meat is so much nicer. Even tough. Even uncooked.  Even horrible. Not even salt. Still, it's better. **Need** it.
+
+Not caring for the sounds. 
+
+No one is around. 
+
+Echo's of ice fill the room.
+
+Stopping him in his tracks.
+
+Sharp and ethereal, the sounds feel like sparkling snow.
+
+Gaze shifting to a - best describe as - a monument. *Pretty.* So big and imposing. It looks like some sort of creature surrounded by wings(?) and falling sand. It's probably wings at least? Hard to fully grasp. All it truly is, is *pretty*. It's calming.
+
+Like a puppet, who's strings lay slack. He feels *relaxed*. Hunger subsided. *Pretty.* Hydrated. *All is good.* Crawling, strings slowly leading the way. 
+
+Closer.
+
+Closer.
+
+What was there ever to be afraid of?
+
+*Nothing, clearly.*
+
+Exactly, there is nothing. No fear. As hands and knees slowly submerge in the white sand. The pretty white sand. So soft. So cold. Reminiscent of the glistening snow. The pretty snow.
+
+Laying down in the softness.
+
+Relaxing, as surroundings slowly fade from conciseness.
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+Darkness.
+
+A void of deafening quiet.
+
+Calmness.
+Is all that is allowed.
+
+While all feels.
+Timeless.
+
+Minutes be hours.
+Months be seconds.
+
+Snow can melt.
+Blooms may grow.
+
+But, there is no way to know.
+
+Though, it would be nice to bring something new here.
+
+The body is starting to look lacking. It would be nice to have more. A shimmering of hunger dampened by the forced calm. *Maybe for later?* Yeah, later sounds good.
+
+*And you'll come back?*
+
+Of course. Who would ever want to leave this lovely place for long? It's so nice. As if it has everything one could ever want.
+
+*It does.*
+
+It does. Yeah. There is finally a light. A purpose. Something to fight for. Preserve this. Stay here. Be here. It's calm. It's nice.
+
+*You're willing to fight for it?*
+
+It's something worth fighting for. It's better than any of those brilliant *material* ideas. This is so tangible. As if the air is cotton. So sweet and tasty. Could eat it for hours.
+
+*Then. **Fight!***
+
+Suffocation. Gasping for air. Crawling out of the snow- sand that is consuming him. Breathe! Need to breathe! Eyes flashing from side to side. The bright room. *The dangerous one.* Realization hits, crawling away. Need to be quick! Hurry!
+
+Something grabs his ankle. 
+
+Hands slipping, falling back into the white sand. 
+
+Dragging him.
+
+**PANIC!** Not thinking. Trying to kick at the hold. "Let go!" Kicking. Crawling. 
+
+*How lackluster.*
+
+Grip tightening, it hurts, like sandpaper, as he tries to struggle free. 
+
+*Oh!* 
+
+Something humanoid starts to emerge, holding him. While all he can do, is watch in horror and pain. Looking at it's hold, he can see a tint of **red**. He wants to scream, but. **Frozen.** He can't move. 
+
+*Like a little fawn! So cute!*
+
+
+
+
+
