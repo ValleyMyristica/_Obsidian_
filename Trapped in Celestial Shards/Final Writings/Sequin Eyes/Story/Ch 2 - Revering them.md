@@ -258,7 +258,7 @@ Something humanoid starts to emerge, holding him. While all he can do, is watch 
 
 *Like a little fawn! So cute!*
 
-"P- please?" Muttering. Pleading. Watching it loom over him like a shadow. A bright 
+"P- please?" Muttering. Pleading. Watching it loom over him like a shadow. A brightness straining his eyes. He can't look. Just listen as sand shuffles towards him.
 
 
 
