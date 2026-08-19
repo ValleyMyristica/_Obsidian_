@@ -120,7 +120,7 @@ Teeth can be pretty sharp.
 
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
 
-His steps echo back with a clang of cold ice. Water isn't enough. 
+His steps echo back with a clang of cold ice. Water wasn't enough. 
 
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
 
@@ -132,7 +132,7 @@ Blinking, he shifts his focus.
 
 **Meat.**
 
-The body looks the same. Good. Oh! There's even something sharp by the body to help with cutting it up. How *convenient*!
+The body looks the same. Good. There's even something sharp by the body to help with cutting it up. How *convenient*.
 
 Feeling a bit of hope, he moves closer and takes the sharp obsidian object. It's like a knife. 
 
@@ -254,9 +254,11 @@ Grip tightening, it hurts, like sandpaper, as he tries to struggle free.
 
 *Oh!* 
 
-Something humanoid starts to emerge, holding him. While all he can do, is watch in horror and pain. Looking at it's hold, he can see a tint of **red**. He wants to scream, but. **Frozen.** He can't move. 
+Something humanoid starts to emerge, holding him. While all he can do, is watch in horror and pain. Looking at it's hold, seeing a tint of **red**. He wants to scream, but. **Frozen.** Can't move. 
 
 *Like a little fawn! So cute!*
+
+"P- please?" Muttering. Pleading. Watching it loom over him like a shadow. A bright 
 
 
 
