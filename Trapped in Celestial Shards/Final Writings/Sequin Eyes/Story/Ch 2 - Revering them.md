@@ -304,6 +304,18 @@ Maybe?
 
 A sigh. Sitting, back to wall. It's as if he's right back where he started. He can still see the big bright room. He can still dip his hand in the pretty waters flowing by. But, where is he to go?
 
+Looking at that ankle of his.
 
+*Can* he even go anywhere?
 
+It still hurts. Still looks as if it's *fresh*. Couldn't have been out of it for more than a few minutes. If it was a few hours, a scab would have formed. It would have started to properly heal. It wouldn't look like this. It wouldn't **hurt** like this. As if a simple gust of wind could cut him down.
 
+It's just been a few minutes.
+
+He's only been here for a day or so.
+
+Looking up at the sparkling celling.
+
+Is anyone looking?
+
+Probably? Maybe not looking for the fool, but... father would bother looking a little... right?
