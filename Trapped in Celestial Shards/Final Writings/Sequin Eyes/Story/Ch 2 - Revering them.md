@@ -318,4 +318,10 @@ Looking up at the sparkling celling.
 
 Is anyone looking?
 
-Probably? Maybe not looking for the fool, but... father would bother looking a little... right?
+Probably? Maybe not looking for the fool, but... father would bother looking a little.
+
+.
+.
+.
+
+Right?
