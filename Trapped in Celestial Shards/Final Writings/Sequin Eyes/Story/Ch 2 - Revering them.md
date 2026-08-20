@@ -258,8 +258,51 @@ Something humanoid starts to emerge, holding him. While all he can do, is watch 
 
 *Like a little fawn! So cute!*
 
-"P- please?" Muttering. Pleading. Watching it loom over him like a shadow. A brightness straining his eyes. He can't look. Just listen as sand shuffles towards him.
+"P- please?" Muttering. Pleading. Watching it loom over him like a burning light. Its brightness straining his eyes. Burning. All he can do is just listen as sand shuffles closer. Preparing the worst. Expecting a final blow that will lead him dead or bleeding. All he can hope is that it's quick.
 
+Pat.
+
+Huh?
+
+Pat. Pat.
+
+Still unable too look, he can feel soft pats on his head. Mostly feels like someone putting a bag of rise on his head, then lifting it again to just put it back. *Weird.* He finds, slowly moving out of his panicked state.
+
+Pat. It lets go of him.
+
+Retracting his leg. Still sitting in place. Unsure.
+
+Pat.
+
+Is it treating him like a pet? It feels... humiliating. Oh, to fall this low, what a horrid endeavour to suffer through. What did he even do to deserve- "It wasn't my fault." 
+
+The pats stop.
+
+"Right?" Trying to look towards the light.
+
+So still it stands. Surrounded by the cracking of ice. It cracks like bones. Sharp. *Scary*. 
+
+Eyes burning. He slowly moves away. Every slight movement sending a new sound echoing throughout. 
+
+The entity moves closer.
+
+A spike of fear! Crawling. **Get away!** Trying to stand. Falling. Crawling. Try again! Getting up. Head spinning like vultures out to get him. Need to run! Stumbling. **Pain.** Ankle still freshly cut.
+
+It doesn't stop him.
+
+Running. The best he can. Running. Souring pain climbing up his leg as the miniscule wind passes him. It hurts. *It doesn't matter.* Each step is a step towards safety. Or... A step away - lethargic - from... th a t  .   .    .
+
+Fallen. Out of the room, he fell to the cold hard floor. Can't move. *Is this safe enough?* Probably. Yeah... it's... fi n e  .   .    .
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+It's just been a day. 
+
+Probably.
+
+Maybe?
+
+A sigh. Sitting, back to wall. It's as if he's right back where he started. He can still see the big bright room. He can still dip his hand in the pretty waters flowing by. But, where is he to go?
 
 
 
