@@ -325,3 +325,21 @@ Probably? Maybe not looking for the fool, but... father would bother looking a l
 .
 
 Right?
+
+Not looking would look bad, could bring bad publicity. Dad's not a fan of that, so... he'd *probably* make a little show about how he cares, saying he'll support. Then only do the bare minimum. Though, the bare minimum should still be able to find a stupid cave right? It's just been a day, there are probably still tracks in the snow and all that. Easy find.
+
+Yeah...
+
+Looking towards the bright room. 
+
+Then down the hall where he was once able to find the exit.
+
+*It's futile.*
+
+Looking up towards the wall he's leaning against.
+
+Then around where he sits.
+
+He takes a rock found on the ground and draws a line on the wall. *It's been one day.* He should try and keep track of time. *Or, has it been two?* A little hesitantly, he draws another. It's probably been two. *Maybe.* It couldn't have bee three. 
+
+
