@@ -340,6 +340,47 @@ Looking up towards the wall he's leaning against.
 
 Then around where he sits.
 
-He takes a rock found on the ground and draws a line on the wall. *It's been one day.* He should try and keep track of time. *Or, has it been two?* A little hesitantly, he draws another. It's probably been two. *Maybe.* It couldn't have bee three. 
+He takes a rock found on the ground and draws a line on the wall. *It's been one day.* He should try and keep track of time. *Or, has it been two?* A little hesitantly, he draws another. It's probably been two. *Maybe.* It couldn't have been three. 
+
+He retracts his hand. 
+
+*Is anyone really looking?*
+
+How nice it would be to believe such a pretty lie.
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+Waking from the hunger. Claws wanting consumption. 
+
+He can't stand the feeling. Trying to drown it out with water.
+
+*Futile.*
+
+The brightness calls him.
+
+The hunger pulls at him.
+
+Getting up on his feet.
+
+**PAIN.**
+
+Like a shot through his spine. *It hurts.* He falls. Stumbling down on the floor like a toddler who never learned to stand.
+
+*Stupid.*
+
+Sitting up from his *humiliating* display. He tales note of the ankle. *It hasn't healed.* Hunger is thrown to the waste side as something more pressing takes over his mind. Something that mostly boils down to: "It doesn't make sense." 
+
+The ankle still looks as fresh as when the skin was scrape off with what felt like sandpaper. It only looks slightly dryer, but it's not healing. 
+
+Looking towards the lines on the wall.
+
+He draws another.
+
+Though, confidence is weaning. He can't make sense of it. If it's been a day, it **had** to have been a day. He slept, he's hungry. *Why isn't it healed?!* Frustration and confusion. Despicable. Annoying. *It's all the fools fault.* If the fool hadn't bothered saving him. Or hadn't bothered insisting the should go deeper. Then... "He was an idiot from the start." 
+
+Worst part?
+
+He actually listened to that idiot.
+
 
 
