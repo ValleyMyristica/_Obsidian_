@@ -382,5 +382,23 @@ Worst part?
 
 He actually listened to that idiot.
 
+*Doesn't that make him a fool too?*
 
+"I'm **nothing** like that idiot."
+
+*You're nothing alright.*
+
+A shiver. Looking around. Frantic. Yet, nothing around. It's... it's probably just the lack of food. Stomach grumbles. Oh. Bad thought. Can feel the hunger creeping back. Like an entity drenched in oil trying to take its hold. 
+
+**Hunger.**
+
+No.
+
+Not again.
+
+Heh. He's- he's not some monster! HAH! Yeah! Splashing himself with water. Using his hands to force it down. He'll drown out the hunger. He can survive! He **will** survive.
+
+*Of course.*
+
+Stopping. That tingeing feeling. The soft solitude that someone is watching. He can't shake it. As if voices are echoing in his head. Yet, he can't hear them. Like a whisper so far away. Mumblings.
 
