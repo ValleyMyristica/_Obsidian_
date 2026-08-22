@@ -446,3 +446,43 @@ Or tries to, with a jaw so weak he can't break skin. Where is that sharp object 
 *Oh! Right!*
 
 There it is! How could he have missed it?
+
+Taking. Cutting. Consuming.
+
+Consuming.
+
+Consume.
+
+It's just some meat.
+
+*Is this normal?*
+
+He stops, falling out of his thoughts, as if he fell to the floor from his bed. Waking to look at his surroundings. The bright room. And. **Bloody** hands.
+
+He did it again.
+
+"I..." Gaze switching between his hands and the body. Then. The face. Clenching his teeth, forcing a smile. He roughly smacks the cheeks of the face, grabbing on tightly. 
+
+Pulling it closer.
+
+"You don't mind. Right?"
+
+Staring into the vacant face.
+
+"This is what you would have wanted."
+
+**Smiling.**
+
+"Right?"
+
+Waiting for a response that will never come.
+
+"You don't want this body to go to waste."
+
+Grip tightening.
+
+"You want to be of use."
+
+Moving closer.
+
+"To have a purpose."
