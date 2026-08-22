@@ -400,5 +400,49 @@ Heh. He's- he's not some monster! HAH! Yeah! Splashing himself with water. Using
 
 *Of course.*
 
-Stopping. That tingeing feeling. The soft solitude that someone is watching. He can't shake it. As if voices are echoing in his head. Yet, he can't hear them. Like a whisper so far away. Mumblings.
+Stopping. That tingeing feeling. The soft solitude that someone is watching. He can't shake it. As if voices are echoing in his head. Yet, he can't hear them. Like a whisper so far away. Mumblings. Gaze towards the bright room. It didn't come from there though. It... it's all around. Like an echo in his mind that was never his.
 
+He consumes more water.
+
+As his body begs for **meat**.
+
+He drowns it out.
+
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+The hunger returns.
+
+He can't escape it.
+
+What's so bad about eating meat you have laying around anyway?
+
+Wouldn't it be *cruel* to let it go to waste?
+
+It's so much nicer to give it a purpose.
+
+It probably never had one.
+
+The bright room looks so welcoming. He starts to move - slowly - towards it. Why did he even run away in the first place? Or second? It's were the **meat** is, and the water comes from. It's the best place to be. It's so welcoming. It feels... *protected*.
+
+Looking around, he easily finds the body. It looks as if it hasn't even been a day. Just like his ankle that aces with every step. It seems stopped in time. 
+
+Which means.
+
+**The meat should still be fine.**
+
+*The little puppet moves towards the body and repeats actions made before.*
+
+Tugging at the clothing. A thought hits, and he rips off a nice piece.
+
+*Oh?*
+
+And ties it around his ankle, stopping it from being exposed to the air. Still hurts though. Then. Right back to the meat. Impatient. He just takes a bite out of the arm. 
+
+*It's important to eat!*
+
+Or tries to, with a jaw so weak he can't break skin. Where is that sharp object he had before? Looking around he can't-
+
+*Oh! Right!*
+
+There it is! How could he have missed it?
