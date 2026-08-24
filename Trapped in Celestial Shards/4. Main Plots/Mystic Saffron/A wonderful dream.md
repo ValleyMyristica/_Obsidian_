@@ -162,7 +162,7 @@ Tired eyes, soft smile. "What if *I'm* the bad guy?"
 
 "But you're not?"
 
-Wide eyes. "Quiet." They *always* say that. "I don't like lies." He always tells them.
+Wide eyes. "Quiet." They *always* say that. "I don't like lies." He always informs back.
 
 "It's not a lie? You're really nice, how could you be bad?"
 

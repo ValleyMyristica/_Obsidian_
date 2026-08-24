@@ -14,4 +14,4 @@ Options
 	* \[ Not nuts \]
 		* "I'm sorry Timber, but it could be dangerous, you're pretty bad at chewing. But you can have some one the raisins I brought!"
 		*The idea that Mystic **did** think about possible dangers, but was far to ill-informed to know what was truly dangerous. Oh. How they blame themself. If they **truly** loved him, wouldn't they have learned?*
-*  
+*  **They always shared food.**

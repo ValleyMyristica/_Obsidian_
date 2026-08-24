@@ -67,7 +67,7 @@ Giving them a smile, even though they're not looking his way. Who knows maybe th
 
 "You deserve to be loved." Repeating words he once heard from his friend.
 
-"..."
+Quiet.
 
 He looks at them, wondering.
 
@@ -82,6 +82,26 @@ He looks at them, wondering.
 "I just-" Gasping for air. "I-" Looking up at him. Face wet and distraught. 
 
 He meets their gaze, but shifts to looking away. *Ashamed.* 
+
+Jumping into his arms. Holding onto him tightly. 
+
+He freezes in surprise.
+
+"I love you. Why can't you love me back?"
+
+He can feel how his shirt is slowly getting damp.
+
+"What's **wrong** with me?"
+
+Pat.
+
+They hug him tighter.
+
+"I'm the faulty one."
+
+They sink deeper in. Grumbling. "I thought you hated lies."
+
+
 
 
 

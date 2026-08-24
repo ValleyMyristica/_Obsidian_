@@ -50,7 +50,7 @@ It's so empty.
 
 Sad eyes look back in annoyance.
 
-"But. I suppose a favor is in order."
+"But. A favour may be in order."
 
 "..?" Tilting head in confusion and curiosity.
 
@@ -263,3 +263,11 @@ Then. One turns to Mystic.
 "We're you not to listen?"
 
 "I-"
+
+"You're only allowed here under the condition that you listen to **every** word we say. *Remember?*"
+
+"I remember." Head low. Remembering how they were forced into doing so many stupid things. Acting like a fool. Running meaningless errands.
+
+"Then." "Get out."
+
+Giving a slight glare. Yet, listening. Slowly making their way out.
