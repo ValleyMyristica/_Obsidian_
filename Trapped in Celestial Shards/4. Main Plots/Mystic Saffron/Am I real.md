@@ -63,11 +63,11 @@ He falls into the hug, holding them softly.
 
 A quiet moment.
 
-"How I wish you didn't lie so much all the time." Till he breaks it. 
+"How I wish you didn't lie so much all the time." 
 
+But it's only a moment.
 
+Hugging them tighter. "I'm..." If only he hadn't done it. "I care about you." He wants to fix it. "I'm here for you." Or... fix what he *can* fix. 
 
-
-Hugging them tighter. "" 
-
+They simply hug him more, hiding in his embrace.
 
