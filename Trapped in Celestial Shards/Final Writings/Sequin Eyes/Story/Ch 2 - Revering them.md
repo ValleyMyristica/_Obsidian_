@@ -461,7 +461,7 @@ He stops, falling out of his thoughts, as if he fell to the floor from his bed. 
 
 He did it again.
 
-"I..." Gaze switching between his hands and the body. Then. The face. Clenching his teeth, forcing a smile. He roughly smacks the cheeks of the face, grabbing on tightly. 
+"I..." Gaze switching between his hands and the body. Then. The face. Clenching his teeth, forcing a smile. He roughly claps the cheeks with both hands, grabbing on tightly. Dull nails digging in.
 
 Pulling it closer.
 
@@ -486,3 +486,38 @@ Grip tightening.
 Moving closer.
 
 "To have a purpose."
+
+Staring.
+
+"Right?"
+
+Never letting go of his smile, 'the head' gives a nod.
+
+"I knew it!"
+
+He throws his hands up in joy, letting go of the body. Looking up towards the dark sparkling celling. Smiling. 
+
+"It wasn't-"
+
+The body falls on him.
+
+"Ah!"
+
+Pushing it off. Making some distance. Looking at it with **disgust**. 
+
+"Don't touch me."
+
+Just. Watching it. 
+
+Fixated.
+
+*You should eat.*
+
+His stomach grumbles.
+
+"Right." Taking hold of the obsidian knife.
+
+*Isn't it nice?*
+
+"It's a very nice knife." He notes shifting it in his hand to find the perfect grip.
+
