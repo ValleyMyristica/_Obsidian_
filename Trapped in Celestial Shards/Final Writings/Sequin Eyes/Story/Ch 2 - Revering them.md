@@ -521,3 +521,18 @@ His stomach grumbles.
 
 "It's a very nice knife." He notes shifting it in his hand to find the perfect grip.
 
+*What will you make?*
+
+"I can't- Huh?" Looking around. "I..." Something feels... *off*. "I'd need a fire to cook." He says out loud, as if anyone was near to hear. "And... umm..." Trying to think, but the closest he's ever gotten to survival cooking is a BBQ. And. - A realisation hits, focusing back on the body. - The fool made a meal. 
+
+So then.
+
+*There should be some useful things in that backpack.*
+
+Exactly.
+
+Plus, he's not doing anything wrong. 
+After all. It would be a *waste* to let it go unused. 
+
+The moves towards the backpack, which is leaning towards the wall, neatly set up near the body. Which... it's normal. Yet... he can't shake the feeling that it's also quite odd. After all this time, how could it have been so overlooked? Then again. **It's only been a day.**
+
