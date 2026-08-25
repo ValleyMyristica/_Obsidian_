@@ -534,5 +534,17 @@ Exactly.
 Plus, he's not doing anything wrong. 
 After all. It would be a *waste* to let it go unused. 
 
-The moves towards the backpack, which is leaning towards the wall, neatly set up near the body. Which... it's normal. Yet... he can't shake the feeling that it's also quite odd. After all this time, how could it have been so overlooked? Then again. **It's only been a day.**
+The moves towards the backpack, which is leaning towards the wall, neatly set up near the body. Which... it's normal. Yet... can't shake the feeling that it's also quite odd. How could he have missed it? Then again. **It's only been a day.**
+
+Wait. It's been like three. Looking back towards the entrance. Towards where he drew on the wall. Can't see anything from here. It's probably three. It's disturbing how hungry you can get. Pondering while rummaging through the bag. It would be nice to find something of use. Like that weird little fire set the fool used to make some food. If lucky, made there's even some spice left? Or at least some salt.
+
+"There." Feeling something metal like. He pulls it up. "Huh?" Looking at it. Trying to understand how it works. It's... probably the thing. Looking at it, rotating it in his hands. "How does it work?".
+
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+Okay. Took longer than he'd like, but he was finally able to set up the mini cooking station.
+
+
+
 
