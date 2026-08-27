@@ -543,8 +543,61 @@ Wait. It's been like three. Looking back towards the entrance. Towards where he 
 
 <center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
 
-Okay. Took longer than he'd like, but he was finally able to set up the mini cooking station.
+Okay. Took longer than he'd like, but he was finally able to set up the mini cooking station. Mmm. How do you start it? Trying to remember. Turning some nobs. No fires in sight. Maybe there was a lighter involved?
+
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
+
+After rummaging through the backpack again, he finds the lighter and tests it to make sure it works.
 
 
+<center>᚛        ᚜ 𖤍 ᚛        ᚜</center>
 
+It hurts.
 
+*Idiot.*
+
+Everything hurts.
+
+*Can't we replace it?*
+
+Looking around, everything is all over the place.
+
+*We should have taken the other one.*
+
+At least nothing is destroyed. Looks more like the cleaning staff didn't do their job. Always so lazy. Dad didn't even let him take *one*. Does he not understand how much important time cleaning wastes?
+
+*If only.*
+
+Taking hold of his head. It feels heavy. Like a ringing in his ears he can't stop.
+
+*Aww. But I like this one. So fun to mess with.*
+
+Trying to massage his head to get rid of the heavy headache. That clouding feeling that there are others around, talking. "Quiet." 
+
+*So oblivious, hasn't noticed a thing.*
+
+An ominous feeling fills, as he looks up again. "No." Terror spikes. The white humanoid thing is in front. Feeling frozen. Watching how it slowly moves closer. 
+
+*Oh! Look!*
+
+Still in terror, he watches it lift its left arm high. Then, like a whip. Throwing it down, letting the white sand expand out from the arm, hitting the wall and floor just by his right side.
+
+*Stop using the same tricks, we've already see that.*
+
+Petrified. This is the end. He'll just end up like the fool.
+
+*Plus, last time the other one died, would be a hassle if the same thing happened again.*
+
+The white humanoid entity watches him.
+
+*Can't we break it a little? Just an arm or a leg.*
+
+Moving closer.
+
+*As fun as that would be, it would be good to have a caretaker that has all its functions enabled.*
+
+Watching.
+
+*Shouldn't we make sure it listens?*
+
+Chaught. In one swift move, the white humanoid *thing* takes hold of his arm.
