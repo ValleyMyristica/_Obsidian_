@@ -1,11 +1,12 @@
 
 ![[2. Characters/Images/mini_mystic.png|64]]
 
-| Name      | Eden       |
-| --------- | ---------- |
-| Cell type | Animal     |
-| Pronouns  | they/them* |
-| Celestial | Moon       |
+| Name        | Eden       |
+| ----------- | ---------- |
+| Cell type   | Animal     |
+| Pronouns    | they/them* |
+| Celestial   | Moon       |
+| Environment | Beach      |
 \* They go by she/her too, and depending on who's fronting, they can go by any pronouns
 
 ***Aesthetic:** The moon reflected in the waters*

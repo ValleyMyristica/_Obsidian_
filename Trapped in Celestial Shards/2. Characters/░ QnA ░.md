@@ -13,9 +13,9 @@
 
 > Sillies for each
 
-| Subject         | Aesthetic      | Shape    | Season |
-| --------------- | -------------- | -------- | ------ |
-| **[[Sequin]]**  | Star Space     | Star     | Spring |
-| **[[Saffron]]** | Sunny Meadow   | Triangle | Summer |
-| **[[Eden]]**    | Earthly Forest | Square   | Fall   |
-| **[[Mystic]]**  | Moon Water     | Circle   | Winter |
+| Subject         | Aesthetic      | Shape    | Season | Sin   | Virtue    |
+| --------------- | -------------- | -------- | ------ | ----- | --------- |
+| **[[Sequin]]**  | Star Space     | Star     | Spring | Pride | Diligence |
+| **[[Saffron]]** | Sunny Meadow   | Triangle | Summer | Wrath | Kindness  |
+| **[[Eden]]**    | Earthly Forest | Square   | Fall   | Sloth | Humility  |
+| **[[Mystic]]**  | Moon Water     | Circle   | Winter | Envy  | Patience  |

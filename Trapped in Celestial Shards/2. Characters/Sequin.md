@@ -2,6 +2,13 @@
 ![[2. Characters/Images/mini_sequin.png|64]]
 Cell: Protista
 
+| Name        | Eden         |
+| ----------- | ------------ |
+| Cell type   | Protista     |
+| Pronouns    | One/Whatever |
+| Celestial   | Stars        |
+| Environment | Mountains    |
+
 ***Aesthetic:** Space, the starlit night*
 Art Prompts:
 * Shining on stage

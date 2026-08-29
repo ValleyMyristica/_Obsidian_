@@ -600,4 +600,4 @@ Watching.
 
 *Shouldn't we make sure it listens?*
 
-Chaught. In one swift move, the white humanoid *thing* takes hold of his arm.
+Caught. In one swift move, the white humanoid *thing* takes hold of his arm.
