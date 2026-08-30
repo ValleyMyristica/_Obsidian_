@@ -601,3 +601,6 @@ Watching.
 *Shouldn't we make sure it listens?*
 
 Caught. In one swift move, the white humanoid *thing* takes hold of his arm.
+
+*True, we should train it.*
+

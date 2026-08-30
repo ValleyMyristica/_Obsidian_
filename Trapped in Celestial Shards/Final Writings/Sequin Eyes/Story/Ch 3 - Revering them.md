@@ -1,0 +1,1 @@
+Like walking on eggshells, or better yet, walking on burning coal. Or maybe it all felt like walking on sharp rocks, a bed of nails? 
