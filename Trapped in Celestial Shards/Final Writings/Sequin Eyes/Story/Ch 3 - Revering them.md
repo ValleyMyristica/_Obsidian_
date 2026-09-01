@@ -8,3 +8,8 @@ Revere them.
 
 It's quiet still.
 
+They're keeping him alive.
+**They're the ones that can kill him.**
+
+He's special.
+**He's just a toy.
