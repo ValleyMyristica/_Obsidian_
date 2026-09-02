@@ -9,6 +9,9 @@
 | Environment | Beach      |
 \* They go by she/her too, and depending on who's fronting, they can go by any pronouns
 
+Has a mouse plushie!!
+-# Field mouse!
+
 ***Aesthetic:** The moon reflected in the waters*
 Art Prompts:
 * *The horrors*
