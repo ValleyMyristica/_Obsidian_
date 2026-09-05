@@ -1,6 +1,3 @@
-
-# Playing in the sand
-
 Alone. Like normal. Playing in the sand. 
 
 Building a little castle. Imagining a story, a fairy tale. 

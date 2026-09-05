@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpen",
       "⭐",
       "LiStar",
       "LiMap",
-      "LiStarHalf",
-      "LiLibrary"
+      "LiStarHalf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,9 @@
   "4. Main Plots/_Eden Reality": "CsMiniEden",
   "4. Main Plots/_Saffron Meadow": "CsMiniSaffron",
   "4. Main Plots/_Sequin Eyes": "CsMiniSequin",
-  "Final Writings": "⭐"
+  "Final Writings": "⭐",
+  "5. Short Stories": {
+    "iconName": "LiBookOpen",
+    "iconColor": "#ffd438"
+  }
 }
