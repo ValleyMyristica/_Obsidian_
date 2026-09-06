@@ -1,0 +1,1 @@
+On the longest day, where a century has passed. The children start to emerge. Like a flower blooming bright, like a collection of the forest might and like the crack of an egg, they exist.
