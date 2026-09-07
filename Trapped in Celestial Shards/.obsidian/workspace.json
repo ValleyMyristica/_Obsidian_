@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5026054382324
+    "width": 200
   },
   "right": {
     "id": "4a73887428c11988",
@@ -188,10 +188,13 @@
   },
   "active": "49356d31019246a6",
   "lastOpenFiles": [
-    "2. Characters/░ QnA ░.md",
+    "ExtraResources/Website Notes.md",
     "5. Short Stories/Celestial Shards - Let the games begin.md",
-    "2. Characters/Mystic.md",
+    "5. Short Stories/Exercises/3 min - Exercise.md",
+    "5. Short Stories/Exercises",
     "5. Short Stories/Saffron -.md",
+    "2. Characters/░ QnA ░.md",
+    "2. Characters/Mystic.md",
     "2. Characters/Side Characters/SM SUN/Sister.md",
     "2. Characters/Side Characters/SM SUN/Sunshine.md",
     "2. Characters/Side Characters/SM SUN/Calen.md",
@@ -223,8 +226,6 @@
     "4. Main Plots/_Mystic Silence/x. Remember/I'll remember you.md",
     "4. Main Plots/_Saffron Meadow/1. The begining/A flowering bloom.md",
     "3. Legends/The sun.md",
-    "3. Legends/EXTRA.md",
-    "3. Legends/The cat man.md",
     "1. Places/MAP.canvas",
     "2. Characters/_Images_.canvas",
     "4. Main Plots/_Mystic Silence/x. Remember",
@@ -235,7 +236,6 @@
     "ExtraResources/New folder",
     "ExtraResources",
     "Recources",
-    "New folder",
     "Main Plots/Untitled.canvas"
   ]
 }
