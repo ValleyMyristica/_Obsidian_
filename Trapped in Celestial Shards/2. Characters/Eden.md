@@ -19,3 +19,9 @@ Art Prompts:
 * Possessing a lamb
 * Standing in ruins of a rural town now filled with death
 * Being very chill about it
+
+
+
+Notes:
+
+Everyone effected gets a slight tint of yellow in their eyes
