@@ -22,3 +22,36 @@ From what?
 > Responsibility?
 
 Hmm.
+
+
+Creatures of the stars
+Taking human control
+Fascinated with buildings, electricity
+More and more
+
+Till the stars got bored
+This was all just to pass the time for the real show
+A pre show
+Seeing what interesting things the earth holds
+
+Also made it clear that it's far better to create a *real* body
+Than taking another's
+Those things perish so easily
+
+But a few did well
+But they could feel time running out
+People hated them for the corners they cut
+
+So, they took what they could
+On a boat they went away
+
+Until they saw the shore on another day
+
+**The town**
+
+*What do you think?*
+
+> Eh.
+> It's *something*, but it feels *lacking*
+> Why would they end up there?
+> Magic?
