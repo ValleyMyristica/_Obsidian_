@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Electronics.md",
+                "file": "3. Hobby/- Tasks -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electronics"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6f1498db44b4c614",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3a64e7c9ad69871",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "- Tasks -"
             }
           }
         ]
@@ -99,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "452ec383a19d7fb3",
@@ -201,14 +185,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3a64e7c9ad69871",
+  "active": "7a59f67f53aab24e",
   "lastOpenFiles": [
-    "School/Electronics.md",
-    "Study/wMalmö.md",
-    "Untitled.base",
+    "3. Hobby/DailyPrograming.md",
     "Welcome.md",
-    "Hobby",
-    "Study",
-    "School"
+    "3. Hobby/Celestial Shards.md",
+    "Untitled.base",
+    "3. Hobby/- Tasks -.md",
+    "1. School/Signals.md",
+    "1. School/Java Software.md",
+    "1. School/Electronics.md",
+    "3. Hobby",
+    "School/---de.md",
+    "2. Study/wMalmö.md",
+    "3. Hobby",
+    "2. Study",
+    "1. School"
   ]
 }

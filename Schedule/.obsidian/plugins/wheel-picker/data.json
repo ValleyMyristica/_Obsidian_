@@ -1,0 +1,19 @@
+{
+  "animationTime": 0.5,
+  "wheelSize": 200,
+  "fontSize": 20,
+  "strokeColor": "#303030",
+  "strokeWidth": 2,
+  "textColor": "#000000",
+  "useCustomColors": true,
+  "customColors": [
+    "#ffc7c7",
+    "#ffd9b3",
+    "#ffff9e",
+    "#bdffbd",
+    "#bdbdff",
+    "#e9ccff",
+    "#ffd1f7"
+  ],
+  "displayStatus": true
+}
