@@ -39,7 +39,7 @@ Using what was learned from growing up being hailed as the future leader
 Sequin was able to negotiate with the stars some
 
 
-### [[Mystic]]
+### [[2. Characters/Mystic]]
 Initially didn't care
 But, with the stars *want* 
 And how *incompetent* Mystic can be

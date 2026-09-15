@@ -1,2 +1,4 @@
-- [ ] Read tentor
+- [ ] Read the exams
 - [ ] Assess
+
+

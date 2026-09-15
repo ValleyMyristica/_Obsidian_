@@ -1,6 +1,6 @@
 (Name: Tami)
 
-The mother of [[Mystic]]
+The mother of [[2. Characters/Mystic]]
 She loves them dearly
 But isn't always the best
 

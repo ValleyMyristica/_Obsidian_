@@ -25,7 +25,7 @@ Feeling a bit tired...
 > 
 > And
 > 
-> How a lost [[Mystic|soul]] was found and used
+> How a lost [[2. Characters/Mystic|soul]] was found and used
 
 
 

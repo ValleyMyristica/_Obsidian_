@@ -4,7 +4,7 @@ So they never dare look to long
 They're truly *radiant*
 
 
-[[Mystic]] is trying to be sweet
+[[2. Characters/Mystic]] is trying to be sweet
 Yet, all see them more as a tiger
 Docile, but you never know when it will snap
 Most decide to just ignore it

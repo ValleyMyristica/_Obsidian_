@@ -1,4 +1,4 @@
-The dog whom [[Mystic|the moon child]] finds and befriends when young
+The dog whom [[2. Characters/Mystic|the moon child]] finds and befriends when young
 
 The death of the dog hit hard
 

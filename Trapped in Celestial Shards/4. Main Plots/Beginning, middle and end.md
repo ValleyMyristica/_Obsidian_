@@ -19,7 +19,7 @@ Idea:
 ### End
 * Just, a 
 
-## [[Mystic]]
+## [[2. Characters/Mystic]]
 
 ### Start
 * Lonely, timid

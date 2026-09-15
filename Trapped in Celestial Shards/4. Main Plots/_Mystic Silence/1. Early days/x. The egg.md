@@ -77,6 +77,6 @@ Then, one day, the egg finally hatched.
 
 A little larvae, reminiscent of fluffy dog with scales came through.
 
-It was so *[[Mystic|mystical]]* she couldn't help but look at it with awe.
+It was so *[[2. Characters/Mystic|mystical]]* she couldn't help but look at it with awe.
 
 

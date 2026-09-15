@@ -1,5 +1,5 @@
 
-"You can leave now." [[Mystic]], stern with tired eyes.
+"You can leave now." [[2. Characters/Mystic]], stern with tired eyes.
 
 [[Saffron]] stays quiet, looking to the side.
 

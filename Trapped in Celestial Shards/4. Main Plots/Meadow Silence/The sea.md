@@ -1,5 +1,5 @@
 **Characters**
-	[[Mystic]] and [[Saffron]]
+	[[2. Characters/Mystic]] and [[Saffron]]
 
 **Background**
 	 Saffron is finally warming up to the idea of bringing Mystic back to reality. Mystic and all other who lay in their mind. For now, he's doing his best to warm them up to what may be found outside. Mostly showing them around town, places one can eat, the park.

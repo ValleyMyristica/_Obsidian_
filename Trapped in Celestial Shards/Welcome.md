@@ -20,7 +20,7 @@ The four shards
 	Sun - "Sweet sun, a sight to behold."
 * [[Sequin]]
 	None- "The stars care for none."
-* [[Mystic]]
+* [[2. Characters/Mystic]]
 	Moon - "Lovely moon, what secrets do you hold?"
 * [[Eden]]
 	Both - "The earth sees both."

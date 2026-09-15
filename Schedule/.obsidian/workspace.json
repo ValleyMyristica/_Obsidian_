@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Hobby/- Tasks -.md",
+                "file": "1. School/Electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- Tasks -"
+              "title": "Electronics"
             }
           }
         ]
@@ -185,16 +185,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a59f67f53aab24e",
+  "active": "b5ef779cf2326b32",
   "lastOpenFiles": [
+    "TODAY/Week 38.md",
+    "1. School/Electronics.md",
+    "1. School/Java/Java Software.md",
+    "TODAY",
+    "3. Hobby/- Tasks -.md",
+    "1. School/Java/D0018D - U1.md",
+    "1. School/Java",
+    "1. School/Signals.md",
+    "3. Hobby/Celestial Shards.md",
     "3. Hobby/DailyPrograming.md",
     "Welcome.md",
-    "3. Hobby/Celestial Shards.md",
     "Untitled.base",
-    "3. Hobby/- Tasks -.md",
-    "1. School/Signals.md",
-    "1. School/Java Software.md",
-    "1. School/Electronics.md",
     "3. Hobby",
     "School/---de.md",
     "2. Study/wMalmö.md",

@@ -2,6 +2,7 @@
 # D0018E
 The java 2 course
 - [ ] Ask for access to Canvas
+
 - [ ] Lab 1
 	- [ ] Set up environment
 	- [ ] Read the task

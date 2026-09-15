@@ -5,7 +5,7 @@ Hurt and needing care
 
 
 Feeling like a failure
-[[Mystic]] runs off
+[[2. Characters/Mystic]] runs off
 Trying to find help
 
 
