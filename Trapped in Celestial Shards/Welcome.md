@@ -16,13 +16,13 @@ Socials:
 	Patreon? Paypal?
 
 The four shards
-* [[Saffron]]
+* [[2. Characters/Saffron]]
 	Sun - "Sweet sun, a sight to behold."
 * [[Sequin]]
 	None- "The stars care for none."
 * [[2. Characters/Mystic]]
 	Moon - "Lovely moon, what secrets do you hold?"
-* [[Eden]]
+* [[2. Characters/Eden]]
 	Both - "The earth sees both."
 
 

@@ -1,4 +1,4 @@
-* [[Sunshine|Kid]] meets [[Saffron]]
+* [[Sunshine|Kid]] meets [[2. Characters/Saffron]]
 * Kid breaks Saffron
 * Saffron sees his *parents* around another kid
 	* He can't process his emotions, he can't understand

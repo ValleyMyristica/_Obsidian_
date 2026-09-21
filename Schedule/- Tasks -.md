@@ -1,8 +1,5 @@
 
 # Daily writing
-- [ ] Write
-	- [ ] 
-
 ```wp
 -What to write-
 Sequin Eyes
@@ -13,19 +10,20 @@ Eden reality
 
 
 # Tasks
-- [ ] Draw today
-	- [x] Doggie Morthy ✅ 2026-09-13
-	- [x] Peri blinking (Isabel) ✅ 2026-09-13
 
+School
+- [ ] Electronics
+
+
+- [ ] Draw today
 - [ ] Write today
 	- [ ] What it takes
 	- [ ] Shattered Shards
 	- [ ] Requests
 		- [ ] Gravity falls, Aladdin AU
 
-- [x] Schedule a photo Every day ✅ 2026-09-13
- 
-- [x] Japanese ✅ 2026-09-13
+- [ ] Schedule a photo 
+- [ ] Japanese
       
 - [ ] What it takes 
 	- [ ] Write today

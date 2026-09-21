@@ -55,6 +55,6 @@ Finds Sol to be *fine*
 Competent enough
 
 
-### [[Saffron]]
+### [[2. Characters/Saffron]]
 Interesting
 One they sometimes tell Mystics *incompetence* too

@@ -7,7 +7,7 @@ Idea:
 2. 
 
 
-## [[Eden]]
+## [[2. Characters/Eden]]
 
 ### Before
 * Fought and lost everything
@@ -29,7 +29,7 @@ Idea:
 ### End
 * Safe, with a loved one
 
-## [[Saffron]]
+## [[2. Characters/Saffron]]
 ### Start
 * Pretending, pressure
 ### Middle

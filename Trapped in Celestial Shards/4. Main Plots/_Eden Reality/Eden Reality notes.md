@@ -6,7 +6,7 @@ Smart and treated like the mayor of the town
 
 The ghost town on the other hand was once the more popular place, until *the incident* that let it to all fall into disgrace. 
 
-And, it was all [[Eden]]'s fault.
+And, it was all [[2. Characters/Eden]]'s fault.
 
 E saw the changes.
 Tried to stop it, but ended up using drastic measures.

@@ -1,7 +1,7 @@
 
 "You can leave now." [[2. Characters/Mystic]], stern with tired eyes.
 
-[[Saffron]] stays quiet, looking to the side.
+[[2. Characters/Saffron]] stays quiet, looking to the side.
 
 "You don't love me." Holding onto themself. "You said it yourself." Turning away. "So, you can leave." Looking at him. Begging. "Please."
 

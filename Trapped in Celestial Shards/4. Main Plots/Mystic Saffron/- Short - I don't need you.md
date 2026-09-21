@@ -1,5 +1,5 @@
 
-"I don't need you." [[Saffron]] tells, blunt.
+"I don't need you." [[2. Characters/Saffron]] tells, blunt.
 
 "What?" The words hit [[2. Characters/Mystic]] like cold water to the face. "Why-"
 

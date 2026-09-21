@@ -10,11 +10,11 @@ Docile, but you never know when it will snap
 Most decide to just ignore it
 
 
-[[Saffron]] will **never** let anyone see his truth
+[[2. Characters/Saffron]] will **never** let anyone see his truth
 He looks quite approachable, with a nice fragrance
 
 
-[[Eden]] a bit stiff
+[[2. Characters/Eden]] a bit stiff
 Like a body never put to rest
 *Uncanny*
 
