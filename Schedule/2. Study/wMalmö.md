@@ -21,10 +21,10 @@
 	- [ ] 20 Sep, Comment
 	- [ ] 23 Sep, Feedback
 
-- [ ] 21 Sep, 10:15-12:00 workshop 
+- [x] 21 Sep, 10:15-12:00 workshop 
 
 - [ ] Writing v.39
-	- [ ] 23 Sep, Comment
+	- [ ] 23 Sep, Assignment
 	- [ ] 27 Sep, Feedback
 	- [ ] 27 Sep, Feedback
 - [ ] Reading v.39
