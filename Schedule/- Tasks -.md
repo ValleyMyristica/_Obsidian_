@@ -1,3 +1,10 @@
+- [ ] Include shopping list
+- [ ] Print blanket
+
+
+
+
+
 
 # Daily writing
 ```wp
