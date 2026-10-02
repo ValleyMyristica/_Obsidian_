@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- Tasks -.md",
+                "file": "1. School/Electronics/Exercises Electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- Tasks -"
+              "title": "Exercises Electronics"
             }
           }
         ]
@@ -187,8 +187,10 @@
   },
   "active": "b5ef779cf2326b32",
   "lastOpenFiles": [
-    "2. Study/wMalmö.md",
     "2. Study/wLuleå.md",
+    "2. Study/wMalmö.md",
+    "3. Hobby/DailyPrograming.md",
+    "- Tasks -.md",
     "1. School/Electronics/Exercises Electronics.md",
     "2. Study/Module 4.docx",
     "1. School/Electronics/Material till 6e upplagan/Lektionsplan_E0013E_2023_Uppl_6-1.pdf",
@@ -200,8 +202,6 @@
     "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/8.69.pdf",
     "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/8.68.pdf",
     "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/8.6.pdf",
-    "- Tasks -.md",
-    "3. Hobby/DailyPrograming.md",
     "TODAY/Week 38.md",
     "3. Hobby/Celestial Shards.md",
     "Welcome.md",
