@@ -1,5 +1,9 @@
 Name: Tia?
 New name: Tygra?
+Suggestions: 
+Fern, Clover, Florence, Peony, Aspen, Basil, 
+Daffodil(Jonquil), Dandelion(Tarax), Valerian
+
 
 Started out as a girl
 Transitioned into boy
