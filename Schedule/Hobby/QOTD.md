@@ -24,14 +24,6 @@ If your character had a nightmare, what would it be about?
 
 @QOTD
 
-Your OC is given an unbreakable sword that never dulls and can cut through even metal. How will they achieve their goals with it?
-
--# Q by Drey
-
-#######################################
-
-@QOTD
-
 Your OC was given an important task to travel into the future and assassinate a target that somehow will cause the end of the world. Your character somehow agreed and when they travelled into the future, the target...was them. How will they react?
 
 -# Q by Drey
@@ -146,9 +138,10 @@ Do they have any contradictory beliefs that other people have noticed or are sta
 
 @QOTD
 
-XXX
+What would happen if your OC met and fought with their alter ego who is the opposite of them?
+Who would win?
 
--# Q by XXX
+-# Q by Zayn
 
 #######################################
 

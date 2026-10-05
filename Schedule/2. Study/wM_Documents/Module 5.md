@@ -1,6 +1,34 @@
 
-# <font color="#05b5c5">An act of kindness</font>
+# <font color="#05b5c5">An act of kindness</font> 
 - [ ] 5 Oct, Assignment (Act of kindness)
+
+The world can be cruel
+So very rarely kind
+
+But, give me a moment
+I want to ease your mind
+
+Let's go down to the shore
+Where waves greet earth
+And winds taste of sea
+Like salty seaweed on a bed of rocks
+It's cold, it's the same, it's everchanging
+
+I'll share you my warmth
+Hand in hand, lean on me
+Hear my heart beat
+Hear it ebb and flow, like the waves you can see
+
+I'll hold you
+
+I know your day has been tough
+And tomorrow will too
+
+But, right here, in this moment
+
+*I'm here for you*
+
+
 
 
 # <font color="#05b5c5">People Watching</font>
@@ -12,7 +40,7 @@ This one?
 
 
 
-# <font color="#05b5c5">Reading</font>
+# <font color="#05b5c5">Reading v.41</font> 
 - [ ] 11 Oct, Comment
 **(C)**   Burroway's chapter on Character. 
 **(R)**   Can Xue – The child who raised poisonous snakes, p 644
@@ -49,7 +77,7 @@ Write a story where the person you described last week is the main character. Ro
 
 
 
-# <font color="#05b5c5">Reading</font>
+# <font color="#05b5c5">Reading v.42</font>
 - [ ] Reading v.42
 All the 'try this' in the chapter on Character. 
 **No prose and poetry this week.** 
