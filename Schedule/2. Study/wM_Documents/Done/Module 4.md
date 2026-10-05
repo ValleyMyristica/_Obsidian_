@@ -123,6 +123,7 @@ I wish you the best, wherever you go ᵔᵜᵔ
 
 # Feedback 2
 
+**For Shy:**
 Your wording is very nice, and you bring up good points, though they feel more as observations as to what the text is doing instead of information in to how *you* interpreted it. Feeling less like a readers view, and more as if the writes text is being explained to them. It's good to mention what technique you find the writer used and what effect they had on the text, but it's also good to tell what effect the text had on *you*, the reader.
 
 You mention how "emotions of the poetic I" can be, in a sense, overwhelming. Does that mean you felt overwhelmed at some point in the poem? Was there a specific part, or was it more building? Do you think the poem benefits or is undermined by this "*overwhelming*"?
@@ -130,6 +131,49 @@ You mention how "emotions of the poetic I" can be, in a sense, overwhelming. Doe
 And, in what *way* is it overwhelming?
 Does it feel like there's to much going on and your loosing your grasp of the text?
 Or is it more too many emotions are evoked and you need a break?
+
+I think it would help the write a lot if you also went over how you *experienced* the text, for regardless of if your experience was the "intended" experience, it's useful to know what effect the text has. It can be analysed and than used in further creations that aim to evoke that same feeling.
+
+**For Crace:**
+You're good at bringing forth your understanding of the story in a clear manner, giving credence to the fact that the story was told in a clear manner. Which is highlighted more by your mention of it having "a good pace and that it does not evolve too quickly".
+
+Further on, you mention that similar stories has left you disappointed, did this one do the same? Is there a specific part in which the disappointment hit? What of it makes you disappointed?
+(If it's not relevant to your feedback, I don't think there should be a need to mention something negative.)
+
+You mention "I found compelling in this story is the use of terminology pertaining to the field of mining. I would really like to know if this is a hobby of the writer or a family tradition or whether research was needed in order to complete the story."
+
+To which one wonders, would you like that to be something the story tells?
+It feels like information that is outside the scope of the story, and would be an odd inclusion
+
+I can understand finding it interesting, and if you want to have a dialogued with the author, that is good. But, with your feedback, it's good to bring forth things that would help improve the story. Not just things that would be fun to know. Think more, *would the story benefit from letting you know?* 
+
+Though, as we said, there is nothing wrong with being curious, it's nice to let the writer know that you found interest in their work, even when it falls outside the story. So, a recommendation would be to add it more as an addition to your feedback, just at the end. Not have it baked into what is the feedback, but more a sidenote, a little tangent of interest.
+
+A "I find your use of mining terminology interesting, do you have a lot of experience with that or did you have to do a lot of resource?" at the end, like a little compliment of how well they utilized it.
+
+An important thing to note with giving feedback is that your main goal is to make the writer want to write more. You're doing good here, you have good understandings of the text and you try to be sweet and clear. One part I find lacking is that it all feels to miss a little personal touch, how *you* feel about it. Even if it's petty and even if it's subjective, it's still something one likes to know. 
+
+Cause, you're a reader, your a writer, you're your own person, and everyone has their own view of things. Even if you try to be objective and clear, there is still a bit of you shining through.
+
+And, honestly?
+
+I'd like to see more of you!
+
+You have a good grasp
+I wanna know more!
+
+Oh, won't you tell?
+Won't you tell?
+Of your experiences as well?
+
+I think it would be fun to know
+Don't you think it would be fun to tell?
+
+Be yourself
+And write
+
+Oh! And, don't forget to have fun
+I think that part might be the most important one
 
 
 

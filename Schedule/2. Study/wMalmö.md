@@ -34,12 +34,12 @@
 ### Module 4
 - [x] 28 Sep, Seminar
 
-- [ ] Writing v.40 (Feedback to book text)
+- [x] Writing v.40 (Feedback to book text)
 	- [x] 30 Sep, Assignment
 	- [x] 4 Oct, Feedback
-	- [ ] 4 Oct, Feedback
+	- [x] 4 Oct, Feedback
 	
-- [ ] Reading v.40 (Reviewing your feedback)
+- [x] Reading v.40 (Reviewing your feedback)
 	- [x] 30 Sep, Comment
 	- [x] 4 Sep, Feedback
 	- [x] 4 Sep, Feedback
