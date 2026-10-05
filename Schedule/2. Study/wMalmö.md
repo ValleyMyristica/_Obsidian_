@@ -36,7 +36,7 @@
 
 - [ ] Writing v.40 (Feedback to book text)
 	- [x] 30 Sep, Assignment
-	- [ ] 4 Oct, Feedback
+	- [x] 4 Oct, Feedback
 	- [ ] 4 Oct, Feedback
 	
 - [ ] Reading v.40 (Reviewing your feedback)
@@ -47,9 +47,6 @@
 
 
 ### Module 5
-
-- [ ] 28 Sep, Seminar
-
 - [ ] Writing v.41
 	- [ ] 5 Oct, Assignment (Act of kindness)
 	- [ ] 7 Oct, Feedback

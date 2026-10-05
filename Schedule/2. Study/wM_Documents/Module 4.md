@@ -61,12 +61,75 @@ And, one can't be more thankful for all the lovely advice and points of improvem
 Generally, I haven't gotten anything **big** that needs improvement, more small points specific to the story, and the pattern seems to be that I should have more trust that the reader understands, as well as make things clearer.
 
 
-## Feedback 1
+# Feedback 1
 
-Your feedback is well worded and nice, you bring up things of fondness and things of improvement. Your very sweet in what you say and I do like how you brough up specific and soft suggestions on what might help improve the text. As well as questions you found while reading the text
+Your feedback is well worded and nice, you bring up things of fondness and things of improvement. Your very sweet in what you say and I do like how you brough up specific and soft suggestions on what might help improve the text. As well as questions you found while reading the text.
 
+For my part, I find that questions from the reader can really help the writer understand how the text is interpreted. Cause, as you write you often have an idea of the "right" interpretation, and it's your ability as a writer that often determines how well you convey that to the reader.
 
+Additionally, suggestions are so very helpful in giving the writer something concrete to do. For, sometimes it's easy to hear "I feel like this part could have been done better" and wonder, *how* could it have been done better?
 
+So, overall your feedback is quite helpful and encouraging
 
-Also, "and show make it *eady* to imagine the place"
+It's very nice when you bring up specific parts, like how his dreams blending into reality is a bit confusing, but but also quite effective. Though, in need of clarity. 
+
+*How would you suggest brining clarity to it?*
+And, if a longer ending was to be made, where do you find the focus should lie?
+(The reality of things, or the dream?)
+(From who's eyes should we see?)
+
+And, it's always worth considering
+The confusion and want to know more
+*Could they have been the intent?*
+
+Always something a bit hard to know, unless told
+But, you did really well in being kind and leaving everything open
+Telling thoughts, simple and clear
+Very nice!
+
+Also, "the descriptions of the rocks, soil, hills and show make it *eady* to imagine the place"
 It's nice to hear that the descriptions helped make it *easy* to read
+
+
+
+As for your feedback on Shy, your very sweet and you bring up a good point.
+*What is the poems connection to the title?*
+
+You're also sure to mention that some small details would be good, any thought as to what those details might be? Maybe something that evokes one of the five senses would do well? Something that helps ground the reader in the surroundings? What sort of details would *you* suggest including, and how do you think they would help?
+
+Oh! And I quite like your thoughts in regard to the last line, how it's phrasing feels so disconnected from the rest of the poem. 
+
+Do you have any interpretations as to why that could be?
+How did it make you feel? Did it take you out of the poem?
+Considering it's the last line, do you find it to be something positive, neutral or to the detriment of the poem?
+
+
+And, as always, you're so very nice and kind with your words
+It's lovely that you end on a high note, telling of what was the strength of the poem
+
+You've given some lovely feedback
+And, very nice and sweet
+
+You write with such kindness that even if the topic is about what should be improved
+It feels as though your aim is indeed to help and encourage
+
+And, that is what the core of what ones feedback should be
+It should encourage the writer to write more!
+
+To that extent
+I hope you'll also write more!
+It shall be fun to see what more you may show
+I wish you the best, wherever you go ᵔᵜᵔ
+
+# Feedback 2
+
+Your wording is very nice, and you bring up good points, though they feel more as observations as to what the text is doing instead of information in to how *you* interpreted it. Feeling less like a readers view, and more as if the writes text is being explained to them. It's good to mention what technique you find the writer used and what effect they had on the text, but it's also good to tell what effect the text had on *you*, the reader.
+
+You mention how "emotions of the poetic I" can be, in a sense, overwhelming. Does that mean you felt overwhelmed at some point in the poem? Was there a specific part, or was it more building? Do you think the poem benefits or is undermined by this "*overwhelming*"?
+
+And, in what *way* is it overwhelming?
+Does it feel like there's to much going on and your loosing your grasp of the text?
+Or is it more too many emotions are evoked and you need a break?
+
+
+
