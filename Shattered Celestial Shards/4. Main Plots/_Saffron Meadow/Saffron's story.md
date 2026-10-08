@@ -61,3 +61,52 @@ No! Not the closet! I- I didn't even-
 Right... 
 
 I'll... I'll do better...
+
+
+
+
+* Forest
+* Town 
+
+
+End in defeat
+The kid is free of him
+And it finally hits him
+He's a **monster**
+
+He lays
+Wanting to rot
+Wanting the winter to come and take him out
+
+He lays
+He lays
+
+And the kid is finally safe
+
+# He's a monster
+He lays
+He lays
+
+Until he hears Mystic call for him
+He panics
+He runs
+
+He can't face them
+(He can't face anything)
+
+
+He runs through the forest
+In a direction he's never gone
+It take long
+At one point, he's attacked in the forest while trying to sleep
+He fights back, only to regret it
+Not knowing 
+*Should he have done that?*
+Was that bad?
+
+How could he?
+
+
+
+He runs
+Until he reaches Eden

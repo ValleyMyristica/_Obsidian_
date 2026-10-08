@@ -80,15 +80,6 @@ Your OC is given 32 days to prepare. That's it, someone or something told them t
 
 @QOTD
 
-What's a physical feeling or audible noise that drives them insane, and how do they deal with it?
--# (Do they live in an environment where it's constant?)
-
--# Q by Tel
-
-#######################################
-
-@QOTD
-
 What's something they condemn others for doing publicly but secretly excuse it when they do it themselves? Has anyone ever called them out on it/how have they reacted?
 
 -# Q by Tel
@@ -138,18 +129,9 @@ Do they have any contradictory beliefs that other people have noticed or are sta
 
 @QOTD
 
-What would happen if your OC met and fought with their alter ego who is the opposite of them?
-Who would win?
+What if your oc found a powerful device what would they do?
 
--# Q by Zayn
-
-#######################################
-
-@QOTD
-
-XXX
-
--# Q by XXX
+-# Q by Angery
 
 #######################################
 

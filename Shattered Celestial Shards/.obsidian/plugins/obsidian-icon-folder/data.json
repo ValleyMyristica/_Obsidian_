@@ -46,10 +46,6 @@
     "iconName": "LiChessPawn",
     "iconColor": "#00ffff"
   },
-  "3. Legends": {
-    "iconName": "LiLibrary",
-    "iconColor": "#ff00ff"
-  },
   "4. Main Plots": {
     "iconName": "LiStarHalf",
     "iconColor": "#ffff00"
@@ -64,5 +60,9 @@
   "5. Short Stories": {
     "iconName": "LiBookOpen",
     "iconColor": "#ffd438"
+  },
+  "3. Legends & Lore": {
+    "iconName": "LiLibrary",
+    "iconColor": "#ff00ff"
   }
 }

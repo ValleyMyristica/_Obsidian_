@@ -1,5 +1,5 @@
 
-Nickname to the friend [[2. Characters/Mystic]] made in the [[The facility]]
+Nickname to the friend [[2. Characters/Mystic]] made in the [[1. Places/The facility (Mystic)]]
 
 Real name: Alice
 Age: 24

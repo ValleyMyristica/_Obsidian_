@@ -23,10 +23,10 @@
 
 - [x] 21 Sep, 10:15-12:00 workshop 
 
-- [ ] Writing v.39
+- [x] Writing v.39
 	- [x] 23 Sep, Assignment
-	- [ ] 27 Sep, Feedback
-	- [ ] 27 Sep, Feedback
+	- [x] 27 Sep, Feedback
+	- [x] 27 Sep, Feedback
 - [ ] Reading v.39
 	- [ ] 27 Sep, Comment
 	- [ ] 30 Sep, Feedback
@@ -44,12 +44,10 @@
 	- [x] 4 Sep, Feedback
 	- [x] 4 Sep, Feedback
 
-
-
 ### Module 5
 - [ ] Writing v.41
-	- [ ] 5 Oct, Assignment (Act of kindness)
-	- [ ] 7 Oct, Feedback
+	- [x] 5 Oct, Assignment (Act of kindness)
+	- [x] 7 Oct, Feedback
 	- [ ] 7 Oct, Feedback
 	- [ ] (8 Oct, Submit to exhibition: martin.cathcart-froden@mau.se)
 	

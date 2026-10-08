@@ -1,6 +1,6 @@
 The factual truth to what inspired the legends
 
-## [[3. Legends/The sun|The sun]]
+## [[3. Legends & Lore/The sun|The sun]]
 
 When the first "plant" came to be, the sun was so very happy.
 For a little thing that was so dependent on the sun to survive?
@@ -62,7 +62,7 @@ Never to come back
 
 
 
-## [[3. Legends/The moon|The moon]]
+## [[3. Legends & Lore/The moon|The moon]]
 There were never two moons
 The moon was simply always watching the water
 And, the moon always send a bit of magic down into the sea
