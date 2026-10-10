@@ -24,14 +24,6 @@ If your character had a nightmare, what would it be about?
 
 @QOTD
 
-Your OC was given an important task to travel into the future and assassinate a target that somehow will cause the end of the world. Your character somehow agreed and when they travelled into the future, the target...was them. How will they react?
-
--# Q by Drey
-
-#######################################
-
-@QOTD
-
 Your OC got stranded in a vast desert with no sign of rescue. Will they be the person to try their luck and move? Or stay where they are and hope help will come?
 
 -# Q by Drey
@@ -137,6 +129,529 @@ What if your oc found a powerful device what would they do?
 
 @QOTD
 
+What makes your oc uncomfortable and why?
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+What’s their type?
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+What 
+- Rational fear
+- And irrational fear 
+Does your oc have?
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+How would your oc be mischaracterized by the fandom if they had one?
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
+XXX
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD
+
 XXX
 
 -# Q by XXX
@@ -148,4 +663,7 @@ XXX
 XXX
 
 -# Q by XXX
+
+
+
 

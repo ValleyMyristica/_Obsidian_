@@ -1,3 +1,20 @@
+General thought on distribution:
+**\_\_\_\_Plants**:
+Pure: 	1.8%
+Little:    58%	
+Decent: 32%	
+Good: 	8%
+Great: 	0.2%
+
+**\_\_\_\_Animal:**
+Pure: 	57%
+Little:    23%	
+Decent: 9.99%	
+Good: 	 1%
+Great: 	 0.01%
+
+
+
 > The distribution of magic
 
 The sun gives magic to plants
