@@ -111,7 +111,7 @@ I'll *try* and keep it short
 > 	
 > 	"I- No- I-"
 > 	
-> 	"I hate it! Why won't you-" 
+> 	"I hate it! Why won't you-" Words freeze.
 > 	
 > 	"I'll do anything?" He pleads.
 > 	
@@ -140,7 +140,9 @@ I'll *try* and keep it short
 > 	As he laid down in the dirt
 > 	Trying to breath
 > 	
-> 	**No one cares about Saffron**
+> 	**Alone.**
+> 	
+> 	***No one cares about Saffron***
 > 	
 > 	After all, he's a *monster*
 
@@ -162,7 +164,7 @@ I'll *try* and keep it short
 
 * Sad dog Saffron lays waiting for the winter to take him
   The forest sings such pretty songs
-  But, all he feels, *he doesn't belong*
+  But, all he feels: *he doesn't belong*
 
 * Then, he hears a call
   And panic floods in him
@@ -222,6 +224,19 @@ And... *'It's all my fault,'* is all he can think while comforting them
 He's just waiting for the moment they'll come to their senses
 When they realize the monster he is
 And... **leave**.
+
+But... they never really do...
+
+
+**Notes:** 
+	 I do have thoughts about bringing Saffron a friend of sort
+	 But, that's not accounted for so far
+
+**Lesson/theme:** 
+	Kindness, forgiveness and change
+	Accept your faults, an aim to improve
+
+
 
 #### Saffron Meadow: \[REDACTED\]
 
@@ -283,6 +298,8 @@ And... **leave**.
 > 
 > Mystic finds themself in a forest
 > Their "friend" isn't... happy...
+> 
+> And... their friend isn't really built for the forest...
 > 
 > 
 
