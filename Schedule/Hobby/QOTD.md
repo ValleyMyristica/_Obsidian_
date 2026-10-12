@@ -24,14 +24,6 @@ If your character had a nightmare, what would it be about?
 
 @QOTD
 
-Your OC got stranded in a vast desert with no sign of rescue. Will they be the person to try their luck and move? Or stay where they are and hope help will come?
-
--# Q by Drey
-
-#######################################
-
-@QOTD
-
 How will your OC react on the verge of their slow death?
 
 -# Q by Drey
@@ -164,7 +156,7 @@ How would your oc be mischaracterized by the fandom if they had one?
 
 @QOTD
 
-XXX
+How is your oc as a roommate?
 
 -# Q by Fraud
 
@@ -172,7 +164,7 @@ XXX
 
 @QOTD
 
-XXX
+What is one thing your oc would never eat, even if it meant starving to death?
 
 -# Q by Fraud
 
@@ -180,7 +172,9 @@ XXX
 
 @QOTD
 
-XXX
+Your oc’s deepest, darkest memory is being played on a movie screen for everyone you care about to see. 
+
+What memory do they see and how do they react?
 
 -# Q by Fraud
 
@@ -188,7 +182,7 @@ XXX
 
 @QOTD
 
-XXX
+How does your oc smell?
 
 -# Q by Fraud
 
@@ -196,7 +190,7 @@ XXX
 
 @QOTD
 
-XXX
+What is a red flag and green flag your oc has as far as dating goes?
 
 -# Q by Fraud
 
@@ -204,7 +198,7 @@ XXX
 
 @QOTD
 
-XXX
+How would your oc react to seeing a duplicate of themselves. Not an evil clone, just a clone.
 
 -# Q by Fraud
 
@@ -212,7 +206,7 @@ XXX
 
 @QOTD
 
-XXX
+What would your oc be canceled for if they were real?
 
 -# Q by Fraud
 
@@ -220,7 +214,7 @@ XXX
 
 @QOTD
 
-XXX
+What is an adorable fact about your oc?
 
 -# Q by Fraud
 
@@ -228,7 +222,7 @@ XXX
 
 @QOTD
 
-XXX
+What would your oc do if they were held hostage?
 
 -# Q by Fraud
 
@@ -236,7 +230,7 @@ XXX
 
 @QOTD
 
-XXX
+How would your oc fare being charged with their crimes?
 
 -# Q by Fraud
 
@@ -244,7 +238,7 @@ XXX
 
 @QOTD
 
-XXX
+How would your oc congratulate a birthday?
 
 -# Q by Fraud
 
@@ -252,7 +246,7 @@ XXX
 
 @QOTD
 
-XXX
+What is something legal in your ocs world or timeline that is not legal on earth modern day?
 
 -# Q by Fraud
 
@@ -260,7 +254,7 @@ XXX
 
 @QOTD
 
-XXX
+If your oc was a famous serial killer, how would they mark their victims to show it off?
 
 -# Q by Fraud
 
@@ -268,7 +262,7 @@ XXX
 
 @QOTD
 
-XXX
+What is something your oc could sit and do for hours?
 
 -# Q by Fraud
 
@@ -276,7 +270,7 @@ XXX
 
 @QOTD
 
-XXX
+Your oc is sitting at home with the blinds closed when they hear everyone start screaming bloody murder outside. What does your oc do?
 
 -# Q by Fraud
 
@@ -284,7 +278,7 @@ XXX
 
 @QOTD
 
-XXX
+Glass half empty or glass half full?
 
 -# Q by Fraud
 
@@ -292,7 +286,7 @@ XXX
 
 @QOTD
 
-XXX
+What would your characters be like without their Canon Event, if applicable?
 
 -# Q by Fraud
 
@@ -300,7 +294,7 @@ XXX
 
 @QOTD
 
-XXX
+What would your oc do if locked in a smallish box with no exit?
 
 -# Q by Fraud
 
@@ -308,7 +302,7 @@ XXX
 
 @QOTD
 
-XXX
+What is your oc's relationship with their family like?
 
 -# Q by Fraud
 
@@ -316,7 +310,7 @@ XXX
 
 @QOTD
 
-XXX
+What is a phrase your oc lives by/would quote/would come up with?
 
 -# Q by Fraud
 
@@ -324,7 +318,7 @@ XXX
 
 @QOTD
 
-XXX
+When or where was the first place you started role-playing?
 
 -# Q by Fraud
 
@@ -332,7 +326,7 @@ XXX
 
 @QOTD
 
-XXX
+What's the best and worst thing your oc's have done?
 
 -# Q by Fraud
 
@@ -340,7 +334,7 @@ XXX
 
 @QOTD
 
-XXX
+Waffles or pancakes: why?
 
 -# Q by Fraud
 
@@ -348,7 +342,7 @@ XXX
 
 @QOTD
 
-XXX
+Any big plans for your oc's in the works?
 
 -# Q by Fraud
 
@@ -356,7 +350,7 @@ XXX
 
 @QOTD
 
-XXX
+How well could they rob a bank?
 
 -# Q by Fraud
 
@@ -364,7 +358,7 @@ XXX
 
 @QOTD
 
-XXX
+What's the worst injury they've ever had?
 
 -# Q by Fraud
 
@@ -372,7 +366,7 @@ XXX
 
 @QOTD
 
-XXX
+How do they replace the toilet paper roll (forwards backwards, not at all, etc.)?
 
 -# Q by Fraud
 
@@ -380,7 +374,7 @@ XXX
 
 @QOTD
 
-XXX
+Do they have a wish they want granted? How many? What is it?
 
 -# Q by Fraud
 
@@ -388,7 +382,7 @@ XXX
 
 @QOTD
 
-XXX
+How would your oc react to an NPC giving them an annoying quest?
 
 -# Q by Fraud
 
@@ -396,7 +390,15 @@ XXX
 
 @QOTD
 
-XXX
+If your character was an NPC, what quest would they give?
+
+-# Q by Valley
+
+#######################################
+
+@QOTD
+
+What is their romantic taste/ interest?
 
 -# Q by Fraud
 
@@ -404,7 +406,7 @@ XXX
 
 @QOTD
 
-XXX
+5 dollars, take it, or double it and give it to the next person?
 
 -# Q by Fraud
 
@@ -412,7 +414,7 @@ XXX
 
 @QOTD
 
-XXX
+How would your oc respond to being told to ‘get over it’ during an emotional time in their life?
 
 -# Q by Fraud
 
@@ -420,7 +422,7 @@ XXX
 
 @QOTD
 
-XXX
+What are your ocs morals like?
 
 -# Q by Fraud
 
@@ -428,7 +430,7 @@ XXX
 
 @QOTD
 
-XXX
+Is the law, law, or more of a guideline for your oc?
 
 -# Q by Fraud
 
@@ -436,7 +438,7 @@ XXX
 
 @QOTD
 
-XXX
+How would they comfort you?
 
 -# Q by Fraud
 
@@ -444,7 +446,7 @@ XXX
 
 @QOTD
 
-XXX
+What is their room like?
 
 -# Q by Fraud
 
@@ -452,7 +454,7 @@ XXX
 
 @QOTD
 
-XXX
+What is their personal/followed philosophy?
 
 -# Q by Fraud
 
@@ -460,7 +462,7 @@ XXX
 
 @QOTD
 
-XXX
+Can they cook?
 
 -# Q by Fraud
 
@@ -468,7 +470,7 @@ XXX
 
 @QOTD
 
-XXX
+What would their bossfight music be?
 
 -# Q by Fraud
 
@@ -476,7 +478,7 @@ XXX
 
 @QOTD
 
-XXX
+For you and/or your characters, what's the biggest/most dangerous animal you could fight bare handed?
 
 -# Q by Fraud
 
@@ -484,7 +486,7 @@ XXX
 
 @QOTD
 
-XXX
+What's a game you've been playing recently that you enjoy?
 
 -# Q by Fraud
 
@@ -492,7 +494,8 @@ XXX
 
 @QOTD
 
-XXX
+What genre of game, movie, or TV show would your character be apart of?
+-# (Fantasy, rpg, reality TV, mystery, etc)
 
 -# Q by Fraud
 
@@ -500,7 +503,8 @@ XXX
 
 @QOTD
 
-XXX
+How has your day been thus far, any plans? 
+Anything interesting happen?
 
 -# Q by Fraud
 
@@ -508,7 +512,7 @@ XXX
 
 @QOTD
 
-XXX
+What's a topic(s) you happen to know a lot about?
 
 -# Q by Fraud
 
@@ -516,7 +520,7 @@ XXX
 
 @QOTD
 
-XXX
+Can your oc read?
 
 -# Q by Fraud
 
@@ -524,7 +528,15 @@ XXX
 
 @QOTD
 
-XXX
+What is/are your most like book/series and extended media?
+
+-# Q by Fraud
+
+#######################################
+
+@QOTD ???
+
+What is a movie/game/show you have not heard anyone else mention before?
 
 -# Q by Fraud
 
@@ -532,7 +544,7 @@ XXX
 
 @QOTD
 
-XXX
+If your OC could write a letter, be it small or long, to one person (dead or alive), who would it be and what would it say?
 
 -# Q by Fraud
 
@@ -540,7 +552,7 @@ XXX
 
 @QOTD
 
-XXX
+What would instantly send your OC into a fit of rage?
 
 -# Q by Fraud
 
@@ -548,7 +560,7 @@ XXX
 
 @QOTD
 
-XXX
+Would your OC completely drop everything in their life for something?
 
 -# Q by Fraud
 
@@ -556,7 +568,7 @@ XXX
 
 @QOTD
 
-XXX
+What would happen if all your OCs were locked in a room?
 
 -# Q by Fraud
 
@@ -564,7 +576,7 @@ XXX
 
 @QOTD
 
-XXX
+How does your OC like their eggs?
 
 -# Q by Fraud
 
@@ -572,15 +584,7 @@ XXX
 
 @QOTD
 
-XXX
-
--# Q by Fraud
-
-#######################################
-
-@QOTD
-
-XXX
+Your oc was given no blanket at a sleepover. What random object do they use instead?
 
 -# Q by Fraud
 

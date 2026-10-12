@@ -278,7 +278,6 @@ But... they never really do...
 
 
 #### Mystic Silence
-
 > Mystic is in a facility
 > Mystic is experimented on
 > But! There is a nice one there!
@@ -301,14 +300,290 @@ But... they never really do...
 > 
 > And... their friend isn't really built for the forest...
 > 
+> Friend needs help!
 > 
+> Feeling helpless, Mystic starts exploring, just need something to help
+> Friend needs proper food and medicine
+> 
+> Lucky as they are
+> They're able to find a nice looking town
+> Maybe someone there can help?
+> 
+> *Someone is there.*
+> Though...
+> Not to help.
+> 
+> He tells them to leave
+> They don't *want* to...
+> This was they're best shot!
+> Please!
+> 
+> Then.
+> 
+> **Darkness.**
 
 
 
 
+#### Mystic Silence: Meadow
+> And the light of the moon brings them to it.
+> Soft mumblings, they try to follow
+> 
+> They call out
+> Something answers (doesn't sound happy)
+> 
+> Confrontation
+> It's the one they saw before
+> A \*bang\*, and they fall into darkness again
+> 
+> Though, they do wake the next day
+> They... they don't like this
+> Calling for help
+> Panicking in the darkness
+> 
+> They hear something in turn
+> They call back, asking again
+> It doesn't sound happy
+> "Please? I don't want to be here!"
+> 
+> It takes quite some time
+> But soon they see someone
+> It's the same person.
+> 
+> They back away
+> He doesn't seem happy
+> 
+> \- Cue "The cat piano" scene \-
+> 
+> They die
+> They wake
+> 
+> It repeats
+> The person keeps torturing them
+> It changes them
+> 
+> And, when changes shines though
+> The person is kinder
+> 
+> They learn more about him
+> His name is **Saffron**
+> 
+> They like his kindness
+> He still kills them every night
+> Well, it's routine at this point
+> 
+> He's kinder
+> And...
+> At some point
+> He lets them out of his mind
+> Says he *trusts them to be safe*
+> 
+> They open their eyes
+> *'Is this truly reality?'*
+> 
+> They look around
+> OH! They see their friend!
+> Friend seems to be well-
+> 
+>Oh.
+> 
+> Terror fills them.
+> A creeping cold through their spine, stilling every moment. 
+> 
+> They can't look away from the mirror.
+> 
+> They hate it.
+> It's not their body.
+> 
+> They mostly stay in the house 'given'
+> In the body 'given'
+> 
+> Everything feels out of place
+> Like they don't belong
+> 
+> Worst part?
+> Having died so many times 
+> Wouldn't it be nice to do it one last time?
+> 
+> Yet.
+> YET!
+> 
+> Saffron took that away from them
+> *They body can't hurt itself*
+> 
+> They cry most days
+> Saffron visits them, making sure they eat
+> They don't want this
+> 
+> "Please?" Just one last time.
+> 
+> "No. Sunshine doesn't like death." He tells all the time.
+> 
+> "She doesn't have to know?" Always looking for a way to convince him.
+> 
+> "I **won't**. I'm **not** a monster." Cold eyes stare them down.
+> 
+> "Mmm..." Looking down, giving up yet again.
+> 
+> Days feel gray.
+> There is nothing worth fighting for.
+
+Note:
+	Saffron takes Mystic to the sea at one point
+	They love it so much, watching the moon glisten in the night
+	It's shimmering light reflecting on the water
+	 ⠀
+	Being near moon and sea is the only thing that makes being alive like this just a *little* better
+	They like the cold night
+	⠀
+	But... *why is the moon so quiet?*
 
 
+Theme
+	Fighting and change
+	*Don't loose yourself*
 
+#### Mystic Silence: Light
+
+Waiting
+Waiting
+Waiting
+
+A question echo's in their mind
+
+*'Where is Saffron?'*
+
+They can feel the hunger in their body eating at them
+Walking about, just... curious...
+
+They walk by a bowl of fruit
+The **body** takes one, forcing it down
+
+Hunger.
+
+Mystic is not allowed to die.
+
+*'Please'*
+
+Crying more.
+
+With a headache and no more tears
+They, eventually make their way out
+
+Calling out
+Wondering where he is
+
+If it angers him
+What does it matter?
+What will he do? *Kill them?* HAH!
+
+A tired smile at the thought.
+
+Calling out more
+Looking more
+
+He's... Saffron is gone?
+
+As it slowly dawns on them
+They have no idea how to feel
+
+Happiness? Sorrow?
+
+No more pain
+No more comfort
+
+Only
+The lonely
+
+\- Timeskip \-
+
+At some point
+Saffron comes back
+
+He apologizes 
+
+They want to hug him, say it's okay, that they're happy he's back!
+They want to sit by the sea with him again
+
+They want to throw a flower vase in his face, they want to see him hurt 
+They want to scream, ask him "HOW DARE YOU?!?"
+They want to punch and claw
+
+They want to sleep
+
+The look at him
+
+He can't be real
+He's not here
+He's not back
+He's **not** apologizing
+
+So, they turn back, walking away
+It's not worth it anyway
+
+Yet, after a moment, they can feel him taking their hand 
+Then letting go, as if he didn't mean to touch them in the first place
+
+Back still turned, they slowly lift the hand he took
+Looking at it, not listening to what he's saying
+
+Until.
+
+"Do you... want me to leave?"
+
+Slowly, they turn to face him.
+Looking at him, tired, giving no answer
+
+"What... do you want?" He asks, averting his eyes, hand grasping arm.
+
+They open their mouth. A breath out, as if there's dust in their lungs, it's hard to speak. Yet, they try, and he waits patently, just... standing there, head low, nothing like how they knew him. They take a breath.
+
+He slowly looks up to meet their eyes.
+
+<small>"Love."</small> Their meek voice utters, on the verge of breaking. 
+
+He looks at them. They can't decipher it. Pity? Pain?
+
+They don't get much time to even consider before their whole body juts **breaks** and tears flood out. They try to stop it with their hands. Knees feel weak, then buckle, hitting the floor. Sobbing, trying to stop it. Trying to hold it in. Everything hurts. Everything hurts. **Everything HURTS.**
+
+Hug.
+
+*'Huh?'*
+
+"I-" He starts.
+
+They cry, clawing at his back to hold him closer. 
+
+"I'm here..." He tries. "I'll be here for as long as you need."
+
+They speak no words, for sobs drown them out.
+
+He holds them.
+
+\- Stuff \-
+
+Domestic fluff
+
+Mystic is finding happiness in it, <small><font color="#777777">even if there is still darkness</font></**sup**>
+Saffron sees it as his punishment, <small><font color="#777777">even if there are moments he enjoys</font></small>
+
+
+Theme:
+	Happiness after the darkness
+
+
+#### Extra
+I'm still working on the stories and such so there are still many parts we need to work on
+Which also means there are many parts that are subject to change
+
+There is also Sequin and 
+And what role they play
+I have thoughts
+But, as I said, I've only been working on this for a year, so there is still a lot left
+But your questions have been very helpful and kind!
+
+Also, I do hope it was an enjoyable read
+Even if very bullet point like
 
 
 ## 2. Is there  a character arc/storyline planned for saffron and the rest? 
@@ -318,7 +593,19 @@ Yes.
 ## 3. Are they any themes and symbol and allegories and stuff like that you  would like to share in your characters/story?  🥺 
 
 There do be a lot
-Main themes:
+
+Main theme:
+	You can claw and fight, but you'll **never** get the happiness you had in the past back
+	You have to make your own, here and now
+	⠀
+	Create a future in which you can be happy
+	Be a person who makes you happy to be
+	⠀
+	**Happiness is worth fighting for**
+	⠀<sup><font color="#77777">-# But, you have to fight for it</font></sup>
+
+
+Side themes:
 * Redemption
 * No one owns you forgiveness
 * Everyone changes in different ways
