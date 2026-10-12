@@ -544,7 +544,7 @@ He slowly looks up to meet their eyes.
 
 He looks at them. They can't decipher it. Pity? Pain?
 
-They don't get much time to even consider before their whole body juts **breaks** and tears flood out. They try to stop it with their hands. Knees feel weak, then buckle, hitting the floor. Sobbing, trying to stop it. Trying to hold it in. Everything hurts. Everything hurts. **Everything HURTS.**
+They don't get much time to even consider before their whole body just **breaks** and tears flood out. They try to stop it with their hands. Knees feel weak, then buckle, hitting the floor. Sobbing, trying to stop it. Trying to hold it in. Everything hurts. Everything hurts. **Everything HURTS.**
 
 Hug.
 
@@ -554,7 +554,7 @@ Hug.
 
 They cry, clawing at his back to hold him closer. 
 
-"I'm here..." He tries. "I'll be here for as long as you need."
+"I'm here..." He tries. "I'll be here... for as long as you want me to."
 
 They speak no words, for sobs drown them out.
 
@@ -564,7 +564,7 @@ He holds them.
 
 Domestic fluff
 
-Mystic is finding happiness in it, <small><font color="#777777">even if there is still darkness</font></**sup**>
+Mystic is finding happiness in it, <small><font color="#777777">even if there is still darkness</font></small>
 Saffron sees it as his punishment, <small><font color="#777777">even if there are moments he enjoys</font></small>
 
 

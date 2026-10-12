@@ -11,14 +11,12 @@
             "id": "b5ef779cf2326b32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Hobby/QOTD.md",
-                "mode": "source",
-                "source": false
+                "file": "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "QOTD"
+              "icon": "lucide-file-text",
+              "title": "Kap3"
             }
           }
         ]
@@ -187,10 +185,16 @@
   },
   "active": "b5ef779cf2326b32",
   "lastOpenFiles": [
-    "2. Study/wMalmö.md",
-    "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/3.55.pdf",
+    "1. School/Electronics/Material till 6e upplagan/Svar_Rizzoni_6e_20211013.pdf",
+    "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/3.58.pdf",
+    "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap3.pdf",
+    "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap1o2.pdf",
+    "1. School/Electronics/Material till 6e upplagan/Lektionsplan_E0013E_2023_Uppl_6-1.pdf",
     "1. School/Electronics/Exercises Electronics.md",
+    "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/Finished/3.55.pdf",
+    "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap4.pdf",
     "Hobby/QOTD.md",
+    "2. Study/wMalmö.md",
     "2. Study/wM_Documents/Done/~$like to watch the moon at night.docx",
     "2. Study/wM_Documents/Module 5.md",
     "2. Study/wM_Documents/Done/Module 4.md",
@@ -199,13 +203,8 @@
     "2. Study/wM_Documents/Done/M5 - I like to watch the moon at night.pdf",
     "2. Study/wM_Documents/Done/I like to watch the moon at night.docx",
     "2. Study/wLuleå.md",
-    "2. Study/wM_Documents/Done",
     "- Tasks -.md",
     "Hobby/IMPORTANT SKILLS.md",
-    "2. Study/wM_Documents/~$dule 4.docx",
-    "2. Study/wM_Documents/~$dule 3.rtf",
-    "2. Study/wM_Documents/~$dule 1.rtf",
-    "2. Study/wM_Documents/Module 4.docx",
     "3. Hobby/DailyPrograming.md",
     "TODAY/Week 38.md",
     "3. Hobby/Celestial Shards.md",

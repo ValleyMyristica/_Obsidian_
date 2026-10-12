@@ -64,14 +64,6 @@ Your OC is given 32 days to prepare. That's it, someone or something told them t
 
 @QOTD
 
-What's something they condemn others for doing publicly but secretly excuse it when they do it themselves? Has anyone ever called them out on it/how have they reacted?
-
--# Q by Tel
-
-#######################################
-
-@QOTD
-
 If they were allowed to commit any one crime for a whole day without consequence/anyone remembering the next day, would they do it? What would they do specifically, and how would they live with it after it was over?
 
 -# Q by Tel
