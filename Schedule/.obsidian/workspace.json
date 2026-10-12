@@ -11,12 +11,14 @@
             "id": "b5ef779cf2326b32",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap3.pdf"
+                "file": "Hobby/IMPORTANT SKILLS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Kap3"
+              "icon": "lucide-file",
+              "title": "IMPORTANT SKILLS"
             }
           }
         ]
@@ -183,29 +185,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "b5ef779cf2326b32",
+  "active": "7a59f67f53aab24e",
   "lastOpenFiles": [
+    "3. Hobby/Programing",
+    "3. Hobby/Language",
+    "3. Hobby/Language/grammar_guide.pdf",
+    "3. Hobby/Language/FsiRussianFast-Lessons1-5.pdf",
+    "Hobby/QOTD.md",
+    "- Tasks -.md",
+    "3. Hobby/Programing/DailyPrograming.md",
+    "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap3.pdf",
     "1. School/Electronics/Material till 6e upplagan/Svar_Rizzoni_6e_20211013.pdf",
     "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/3.58.pdf",
-    "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap3.pdf",
     "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap1o2.pdf",
     "1. School/Electronics/Material till 6e upplagan/Lektionsplan_E0013E_2023_Uppl_6-1.pdf",
     "1. School/Electronics/Exercises Electronics.md",
     "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/Finished/3.55.pdf",
     "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap4.pdf",
-    "Hobby/QOTD.md",
     "2. Study/wMalmö.md",
-    "2. Study/wM_Documents/Done/~$like to watch the moon at night.docx",
     "2. Study/wM_Documents/Module 5.md",
     "2. Study/wM_Documents/Done/Module 4.md",
     "2. Study/wM_Documents/Module 3.md",
-    "2. Study/wM_Documents/Done/I like to watch the moon at night.pdf",
-    "2. Study/wM_Documents/Done/M5 - I like to watch the moon at night.pdf",
-    "2. Study/wM_Documents/Done/I like to watch the moon at night.docx",
     "2. Study/wLuleå.md",
-    "- Tasks -.md",
     "Hobby/IMPORTANT SKILLS.md",
-    "3. Hobby/DailyPrograming.md",
     "TODAY/Week 38.md",
     "3. Hobby/Celestial Shards.md",
     "Welcome.md",
