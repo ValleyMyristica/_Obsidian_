@@ -619,42 +619,42 @@ He'd like to, but can't really bring himself to believe he'll ever be good again
 
 ## 4. What is the worst thing each finds they've done? 
 
-### Saffron
+### \_\_\_Saffron
 Hurting Mystic
 Scaring Sunshine
 
-### Sequin
+### \_\_\_Sequin
 
 
-### Mystic
+### \_\_\_Mystic
 *Timber*
 
 
-### Eden
+### \_\_\_Eden
 Letting someone die
 
 
 
 ## 5. Conversely, what’s the best thing each has done? 
 
-### Saffron
+### \_\_\_Saffron
 Making up for it
 
 
-### Sequin
+### \_\_\_Sequin
 
 
-### Mystic
+### \_\_\_Mystic
 
 
-### Eden
+### \_\_\_Eden
 
 
 
 
 ## 6. What ambitions and goals does each have? 
 
-### Saffron
+### \_\_\_Saffron
 \[Child]
 > Wants to make everyone happy!
 
@@ -673,13 +673,13 @@ Making up for it
 > He doesn't think much of the future
 > For, he doesn't believe he deserves to experience *today* 
 
-### Sequin
+### \_\_\_Sequin
 
 
-### Mystic
+### \_\_\_Mystic
 
 
-### Eden
+### \_\_\_Eden
 
 
 
