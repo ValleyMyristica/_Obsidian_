@@ -1,24 +1,18 @@
-## 1. What’s the basic overarching story for saffron and mystic and the sibling and sunshine and stuff? 
+# **<font color="#be73eb">1.1 Basic overarching story for saffron</font>**
 
-Oh my, heh
-That's quite the question
-*You know?*
+The story of [[Saffron]]
+The child of the sun
 
-I'll *try* and keep it short
--# But, I *am* a liar
+## Golden Saffron
+Born, happy memories with sibling
+Saffron, around 8 years, "loses" his sibling
+Trust is broken
+Just... best to just play along
 
+	\- Time skip -
 
-### \_Saffron
-#### Golden Saffron
-> Born, happy memories with sibling
-> Saffron, around 8 years, "loses" his sibling
-> Trust is broken 
-> Just... best to just play along
-> 
-> 	\- Time skip \-
-> 
-> He... he decides to learn more of the world
-> He does everything on his own
+He... he decides to learn more of the world
+He does everything on his own
 
 **Notes:** 
 	At some point he meets Sequin
@@ -26,139 +20,142 @@ I'll *try* and keep it short
 **Lesson/theme:** 
 	Breaking free
 
-#### Making friends! (Game idea)
-> A new kid, a new school, she's out to make friends!
-> Meeting and helping a bunch of people while a bully gets in her way
-> But! Kindness builds kindness
-> So, with enough time everyone is friends
-> Even the Bully is a friend! Yay!
-> ..the bully is still a bit mean though...
+## Making friends! (Game idea)
+A new kid, a new school, she's out to make friends!
+Meeting and helping a bunch of people while a bully gets in her way
+But! Kindness builds kindness
+So, with enough time everyone is friends
+Even the Bully is a friend! Yay!
+..the bully is still a bit mean though...
 
 **Lesson/theme:** 
 	Friendship!
 
-#### Saffron Meadow
-> "The bully" is playing with her friend
-> It's a bit weird, but also nice
-> Friend says that parents like flowers
-> *'Would mom like flowers?'* "The bully" thinks
-> So, flowers are picked, one is really radiant 
-><font color="#777777"><sub> -# (mom is sure to like that one, she hopes)</sub></font>
->
-> \- Things happen \-
->
-> Saffron reviles himself to her
-> He decides to help
-> 
-> \- Things happen \-
-> 
-> She is his Sunshine
-> He needs to keep his Sunshine safe
-> They can't stay here
-> Sunshine needs to be safe
-> It's not safe here
-> *They run away*
-> 
-> \- Things happen \-
-> 
-> **Sunshine is safe.**
-> **The town is safe.**
-> **Sunshine is safe here.**
-> 
-> \- Enter Mystic \-
-> 
-> **DANGER.**
-> 
-> \- Danger is gone \-
-> 
-> He needs to fix this
-> Sunshine is sad
-> Sunshine should be happy
-> *Sunshine shouldn't remember bad things.*
-> 
-> \- Sleep! \-
-> 
-> He meets the "danger" in his dreams
-> He "sedates" it
-> 	"I'm not afraid of you."
-> 	"You don't have to be." **\*BANG\***
-> 	*The danger falls,  l i f e l e s s.*
-> 
-> \- *Hey... how are you with gore?* \-
-> 
-> Day: Sunshine delight
+## Saffron Meadow
+"The bully" is playing with her friend
+It's a bit weird, but also nice
+Friend says that parents like flowers
+*'Would mom like flowers?'* "The bully" thinks
+So, flowers are picked, one is really radiant
+<small>(mom is sure to like that one, she hopes)</small>
+
+	 \- Things happen -
+
+Saffron reviles himself to her
+He decides to help
+ 
+	\- Things happen -
+
+She is his Sunshine
+He needs to keep his Sunshine safe
+They can't stay here
+Sunshine needs to be safe
+It's not safe here
+*They run away*
+ 
+	\- Things happen -
+
+**Sunshine is safe.**
+**The town is safe.**
+**Sunshine is safe here.**
+ 
+	\- Enter Mystic -
+
+**DANGER.**
+ 
+	\- Danger is gone -
+
+He needs to fix this
+Sunshine is sad
+Sunshine should be happy
+*Sunshine shouldn't remember bad things.*
+ 
+	\- Sleep! -
+
+He meets the "danger" in his dreams
+He "sedates" it
+> "I'm not afraid of you."
+> "You don't have to be." **\*BANG\***
+> *The danger falls,  l i f e l e s s.*
+
+	\- Hey... how are you with gore? -
+
+Day: Sunshine delight
 > (Sunshine tries to find ways out, but Saffron doesn't pick up and think all is just a game. And, games are fun, Sunshine should have fun. *Right?*)
-> 
-> Night: Mystical nightmares
+
+Night: Mystical nightmares
 > (Mystic has a bad time, Saffron has "fun")
 > (There be much gore...)
+
+* Saffron kinda befriends Mystic...
+* Saffron decides to give Mystic a body, get them out of his head
+* He gives them the one they came with (their friend, their own was *eradicated*)
+
+Mystic has a breakdown, *ungrateful*
+(At least Sunshine isn't around to see it)
+ 
+	\- Fast forward -
+
+* Friend finds Sunshine (with help)
+ * Rescue insures
+ * Saffron tries to stop it
+ * Sunshine finally pushes her fears to the side, confronting him
+ 	
+> "I hate you!" She screams, tears starting to flood her eyes. "You... you're scary..." 
 > 
-> * Saffron kinda befriends Mystic...
-> * Saffron decides to give Mystic a body, get them out of his head
-> * He gives them the one they came with (their friend, their own was *eradicated*)
->   
-> Mystic has a breakdown, *ungrateful*
-> (At least Sunshine isn't around to see it)
+> "I- No- I-"
 > 
-> \- Fast forward \-
+> "I hate it! Why won't you-" Words freeze.
 > 
-> * Friend finds Sunshine (with help)
-> * Rescue insures
-> * Saffron tries to stop it
-> * Sunshine finally pushes her fears to the side, confronting him
-> 	
-> 	"I hate you!" She screams, tears starting to flood her eyes. "You... you're scary..." 
-> 	
-> 	"I- No- I-"
-> 	
-> 	"I hate it! Why won't you-" Words freeze.
-> 	
-> 	"I'll do anything?" He pleads.
-> 	
-> 	"I don't- Get away from me." She seeks comfort in her 'rescuers'.
-> 	
-> 	"Please?" His world, slowly crumbling.
-> 	
-> 	"No!"
-> 	
-> 	"I can-"
-> 	
-> 	"I don't want anything from you!" Taking the hold of her friends. "Don't you get that?!"
-> 	
-> 	"I can... I can do better?"
-> 	
-> 	"No. I **hate** you." She looks at him, with cold eyes he's so many times showed Mystic. She shouldn't have those eyes. "You're a **monster**." Facing him, no fear. 
-> 	
-> 	Stunned, he watches in defeat as his Sunshine turns her back on him.
-> 	
-> 	With her friend, she leaves, whispering a soft "Thank you," to the dear friend who despite everything, saved her.
-> 	
-> 	Clenching his teeth, holding back tears. "O- Okay..." Slowly fall out like radiated snow. It hurts. Everything hurts. 
-> 	
-> 	The sun's child, who always been surrounded by warmth
-> 	Felt a coldness surround him
-> 	As he laid down in the dirt
-> 	Trying to breath
-> 	
-> 	**Alone.**
-> 	
-> 	***No one cares about Saffron***
-> 	
-> 	After all, he's a *monster*
+> "I'll do anything?" He pleads.
+> 
+> "I don't- Get away from me." She seeks comfort in her 'rescuers'.
+> 
+> "Please?" His world, slowly crumbling.
+> 
+> "No!"
+> 
+> "I can-"
+> 
+> "I don't want anything from you!" Taking the hold of her friends. "Don't you get that?!"
+> 
+> "I can... I can do better?"
+> 
+> "No. I **hate** you." She looks at him, with cold eyes he's so many times showed Mystic. She shouldn't have those eyes. "You're a **monster**." Facing him, no fear. 
+> 
+> Stunned, he watches in defeat as his Sunshine turns her back on him.
+> 
+> With her friend, she leaves, whispering a soft "Thank you," to the dear friend who despite everything, saved her.
+> 
+> Clenching his teeth, holding back tears. "O- Okay..." Slowly fall out like radiated snow. It hurts. Everything hurts. 
+> 
+> The sun's child, who always been surrounded by warmth
+> Felt a coldness surround him
+> As he laid down in the dirt
+> Trying to breath
+> 
+> **Alone.**
+> 
+> ***No one cares about Saffron***
+> 
+> After all, he's a *monster*
+
 
 **Notes:** 
-	Mystic learns a lot about Saffron's past and feels for him
-	Despite how mean he's been, they still like him
-	(Stockholm syndrome is strong in this one)
+> Mystic learns a lot about Saffron's past and feels for him
+> Despite how mean he's been, they still like him
+> (Stockholm syndrome is strong in this one)
 
 **Lesson/theme:** 
-	Mmm...
-	*Don't loose yourself*
-	(This one is more the setup for positives to come)
-	(Generally, **I hope it hurts**)
+> Mmm...
+> Don't loose yourself*
+> (This one is more the setup for positives to come)
+> (Generally, **I hope it hurts**)
+> 
+> Even good intentions can lead to bad actions
 
 
-#### Saffron Meadow: A dim light
+## Saffron Meadow: A dim light
 *Oh, and he who was once so bright*
 <sub><font color="#777777">-# (This one is very work in progress)</font></sub>
 
@@ -198,7 +195,7 @@ Every celestial has a child, you know?
 <sub><font color="#777777">-# Them be the rules of the game</font></sub>
 
 
-#### Saffron Meadow: Forgiveness
+## Saffron Meadow: Forgiveness
 
 At some point he'll try and say sorry for all whom he's hurt
 Mainly Sunshine and Mystic
@@ -238,7 +235,7 @@ But... they never really do...
 
 
 
-#### Saffron Meadow: \[REDACTED\]
+## Saffron Meadow: \[REDACTED\]
 
 **Notes:** 
 	I want Saffron to process all the horrible things he's done
@@ -257,193 +254,195 @@ But... they never really do...
 	That's enough
 
 
-## \_Mystic
 
-#### Mystic Dog days
-> Mystic had a dog named Timber
-> It was a happy time
-> Cause Timber was there
-> 
-> Mystic doesn't have a dog named Timber
-> It was a bad time
-> Cause Timber wasn't there
-> 
-> Mystic likes spending their time reading fairy tales
-> Mystic doesn't like spending time with Sequin
-> 
-> Mystic grows older, late teen
-> They go outside the safety of the compound
-> 
-> They don't return.
+# **<font color="#7c6eeb">1.2 Basic overarching story for Sequin</font>**
 
+# **<font color="#46bec8">1.3 Basic overarching story for Mystic</font>** 
+## Mystic Dog Days
+Mystic had a dog named Timber
+It was a happy time
+Cause Timber was there
 
-#### Mystic Silence
-> Mystic is in a facility
-> Mystic is experimented on
-> But! There is a nice one there!
-> They're the best! Super nice!
-> 
-> Makes all the probing and cage worth it
-> They even made sure there was something nice to sleep on
-> 
-> \- Mystic looses sight in their right eye \-
-> 
-> Mystic bonds with their "friend"
-> Mystic gets the idea that they should both run away towards freedom
-> Mystic breaks out with their "friend"
-> 
-> Mystic runs away with their friend
-> (Using magic, there are too many locked doors!!)
-> 
-> Mystic finds themself in a forest
-> Their "friend" isn't... happy...
-> 
-> And... their friend isn't really built for the forest...
-> 
-> Friend needs help!
-> 
-> Feeling helpless, Mystic starts exploring, just need something to help
-> Friend needs proper food and medicine
-> 
-> Lucky as they are
-> They're able to find a nice looking town
-> Maybe someone there can help?
-> 
-> *Someone is there.*
-> Though...
-> Not to help.
-> 
-> He tells them to leave
-> They don't *want* to...
-> This was they're best shot!
-> Please!
-> 
-> Then.
-> 
-> **Darkness.**
+Mystic doesn't have a dog named Timber
+It was a bad time
+Cause Timber wasn't there
+
+Mystic likes spending their time reading fairy tales
+Mystic doesn't like spending time with Sequin
+
+Mystic grows older, late teen
+They go outside the safety of the compound
+
+They don't return.
 
 
+## Mystic Silence
+Mystic is in a facility
+Mystic is experimented on
+But! There is a nice one there!
+They're the best! Super nice!
+
+Makes all the probing and cage worth it
+They even made sure there was something nice to sleep on
+
+	\- Mystic looses sight in their right eye -
+
+Mystic bonds with their "friend"
+Mystic gets the idea that they should both run away towards freedom
+Mystic breaks out with their "friend"
+
+Mystic runs away with their friend
+(Using magic, there are too many locked doors!!)
+
+Mystic finds themself in a forest
+Their "friend" isn't... happy...
+
+And... their friend isn't really built for the forest...
+
+Friend needs help!
+
+Feeling helpless, Mystic starts exploring, just need something to help
+Friend needs proper food and medicine
+
+Lucky as they are
+They're able to find a nice looking town
+Maybe someone there can help?
+
+*Someone is there.*
+Though...
+Not to help.
+ 
+He tells them to leave
+They don't *want* to...
+This was they're best shot!
+Please!
+ 
+Then.
+ 
+**Darkness.**
 
 
-#### Mystic Silence: Meadow
-> And the light of the moon brings them to it.
-> Soft mumblings, they try to follow
-> 
-> They call out
-> Something answers (doesn't sound happy)
-> 
-> Confrontation
-> It's the one they saw before
-> A \*bang\*, and they fall into darkness again
-> 
-> Though, they do wake the next day
-> They... they don't like this
-> Calling for help
-> Panicking in the darkness
-> 
-> They hear something in turn
-> They call back, asking again
-> It doesn't sound happy
-> "Please? I don't want to be here!"
-> 
-> It takes quite some time
-> But soon they see someone
-> It's the same person.
-> 
-> They back away
-> He doesn't seem happy
-> 
-> \- Cue "The cat piano" scene \-
-> 
-> They die
-> They wake
-> 
-> It repeats
-> The person keeps torturing them
-> It changes them
-> 
-> And, when changes shines though
-> The person is kinder
-> 
-> They learn more about him
-> His name is **Saffron**
-> 
-> They like his kindness
-> He still kills them every night
-> Well, it's routine at this point
-> 
-> He's kinder
-> And...
-> At some point
-> He lets them out of his mind
-> Says he *trusts them to be safe*
-> 
-> They open their eyes
-> *'Is this truly reality?'*
-> 
-> They look around
-> OH! They see their friend!
-> Friend seems to be well-
-> 
->Oh.
-> 
-> Terror fills them.
-> A creeping cold through their spine, stilling every moment. 
-> 
-> They can't look away from the mirror.
-> 
-> They hate it.
-> It's not their body.
-> 
-> They mostly stay in the house 'given'
-> In the body 'given'
-> 
-> Everything feels out of place
-> Like they don't belong
-> 
-> Worst part?
-> Having died so many times 
-> Wouldn't it be nice to do it one last time?
-> 
-> Yet.
-> YET!
-> 
-> Saffron took that away from them
-> *They body can't hurt itself*
-> 
-> They cry most days
-> Saffron visits them, making sure they eat
-> They don't want this
-> 
-> "Please?" Just one last time.
-> 
-> "No. Sunshine doesn't like death." He tells all the time.
-> 
-> "She doesn't have to know?" Always looking for a way to convince him.
-> 
-> "I **won't**. I'm **not** a monster." Cold eyes stare them down.
-> 
-> "Mmm..." Looking down, giving up yet again.
-> 
-> Days feel gray.
-> There is nothing worth fighting for.
+
+
+## Mystic Silence: Meadow
+And the light of the moon brings them to it.
+Soft mumblings, they try to follow
+
+They call out
+Something answers (doesn't sound happy)
+
+Confrontation
+It's the one they saw before
+A \*bang\*, and they fall into darkness again
+
+Though, they do wake the next day
+They... they don't like this
+Calling for help
+Panicking in the darkness
+
+They hear something in turn
+They call back, asking again
+It doesn't sound happy
+"Please? I don't want to be here!"
+
+It takes quite some time
+But soon they see someone
+It's the same person.
+
+They back away
+He doesn't seem happy
+
+	\- Cue "The cat piano" scene -
+
+They die
+They wake
+
+It repeats
+The person keeps torturing them
+It changes them
+
+And, when changes shines though
+The person is kinder
+
+They learn more about him
+His name is **Saffron**
+ 
+They like his kindness
+He still kills them every night
+Well, it's routine at this point
+ 
+He's kinder
+And...
+At some point
+He lets them out of his mind
+Says he *trusts them to be safe*
+ 
+They open their eyes
+*'Is this truly reality?'*
+ 
+They look around
+OH! They see their friend!
+Friend seems to be well-
+ 
+Oh.
+ 
+Terror fills them.
+A creeping cold through their spine, stilling every moment. 
+ 
+They can't look away from the mirror.
+
+They hate it.
+It's not their body.
+ 
+They mostly stay in the house 'given'
+In the body 'given'
+ 
+Everything feels out of place
+Like they don't belong
+ 
+Worst part?
+Having died so many times 
+Wouldn't it be nice to do it one last time?
+
+Yet.
+YET!
+ 
+Saffron took that away from them
+*They body can't hurt itself*
+ 
+They cry most days
+Saffron visits them, making sure they eat
+They don't want this
+ 
+"Please?" Just one last time.
+
+"No. Sunshine doesn't like death." He tells all the time.
+
+"She doesn't have to know?" Always looking for a way to convince him.
+
+"I **won't**. I'm **not** a monster." Cold eyes stare them down.
+
+"Mmm..." Looking down, giving up yet again.
+
+Days feel gray.
+There is nothing worth fighting for.
 
 Note:
-	Saffron takes Mystic to the sea at one point
-	They love it so much, watching the moon glisten in the night
-	It's shimmering light reflecting on the water
-	 ⠀
-	Being near moon and sea is the only thing that makes being alive like this just a *little* better
-	They like the cold night
-	⠀
-	But... *why is the moon so quiet?*
+> Saffron takes Mystic to the sea at one point
+> They love it so much, watching the moon glisten in the night
+> It's shimmering light reflecting on the water
+> 
+> Being near moon and sea is the only thing that makes being alive like this just a *little* better
+> They like the cold night
+> 
+> But... *why is the moon so quiet?*
 
 
 Theme
-	Fighting and change
-	*Don't loose yourself*
+> Fighting and change
+> *Don't loose yourself*
 
-#### Mystic Silence: Light
+## Mystic Silence: Light
 
 Waiting
 Waiting
@@ -569,10 +568,10 @@ Saffron sees it as his punishment, <small><font color="#777777">even if there ar
 
 
 Theme:
-	Happiness after the darkness
+> Happiness after the darkness
 
 
-#### Extra
+## Extra
 I'm still working on the stories and such so there are still many parts we need to work on
 Which also means there are many parts that are subject to change
 
@@ -586,54 +585,118 @@ Also, I do hope it was an enjoyable read
 Even if very bullet point like
 
 
-## 2. Is there  a character arc/storyline planned for saffron and the rest? 
-
-Yes.
-
-## 3. Are they any themes and symbol and allegories and stuff like that you  would like to share in your characters/story?  🥺 
-
-There do be a lot
-
-Main theme:
-	You can claw and fight, but you'll **never** get the happiness you had in the past back
-	You have to make your own, here and now
-	⠀
-	Create a future in which you can be happy
-	Be a person who makes you happy to be
-	⠀
-	**Happiness is worth fighting for**
-	⠀<sup><font color="#77777">-# But, you have to fight for it</font></sup>
 
 
-Side themes:
+# **<font color="#92d050">1.4 Basic overarching story for Eden</font>**
+
+
+
+
+# 1.5 Basic overarching story for the sibling and sunshine and stuff? 
+
+
+# 2 Main theme
+You can claw and fight, but you'll never get the happiness you had in the past back
+You have to make your own, here and now
+⠀
+Create a future in which you can be happy
+Be a person who makes you happy to be
+⠀
+Happiness is worth fighting for
+<small><font color="#777777">But, you have to fight for it</font></small>
+
+
+**Side themes**
 * Redemption
 * No one owns you forgiveness
 * Everyone changes in different ways
 	* Only you can define yourself
 
-Or something along those lines
-
-## 4. Does saffron believe in truly believe redemption? For themselves and others
+## 3. Does saffron believe in redemption? For themselves and others
 
 He'd like to, but can't really bring himself to believe he'll ever be good again
 *..was he ever good?*
 
-## 5. What’s the worst thing saffron has done? By his own standards and others 
+## 4. What is the worst thing each finds they've done? 
 
-
+### Saffron
 Hurting Mystic
 Scaring Sunshine
 
-## 6. Conversely, what’s the best thing he has done? 
+### Sequin
 
+
+### Mystic
+*Timber*
+
+
+### Eden
+Letting someone die
+
+
+
+## 5. Conversely, what’s the best thing each has done? 
+
+### Saffron
 Making up for it
 
 
-## 7. What are Saffron's plans for the future? What ambitions and goals does he have? 
+### Sequin
 
-He doesn't think much of the future
-For, he doesn't believe he deserves to experience *today* 
+
+### Mystic
+
+
+### Eden
+
+
+
+
+## 6. What ambitions and goals does each have? 
+
+### Saffron
+\[Child]
+> Wants to make everyone happy!
+
+\[Teen]
+> Get the best grades
+
+\[Adult, before Sunshine]
+> He wants to find his sibling
+> He's ready!
+
+\[Adult, with Sunshine]
+> He wants to make Sunshine happy
+> She deserves to be happy
+
+\[Adult, after Sunshine]
+> He doesn't think much of the future
+> For, he doesn't believe he deserves to experience *today* 
+
+### Sequin
+
+
+### Mystic
+
+
+### Eden
+
+
+
 
 ## 8. What is he willing to do to achieve his goal? What and/or who is he willing to sacrifice to get there?
 
+
+
+
+### Saffron
 **EVERYTHING.**
+
+
+### Sequin
+
+
+### Mystic
+
+
+### Eden

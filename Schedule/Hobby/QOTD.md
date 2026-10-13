@@ -105,14 +105,6 @@ Do they have any contradictory beliefs that other people have noticed or are sta
 
 @QOTD
 
-What if your oc found a powerful device what would they do?
-
--# Q by Angery
-
-#######################################
-
-@QOTD
-
 What makes your oc uncomfortable and why?
 
 -# Q by Fraud

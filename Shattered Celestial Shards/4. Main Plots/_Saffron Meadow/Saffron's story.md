@@ -1,6 +1,6 @@
 
 # 1. Golden Saffron
-[[Saffron]] is born
+[[2. Characters/Saffron]] is born
 Saffron spends time with [[2. Characters/Side Characters/SM SUN/Sister|Sister]]
 Sister tells of her life, saffron wants to help
 

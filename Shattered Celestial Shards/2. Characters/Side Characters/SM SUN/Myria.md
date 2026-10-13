@@ -1,5 +1,5 @@
 Was a good friend of [[2. Characters/Side Characters/SM SUN/Calen|Calen]] 
-Very friendly and a bit curious about [[Saffron]] 
+Very friendly and a bit curious about [[2. Characters/Saffron]] 
 
 She "befriends" [[Mystic]] after having become friends with Saffron
 But it's only after Saffron is gone that they actually spend time and become proper friends
