@@ -3,6 +3,15 @@
 The story of [[Saffron]]
 The child of the sun
 
+### Basic character arc
+> You're a bad person
+> You don't have to be
+> 
+> What does it mean to be you?
+> **Being me, means, being honest.**
+> **Being me, means, listening.** 
+
+
 ## Golden Saffron
 Born, happy memories with sibling
 Saffron, around 8 years, "loses" his sibling
@@ -257,7 +266,20 @@ But... they never really do...
 
 # **<font color="#7c6eeb">1.2 Basic overarching story for Sequin</font>**
 
+### Basic character arc
+> You still have a choice
+> Sometimes it's worth taking risks
+> Even if all ends the same
+> 
+> Be a bit silly will ya
+
+
 # **<font color="#46bec8">1.3 Basic overarching story for Mystic</font>** 
+
+### Basic character arc
+> The world is rarely kind
+> But happiness is still worth fighting for
+
 ## Mystic Dog Days
 Mystic had a dog named Timber
 It was a happy time
@@ -589,7 +611,9 @@ Even if very bullet point like
 
 # **<font color="#92d050">1.4 Basic overarching story for Eden</font>**
 
-
+### Basic character arc
+> You don't have to understand
+> You can still make connections
 
 
 # 1.5 Basic overarching story for the sibling and sunshine and stuff? 

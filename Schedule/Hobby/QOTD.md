@@ -105,22 +105,6 @@ Do they have any contradictory beliefs that other people have noticed or are sta
 
 @QOTD
 
-What makes your oc uncomfortable and why?
-
--# Q by Fraud
-
-#######################################
-
-@QOTD
-
-What’s their type?
-
--# Q by Fraud
-
-#######################################
-
-@QOTD
-
 What 
 - Rational fear
 - And irrational fear 

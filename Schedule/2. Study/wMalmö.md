@@ -49,7 +49,7 @@
 	- [x] 5 Oct, Assignment (Act of kindness)
 	- [x] 7 Oct, Feedback
 	- [ ] 7 Oct, Feedback
-	- [ ] (8 Oct, Submit to exhibition: martin.cathcart-froden@mau.se)
+	- [x] (8 Oct, Submit to exhibition: martin.cathcart-froden@mau.se)
 	
 	- [ ] 7 Oct, Assignment (People watching)
 	- [ ] 11 Oct, Feedback
@@ -61,7 +61,7 @@
 
 
 - [ ] Writing v.42
-	- [ ] 14 Oct, Assignment
+	- [x] 14 Oct, Assignment
 	- [ ] 18 Oct, Feedback
 	- [ ] 18 Oct, Feedback
 - [ ] Reading v.42
