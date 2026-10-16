@@ -227,6 +227,157 @@ And.
 *'Curiosity killed the cat.'*
 
 
+# Feedback 1
+
+Pretty solemn sweetness, a domestic bliss forced into a world where it shouldn't be. I like it!
+
+I enjoy how "normal" it all feels 
+It's just another pretty day
+The atmosphere is sweet and domestic
+While the lines tell there is something laying underneath
+Something far more ugly than this bliss will allow.
+
+For feedback, I don't feel like the second and third line add much. It more just makes the visit to the store drag longer than feels needed. He may give the single use plastic bag a dirty look, but we don't know *why* he does that. Which robs us of some possible character insight. 
+
+Something worth noting is that having the store scene drag a little could be part of the narrative, as in, he too might feel like he's spend to long at the story and would rather just get home. (Which is clearly something he feels to an extent, else he would not be speeding home.)
+
+To emphasize how he's growing impatient at the store you could describe him in ways that shows he's impatient and want to hurry. Like fidgeting and regretting deciding to by a lot instead of just the most needed for the meal, cause the cashier is taking one item at a time. "Why is every line so long?", "Can't she just tell much it is faster?" and "Did she *have* to ask everyone if they wanted a bag?"
+
+Maybe when it's his turn he just says "I don't need a bag." Right after she greeted him. Just to show how impatient he is and how antsy he is to get home.
+
+Another alternative would be to just remove the second and third line and let the story flow:
+
+"""
+Pasta, garlic, parmesan, the rest he has at home. It’s her favorite, she will be happy, she must be.  
+
+On the way home from the store, he does something he rarely does, he speeds. He doesn’t even stop at all the stop signs; in fact, he can’t quite remember if that last light was green or red. He doesn’t even put away all his groceries before he runs up the stairs.
+"""
+
+It's all up to you, and what you find most important to emphasise. His WANT to get home or how he acts when he IS home.
+
+
+Speaking of how he acts when home, it's quite interesting, a cold detachment fuelled by love and grief. As if he can not accept his reality so he tries to substitute it with his own.
+
+Though, I feel like there could be more punch to it all, a grief that crawls up at you, a sorrow where all you can do is smile as its nails dig dipper and deeper, trapping you in the scene of madness.
+
+To help, try using more of the senses in your writing, and, do tell us a bit of the state of her body. Knowing her state could give a view of how far gone he truly is.
+
+Is her body part machine? Did he try and save her so many times he had to replace parts, say it's for the better, a human heart may fail, but what of a mechanical one?
+
+Or is she in a state of decomposition? If so, how does she *smell*? What does the room smell like? Has he tried to mask it? Maybe spray around her favourite perfume? "It's what she'd want." He'd think, hiding behind the excuse like a child behind a curtain, afraid. 
+
+Though, he can not be afraid, can he?
+For, he still has reasons to smile
+His beloved will be here soon
+She'll come down the stairs as she always did-
+
+Does.
+
+She will give him a hug,
+
+And she'll ask him what he's making.
+
+And, he'll answer, with a happy smile.
+
+"It's your favourite."
+
+
+So, in other words
+I think the story you've made has quite some potential!
+Well done!
+
+Keep at it!
+I believe in you! 
+It shall be fun to know what more you may do ᵔᵜᵔ
+
+
+
+# Feedback 2
+
+Oh, quite abrupt
+It's a lot of interesting ideas in one
+
+It feels less "ghost hunter" and more "military training with a paranormal task as part of their training" but, there is also a bit of a "school trip with kids just messing around with things they don't know" feel to it.
+
+I get the feeling you didn't fully know what to write when you started, so everything ended up feeling a bit disjointed. Still, I do think the best thing to do when you're unsure is just to write and let your mind flow. Giving you ideas.
+
+Cause, there are many interesting parts presented, I quite like how ghost hunting seems to be more a proper profession instead of just a hobby. 
+
+I'd suggest you'd lean into that more, how would the training differ from military training? And what makes it so popular that this is group 238? How real are ghost in this word? How big of a threat? Why did the characters want to be a part of this? What motivated them to choose this profession?
+
+You got the bones of a story, you got interesting ideas.
+Now! Time to put some meat into it all
+
+Don't *just* tell that a character is doing something or that something has simply happened. Doing so makes it all feel like a summary, like the opening narration to the story you want to tell. Being objective and to the point has it's perks when you want to create an outline to the story you want to tell. And, I do find that what you've written falls into this.
+
+It's not bad by any means, it has it's own sort of charm, being a mix of ideas, and I do like the story. 
+
+It's more that the execution feels "rushed" in a way, we don't really connect with the characters, we don't really learn anything about them. The names are mentioned, but the hold no weight. We can not connect the names to anything. What kind of person is Sheila, Joachim and Ernst? What connection do they have to our protagonist? Are they friends? Is this the first time they've met? Do they care about Maria in any way? How do they feel towards her when she doomed them all? Did they believe the voice any? Was there anyone who was distrusting of it?
+
+A lot of questions, I know, but it's important to give the reader something to grasp. Else is more a point list of what happens, than the story itself. What want the reader to *feel* with the characters. 
+
+For example, when she feels disgusted, we don't really feel it too much? And, a big part of that is because we don't really "know" her.
+
+I DO like the "The smell was absolutely vile. Like the river in which fish had died near Grandma’s house. ‘Drink, drink!’ She just couldn’t. Her hand with the cup trembled." It gives us a *hint* of what her life is, she has a grandma who lives by a river where fish often lay dead. In a way, it's the nuggets of a mystery, *'Why were the fish dead? Is that river dangerous?'*
+
+But, also, that is practically all we *do* know about her. It's the only piece that makes her feel like a proper character with a story to tell. And... I think that's kinda sad? She isn't *just* the eyes in which we see the world, doesn't she have feelings too?
+
+How does she feel about all this? What actions does she take to inform us of these feelings? How does she feel about being in the forest? Does it remind her of home? Does it feel comforting? Dangerous? 
+
+What does she think of everyone around her? 
+Are they people she likes? People she doesn't?
+(How many people are there on that buss?) 
+Does she enjoy being alone or is she more one who simply finds that's her lot in life? 
+Does she have friends?
+
+And, when everyone ran towards the house, did they do so with glee, happy to do this, or was it more out of pressure and want to get it done as fast as possible?
+
+And, in the house, what did they think of the tacky witch voice? Did anyone find it charming? Cute? Disturbing? Scary? (Or did they all just conclude that it was tacky?) (How was it tacky? Did it sound like an Halloween decoration? Did anyone comment on it?)
+
+Have they ever done these kinds of tests before? 
+Or was this a first? How confident do they all feel?
+
+If you have a lot of characters in your story, it would do you well to use them, especially if they're named. If it has a name, it has a story. Which means, there is a personality to be found and a difference that brings a bit of spice.
+
+Use it, they're not *just* pawns that scream 'Drink, Drink, Drink' like a hivemind, they're more than that, are they not?
+
+Or, maybe as they explored the house their soul got replaced, and *that* is why they act so in sync. Or maybe they're all friends having fun? Are they friends with Marie too?
+
+
+Regardless!
+What I think would serve the story best would be to choose one part of the story you find interesting, be it the buss ride, the arrival, or exploring the house.
+
+My personal preference would be the house. It's the part with most "action", as well as a time crunch. Makes me wonder though, the loudspeaker that says "two more minutes," is that the same time limit given at the start? If so, why would they want to doom students? And, what does "doom" mean in this context? Were they killed? Possessed? Or they're doomed to clean the dorm?
+
+It's good to tell of what stakes there are in a story so that the reader can get a good grasp of what happens if they fail, and what happens if they succeed. As in, suspense is good to have.
+
+Continuing on, when you have a set focus, you can use the that to your advantage and flesh everyone out, tell about how they more around the space. Careful? Scared? Confident?  Do they look around before taking a step? Do the jump at the creaking of the house? Do their steps echo?
+
+What kind of riddles are there? How do they solve them? How do they all work as a team? Who's the brains? Who's the brawn? What experiences does each have that can be useful in solving what lays before them?
+
+And, I'd also recommend having some reaction to being told "Too late, you’re all doomed". Who accepts it without question? Who screams in defiance? Who thinks it's a joke?
+
+
+Alright!
+That should be all...
+If you have any questions or similar, your free to contact me though the "Inbox"/"Inkorg" tab in canvas. I'd be happy to talk, listen and read more from you!
+
+
+Cause, as said many times over
+There are many interesting things presented here, it would be so cool to explore it more and see what lays there. I enjoy the little bits of character information we *do* get and it would be neat to get more. Would be cool to know more of how this world works and stuff
+
+
+So, I'm looking forward to what more things you can create!
+Wish you the best! 
+
+You got this!!
+
+
+
+
+
+
+
 
 
 

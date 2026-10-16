@@ -62,7 +62,7 @@
 
 - [ ] Writing v.42
 	- [x] 14 Oct, Assignment
-	- [ ] 18 Oct, Feedback
+	- [x] 18 Oct, Feedback
 	- [ ] 18 Oct, Feedback
 - [ ] Reading v.42
 	- [ ] 18 Oct, Comment

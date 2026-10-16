@@ -33,6 +33,23 @@ Are there any situations where they would do the opposite?
 
 @QOTD
 
+If your ocs were in a kart racer what would the tracks be like
+-# ((And, what stat do they specialize in, Mario kart style))
+
+-# Q by Coco
+
+#######################################
+
+@QOTD
+
+What outfit would your oc not be caught dead in?
+
+-# Q by Pine
+
+#######################################
+
+@QOTD
+
 What is your OC's outlook on death? Do they believe in afterlife? Nothing? What led to this belief?
 
 -# Q by Drey
