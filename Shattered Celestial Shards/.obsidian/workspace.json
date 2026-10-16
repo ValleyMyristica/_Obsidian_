@@ -11,14 +11,12 @@
             "id": "49356d31019246a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "5. Short Stories/Saffron & Mystic - Cold Love.md",
-                "mode": "source",
-                "source": false
+                "file": "2. Characters/Images/Saffron/FunnyMEME_carsalesman.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Saffron & Mystic - Cold Love"
+              "icon": "lucide-image",
+              "title": "FunnyMEME_carsalesman"
             }
           }
         ]
@@ -188,8 +186,20 @@
   },
   "active": "49356d31019246a6",
   "lastOpenFiles": [
-    "QUESTIONS.md",
+    "2. Characters/Images/Saffron/Saffron_floating.gif",
+    "2. Characters/Images/Saffron/FunnyMEME_carsalesman.jpg",
+    "2. Characters/Images/mini_sequin.png",
+    "2. Characters/Images/Saffron",
+    "2. Characters/Images/mini_saffron.png",
+    "2. Characters/Images/mini_mystic.png",
+    "2. Characters/Images/mini_eden.png",
+    "2. Characters/Images/BC_SEQUIN_Final.png",
+    "2. Characters/Images/BC_SAFFRON_Final-shadowt.png",
+    "2. Characters/Images/BC_SAFFRON_Final.png",
+    "2. Characters/Images/BC_MYSTIC_Final_orgColour.png",
+    "2. Characters/Images/BC_MYSTIC_Final_Blue.png",
     "5. Short Stories/Saffron & Mystic - Cold Love.md",
+    "QUESTIONS.md",
     "5. Short Stories/Done (Meh)/Saffron - I'll care.md",
     "5. Short Stories/Game idea.md",
     "5. Short Stories/Saffron - First impressions.md",
@@ -213,7 +223,6 @@
     "2. Characters/░ QnA ░.md",
     "2. Characters/Eden.md",
     "2. Characters/Character Overview.md",
-    "Final Writings/Saffron Meadow/_Chapter Overview.md",
     "Untitled.base",
     "Untitled.canvas",
     "5. Short Stories/Exercises/Whumptober 2026",
@@ -223,20 +232,9 @@
     "5. Short Stories/Done (Good)",
     "5. Short Stories/Exercises",
     "5. Short Stories",
-    "ExtraResources/SequinPotion.png",
-    "ExtraResources/Potions.png",
-    "ExtraResources/SaffronPotion.png",
-    "ExtraResources/MysticPotion.png",
-    "ExtraResources/EdenPotion.png",
-    "ExtraResources/Dividers/DefaultDivider.png",
-    "ExtraResources/Dividers/EdenDivider.png",
-    "ExtraResources/Dividers/MysticDivider.png",
-    "ExtraResources/Dividers/SaffronDivider.png",
-    "ExtraResources/Dividers/SequinDivider.png",
     "1. Places/MAP.canvas",
     "2. Characters/_Images_.canvas",
     "4. Main Plots/_Mystic Silence/x. Remember",
-    "Final Writings/Sequin Eyes/Story",
     "Main Plots/Untitled.canvas"
   ]
 }

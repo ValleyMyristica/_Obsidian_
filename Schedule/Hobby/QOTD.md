@@ -24,9 +24,10 @@ If your character had a nightmare, what would it be about?
 
 @QOTD
 
-How will your OC react on the verge of their slow death?
+Would your OC save their own life if it meant someone else dying?
+Are there any situations where they would do the opposite?
 
--# Q by Drey
+-# Q by Kale
 
 #######################################
 
