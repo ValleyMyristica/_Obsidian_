@@ -157,6 +157,12 @@ So, what is stopping you,
 From doing all the things you want to do?
 
 
+Such a kindness shared
+Such a sweet hold
+You don't have to ask
+You can simply do
+As long as you do it
+As you.
 
 
 # <font color="#05b5c5">Writing</font>
