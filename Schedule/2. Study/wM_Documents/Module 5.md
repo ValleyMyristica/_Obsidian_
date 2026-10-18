@@ -136,6 +136,9 @@ Please write a short reflection on each text and post it [here](https://mau.ins
 
 #### **(C)**   Burroway's chapter on Character. 
 
+The emphasis of using actions and how the character presents to give a feel of what lays inside, what their personality is like. The notes on how you as a writer differ from a "normal" person is also good to take note of. Characters shouldn't be perfect and know everything, they're just a part of the story and even if they *do* know things, that doesn't mean
+
+Oh! And one thing I do enjoy in writing is exploring characters though the way they see the world. Two different characters have different relations towards the objects in their environment.
 
 #### **(R)**   Can Xue – The child who raised poisonous snakes, p 644
 
@@ -144,6 +147,16 @@ Please write a short reflection on each text and post it [here](https://mau.ins
 #### **(P)**    Kaylin Haught – God says yes to me, p 245
 
 Oh! It feels so encouraging!
+So sweet and kind, bringing piece to mind
+In a world so cruel and full of dread
+It's nice to know it's in your right to feel what you feel
+It's real, your real
+
+No need to ask if the answer is sure to be yes
+So, what is stopping you,
+From doing all the things you want to do?
+
+
 
 
 # <font color="#05b5c5">Writing</font>
@@ -164,7 +177,7 @@ Colorful purple hair, confident, steady steps and a kind demeanor
 
 ## A curious cat
 
-As the sky slowly shimmers in the colours reminiscent of her hair, a purple slowly turning dark blue. The night is falling, and she has a curiosity she must clench. A smile spreads as she stands at the foot of the big, abandoned house with a remote in hand.
+As the sky slowly shimmers in the colours reminiscent of her hair, a purple slowly turning dark blue. The night is falling, and she has a curiosity she must quench. A smile spreads as she stands at the foot of the big, abandoned house with a remote in hand.
 
 Opening the ragged door, dust spreads, the remote beeps and she choughs, trying to look around. Stretching out the remote, she follows the beeps, the more, the better. She'll find that ghost. Moving further in, starting to realise that a dust mask could have be good to have. Though, it won't stop her, the remote is beeping more and more. She's getting closer.
 
@@ -188,7 +201,7 @@ There must be a secret hidden.
 
 She **will** find it.
 
-Feeling the wall, pressing down on anything that feels *odd*, nothing. Taking a step back, she looks around. What's missing? Is she not seeing the full picture?
+Feeling the wall, pressing down on anything that feels *odd*. Nothing. Taking a step back, she looks around. What's missing? Is she not seeing the full picture?
 
 A dark candle sconce is attached to the wall.
 
@@ -390,3 +403,175 @@ You got this!!
 All the 'try this' in the chapter on Character. 
 **No prose and poetry this week.** 
 For the 'try this' exercises: post at least one text [here](https://mau.instructure.com/courses/22579/discussion_topics/458134 "Module 5, week 42: Reading reflections")
+
+## Reflection
+
+> **TRY THIS 4.1** 
+> Choose a character you have thought and written about before. Fill out  the  sentence  with blanks  shown  earlier.  Then  quickly  jot  down  what makes  your  character:  
+> * giggle  
+> * wince  
+> * shout  
+> * gag  
+> * go quiet  
+>  
+> Imagine your character in a situation that produces one of these emotions.  What does he or she want in that situation? What is the deep, abstract  desire? What, in this specific situation, does he or she want that would fulfill, at least temporarily, that desire?
+
+
+Saffron is a 21 year old who wants to do good. Who wants to do the right thing. Who want's his sweet Sunshine to be happy.
+
+
+
+(Oh? Sunshine sounds more than an idea than a person? 
+Well, love is quite a curious and *scary* thing, wouldn't you say?)
+
+
+
+> **TRY THIS 4.2**  
+> If people are characterized by the objects they choose, own, wear, and carry with them, they are also revealed in what they throw away. Garbology is the study of society or culture by examining and analyzing its refuse. Write a character sketch by describing the contents of your character’s waste basket.
+
+Gathering the papers ripped out of his journal that laid scattered on the floor. Face dry and empty, no more tears left to cry. He could see the writing on a few.
+
+|> It means not liking mirrors
+|> It means liking to be human
+|> It means working hard
+
+Is what some of them said.
+
+|> It means liking to do things that bring a smile to others
+|> It means doing your best, despite everything
+|> It means facing the consequences
+
+Another few read.
+
+|> It means being a bit smug
+|> It means standing up for yourself
+
+He scoffs.
+What a fool he's been.
+
+|> It means being honest
+
+Is the last ones he reads before throwing them in the bin.
+**Lies.** They're false and inaccurate. He shouldn't keep them.
+
+He shouldn't have...
+
+If only he was better, if only he was kinder, listening.
+If only he was good.
+
+Doesn't matter now.
+
+Looking at the bin.
+He was so close.
+He **almost** knew.
+
+But.
+
+Heh.
+
+|> It means being a failure
+|> It means being alone
+
+Those are the ones true.
+
+*Guess he's finally starting to realise what it means to be him.*
+
+
+> **TRY THIS 4.3**  
+> Write a quick sketch of a character you have already worked with—no more than two or three focused details. Then pick one of the trigger lines below and write a monologue in that character’s voice. Keep going a little bit past the place where you want to stop.  
+> * After the movie, we...  
+> * I didn’t really mean it, but...  
+> * I thought I could smell...  
+> * I know really ought to...  
+> * If there’s anything I can’t stand...  
+> * You call that music?
+> 
+> Now  look over the monologue and highlight a few phrases that seem to you to catch that character’s voice. Pick one of these and use it to begin another short monologue.
+
+
+"I didn’t really mean it, but... no... I **did** mean it..." 
+
+Taking a breath.
+
+"That's the worst part, isn't it? I *wanted* to hurt them. I wanted to..."
+
+Hands covering his eyes and cheek.
+
+"And then. I left them."
+
+
+
+
+> **TRY THIS 4.4**  
+> Write a “dialogue” between two characters, only one of whom can speak. The other is physically,  emotionally, or otherwise prevented from saying what he/she wants to say. Write only the words of the one, only the appearance and actions of the other.
+
+
+
+
+
+
+> **TRY THIS 4.5**  
+> Take a monologue you have already written and add actions, in the form of either narration or stage directions. Make the action contradict or qualify the speech. E.g., “I’m not worried about it at all. These things don’t throw me.” (She twists her hands.) and so forth. Remember that a good way to reveal characters’ feelings is through their relationships to objects.
+
+
+
+
+
+
+
+
+> **TRY THIS 4.6**  
+> Pick a character. What is your character’s deep desire? What is the situation that the character is in now—where, doing what, in the company of whom? Make a list, inventing as you go, of the character’s thought process, backward from the ultimate desire to the specific action (or inaction) that would lead eventually toward that desire.
+
+
+
+
+
+
+
+
+> TRY THIS 4.7  
+> Write a paragraph of no more than a hundred words presenting a character  through authorial interpretation. Cover at least five years in the character’s  life,  four qualities  he  or she possesses, three  important  events,  and two  habitual actions.
+
+Saffron, year one, had a sibling dear. Year two, he learned a lot from them. Year three, he loves his sibling, but it seems there are troubles that brew. Year four, his sibling starts to open up to him, telling of how cruel the world can be. Year five, there is no sibling. If he had been better, if he had been stronger, he could have stopped it. He could have helped. Maybe, if he studies, puts all his effort into learning all he can, maybe... he can prevent the same thing from happening again?
+
+
+-- v~ Try one | ^~ Try two -- (I don't think I know what to do)
+
+This be Saffron, the sun, he shines brightly in all that he may do. They all adore him well, for he is a prodigy, if you couldn't tell. His parents love him with all their might.
+
+He doesn't trust them, all he sees is liars.
+
+He was a kid once, a little child with a sibling dear. But, because of the **liars**, his sibling is no where near. Years have passed and fear starts to grip, he's slowly forgetting their face. The liars took everything from him, they *want* him to forget.
+
+
+> TRY THIS 4.8  
+> Write a short character sketch (it may be from life) focusing on how your character makes a living. Put your character in a working situation, and let us know by a combination of direct and indirect methods what that work is: how well he/she does it; what it looks, sounds, smells like; and how the character feels about it. Contrast the methods.  
+
+
+
+
+> TRY THIS 4.9  
+> Write a stage direction for two people that conveys the emotional relationship between them. They may gesture, move, touch, and relate to objects or elements of the place; but there is no  dialogue.
+
+
+
+
+
+
+
+
+
+> TRY THIS 4.16 
+> Write a short monologue for a character who has done something illegal, immoral, gross, or unkind. Make us sympathize.
+
+
+"How can you believe there is good in me. Don't you know what I've done? I... You've... You know that kid hates me. She **should**. I... I'm surprised... you don't." "Does she ever... talk about me? Do you know what I did? Do you *want* to know? I... she has a really bad dad, you know? And... I... I just wanted things to be safe. I just wanted her to be happy. So... I kidnapped her."
+
+"But... I don't know anything about kids, I don't know what makes them happy! I just- I tried everything I could think of. And... in the end... I just scared her."
+
+"I'm a monster in her eyes."
+
+"I am... a monster."
+
+"I just... the best I can hope for is that she forgets about me. Forgets, so it doesn't pull her under. She's so scared. I can't help. I just make things worse. I can't make her happy. I just make things worse. I can't help her, not like how you can. I never could. I was just wrong."

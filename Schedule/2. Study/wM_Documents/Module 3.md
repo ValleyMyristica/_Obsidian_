@@ -1,6 +1,29 @@
+# Reading
+- [ ] Reading v.39
+	- [ ] 27 Sep, Comment
+	- [ ] 30 Sep, Feedback
+
+
+> **(C)**   Chapter 3 // Voice: all the 'try this' exercises.
+> **(Extra C)** Read this on dialogue: [Dialogue CW.pdf](https://mau.instructure.com/courses/22563/files/3504374?wrap=1 "Dialogue CW.pdf")[Download Dialogue CW.pdf](https://mau.instructure.com/courses/22563/files/3504374/download?download_frd=1)
+> **No prose and poetry this week.** 
+> 
+> For the 'try this' exercises: post at least one text here that's a result of one of these exercises and add a small reflection, e.g. how did it go? Was this challenging, fun, annoying, etc.?
+
+
+
+
+
+
+
+
+
+
+
+# Writing
 Soft light from dim lamps as the outside is dull with the patter of rain. A cosy warm inside with a cup of hot chocolate in hand. 
 
-So much chatter around, some talking about what they've meade showing the screan. Others talking in a language one can't comprehend. Others stay in silence.
+So much chatter around, some talking about what they've made showing the screen. Others talking in a language one can't comprehend. Others stay in silence.
 
 
 While two voices stand out.
@@ -18,7 +41,7 @@ So everything in storage was going to get thrown out
 
 Wow
 
-So, they said "go take whatever youd like" even if it wasn't fully allowd
+So, they said "go take whatever you'd like" even if it wasn't fully allowed
 
 No one will know
 

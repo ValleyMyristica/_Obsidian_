@@ -17,7 +17,12 @@ Art Prompts:
 
 
 
+QUOATS: 
+> "Actions speak louder  
+> And it's clear to see  
+> There was never any good to be found in me"
 
+> He's was never anyone's top priority and she was never the answer
 
 
 

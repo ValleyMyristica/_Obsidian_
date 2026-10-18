@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Study/wMalmö.md",
+                "file": "Hobby/Advice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wMalmö"
+              "title": "Advice"
             }
           }
         ]
@@ -185,14 +185,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a59f67f53aab24e",
+  "active": "b5ef779cf2326b32",
   "lastOpenFiles": [
-    "2. Study/wM_Documents/Done/Feedback - M5 - Title.pdf",
-    "2. Study/wM_Documents/Module 3.md",
     "Hobby/QOTD.md",
-    "2. Study/wMalmö.md",
-    "2. Study/wLuleå.md",
+    "Hobby/Advice.md",
     "2. Study/wM_Documents/Module 5.md",
+    "2. Study/wM_Documents/Module 3.md",
+    "- Tasks -.md",
+    "2. Study/wMalmö.md",
+    "2. Study/wM_Documents/Books/(C) Janet Burroway - Imaginative writing.pdf",
+    "2. Study/wM_Documents/Done/A curious cat.pdf",
+    "2. Study/wM_Documents/Done/Feedback - M5 - Title.pdf",
+    "2. Study/wLuleå.md",
     "2. Study/wM_Documents/Module 6.md",
     "2. Study/wM_Documents/Module 9.md",
     "2. Study/wM_Documents/Module 8.md",
@@ -200,7 +204,6 @@
     "2. Study/wM_Documents/Module 12.md",
     "2. Study/wM_Documents/Module 11.md",
     "2. Study/wM_Documents/Module 10.md",
-    "2. Study/wM_Documents/Done/A curious cat.pdf",
     "3. Hobby/Programing/DailyPrograming.md",
     "3. Hobby/Programing",
     "3. Hobby/Language/grammar_guide.pdf",
@@ -210,9 +213,6 @@
     "2. Study/wM_Documents/Done/~$like to watch the moon at night.docx",
     "2. Study/wM_Documents/Done/Module 4.md",
     "2. Study/wM_Documents/Done/I like to watch the moon at night.pdf",
-    "2. Study/wM_Documents/Done/M5 - I like to watch the moon at night.pdf",
-    "2. Study/wM_Documents/Done/I like to watch the moon at night.docx",
-    "- Tasks -.md",
     "Hobby/IMPORTANT SKILLS.md",
     "1. School/Electronics/Exercises Electronics.md",
     "3. Hobby/DailyPrograming.md",

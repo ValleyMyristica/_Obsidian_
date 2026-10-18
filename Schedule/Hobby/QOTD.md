@@ -82,14 +82,6 @@ Your OC is given 32 days to prepare. That's it, someone or something told them t
 
 @QOTD
 
-If they were allowed to commit any one crime for a whole day without consequence/anyone remembering the next day, would they do it? What would they do specifically, and how would they live with it after it was over?
-
--# Q by Tel
-
-#######################################
-
-@QOTD
-
 Who's approval do they seek the most? What's the absolute farthest they would go to prove themselves?
 
 -# Q by Tel
@@ -118,17 +110,6 @@ Do they have any contradictory beliefs that other people have noticed or are sta
 -# If not, what's something they used to believe in but they changed after growing a little?
 
 -# Q by Tel
-
-#######################################
-
-@QOTD
-
-What 
-- Rational fear
-- And irrational fear 
-Does your oc have?
-
--# Q by Fraud
 
 #######################################
 
