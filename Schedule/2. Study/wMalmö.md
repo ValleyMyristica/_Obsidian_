@@ -60,13 +60,13 @@
 	- [ ] 14 Sep, Feedback
 
 
-- [ ] Writing v.42
+- [x] Writing v.42
 	- [x] 14 Oct, Assignment
 	- [x] 18 Oct, Feedback
-	- [ ] 18 Oct, Feedback
-- [ ] Reading v.42
-	- [ ] 18 Oct, Comment
-	- [ ] 21 Sep, Feedback
+	- [x] 18 Oct, Feedback
+- [x] Reading v.42
+	- [x] 18 Oct, Comment
+	- [x] 21 Sep, Feedback
 
 
 

@@ -24,15 +24,6 @@ If your character had a nightmare, what would it be about?
 
 @QOTD
 
-Would your OC save their own life if it meant someone else dying?
-Are there any situations where they would do the opposite?
-
--# Q by Kale
-
-#######################################
-
-@QOTD
-
 If your ocs were in a kart racer what would the tracks be like
 -# ((And, what stat do they specialize in, Mario kart style))
 

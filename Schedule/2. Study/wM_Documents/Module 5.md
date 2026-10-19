@@ -246,7 +246,7 @@ And.
 *'Curiosity killed the cat.'*
 
 
-# Feedback 1
+## Feedback 1
 
 Pretty solemn sweetness, a domestic bliss forced into a world where it shouldn't be. I like it!
 
@@ -311,7 +311,7 @@ It shall be fun to know what more you may do ᵔᵜᵔ
 
 
 
-# Feedback 2
+## Feedback 2
 
 Oh, quite abrupt
 It's a lot of interesting ideas in one
@@ -405,7 +405,7 @@ You got this!!
 
 
 # <font color="#05b5c5">Reading v.42</font>
-- [ ] Reading v.42
+- [x] Reading v.42
 All the 'try this' in the chapter on Character. 
 **No prose and poetry this week.** 
 For the 'try this' exercises: post at least one text [here](https://mau.instructure.com/courses/22579/discussion_topics/458134 "Module 5, week 42: Reading reflections")
@@ -468,6 +468,7 @@ If only he was good.
 Doesn't matter now.
 
 Looking at the bin.
+Where the papers lay among rotting fruit. 
 He was so close.
 He **almost** knew.
 
@@ -481,6 +482,44 @@ Heh.
 Those are the ones true.
 
 *Guess he's finally starting to realise what it means to be him.*
+
+
+\> Reflection
+Fun, but also somewhat hard. I had such a clear image in mind, but unsure if one did it right. There should be more use of the senses, but I couldn't fit it. All that laid in mind where the papers clear, but paper has no odour. How would one explain the texture? How would it fit?
+
+Some things have such clear emotionally driven textures, like a warm blanket or wool, while other things are far less clear, how would one say a 'computer' feels like? What does 'plastic' feel like? How would one explain the texture difference between paper and plastic?
+
+I did like this one though, I had a far harder time with "TRY THIS 4.7", cramming so much information(5 years, 4 qualities, 3  important  events,  and 2  habitual actions) into 100 words is kinda insane. It ended up feeling like a powerpoint slide almost, but it was still an interesting exercise
+
+
+I also really liked 
+> **TRY THIS 4.16**
+> Write a short monologue for a character who has done something illegal, immoral, gross, or unkind. Make us sympathize.
+
+"How can you believe there is good in me. Don't you know what I've done? I... You've... You know that kid hates me. She **should**. I... I'm surprised... you don't." "Does she ever... talk about me? Do you know what I did? Do you *want* to know? I... she has a really bad dad, you know? And... I... I just wanted things to be safe. I just wanted her to be happy. So... I kidnapped her."
+
+"But... I don't know anything about kids, I don't know what makes them happy! I just- I tried everything I could think of. And... in the end... I just scared her."
+
+"I'm a monster in her eyes."
+
+"I am... a monster."
+
+"I just... the best I can hope for is that she forgets about me. Forgets, so it doesn't pull her under. She's so scared. I can't help. I just make things worse. I can't make her happy. I just make things worse. I can't help her, not like how you can. I never could. I was just wrong."
+
+
+\> Reflection
+Though, I find what one has produced is lacking. I want you to truly **feel** the regret that paints his words. Want you to feel how the past claws at him. Want it to be clear, that even if the kid hates him, the one who despises him most, is, himself.
+
+He hates what he did.
+And, there is a nagging fear that rests in the nerves of his spine. 
+*What if he does it again?*
+It's eating at him, slowly gnawing away
+He can only hope, that it leaves him with no strength
+For, without strength, maybe he'll finally stop hurting those he cares about?
+
+
+(Also, heh, character vise, I do imagine it being the same character)
+(Just for the fun of it!)
 
 
 > **TRY THIS 4.3**  
