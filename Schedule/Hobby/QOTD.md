@@ -6,7 +6,8 @@ Format
 
 XXX
 
--# Q by XXX
+-# `Q by XXX`
+> -# Send your responses in #qotd-response 
 
 #######################################
 ¨¨¨¨¨¨
@@ -18,32 +19,8 @@ XXX
 If your character had a nightmare, what would it be about?
 -# Actions that haunt? Or a happy reality that will never be?
 
--# Q by Valley
-
-#######################################
-
-@QOTD
-
-If your ocs were in a kart racer what would the tracks be like
--# ((And, what stat do they specialize in, Mario kart style))
-
--# Q by Coco
-
-#######################################
-
-@QOTD
-
-What outfit would your oc not be caught dead in?
-
--# Q by Pine
-
-#######################################
-
-@QOTD
-
-What is your OC's outlook on death? Do they believe in afterlife? Nothing? What led to this belief?
-
--# Q by Drey
+-# `Q by Valley`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -51,7 +28,8 @@ What is your OC's outlook on death? Do they believe in afterlife? Nothing? What 
 
 Your OC stands before their beloved person they really care about who is about to do something terrible either to themself or others, how will your OC make them stand down? Or will there be an alternative outcome?
 
--# Q by Drey
+-# `Q by Drey`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -59,7 +37,8 @@ Your OC stands before their beloved person they really care about who is about t
 
 Your OC went to a restaurant. Where would they sit? In a corner? In the middle of the room? Would they sit facing the exit? Away from it? Would they take the seat near the kitchen door? The restroom door? By the wall? Or by the window?
 
--# Q by Drey
+-# `Q by Drey`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -67,15 +46,8 @@ Your OC went to a restaurant. Where would they sit? In a corner? In the middle o
 
 Your OC is given 32 days to prepare. That's it, someone or something told them to prepare in 32 days, yet your OC was compelled to do so. Your OC doesn't know what threat or danger may come or what they need to prepare for in 32 days. How will they prepare and what will they prepare?
 
--# Q by Drey
-
-#######################################
-
-@QOTD
-
-Who's approval do they seek the most? What's the absolute farthest they would go to prove themselves?
-
--# Q by Tel
+-# `Q by Drey`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -83,7 +55,8 @@ Who's approval do they seek the most? What's the absolute farthest they would go
 
 When they walk into a room, what's the first thing they judge about someone they see for the first time?
 
--# Q by Tel
+-# `Q by Tel`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -91,7 +64,8 @@ When they walk into a room, what's the first thing they judge about someone they
 
 What's a boundary other people don't take seriously about your oc that actually means so much they'd be willing to cut them out of their lives over it if crossed?
 
--# Q by Tel
+-# `Q by Tel`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -100,15 +74,8 @@ What's a boundary other people don't take seriously about your oc that actually 
 Do they have any contradictory beliefs that other people have noticed or are starting to catch onto? 
 -# If not, what's something they used to believe in but they changed after growing a little?
 
--# Q by Tel
-
-#######################################
-
-@QOTD
-
-How would your oc be mischaracterized by the fandom if they had one?
-
--# Q by Fraud
+-# `Q by Tel`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -116,7 +83,8 @@ How would your oc be mischaracterized by the fandom if they had one?
 
 How is your oc as a roommate?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -124,7 +92,8 @@ How is your oc as a roommate?
 
 What is one thing your oc would never eat, even if it meant starving to death?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -134,7 +103,8 @@ Your oc’s deepest, darkest memory is being played on a movie screen for everyo
 
 What memory do they see and how do they react?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -142,7 +112,8 @@ What memory do they see and how do they react?
 
 How does your oc smell?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -150,7 +121,8 @@ How does your oc smell?
 
 What is a red flag and green flag your oc has as far as dating goes?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -158,7 +130,8 @@ What is a red flag and green flag your oc has as far as dating goes?
 
 How would your oc react to seeing a duplicate of themselves. Not an evil clone, just a clone.
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -166,7 +139,8 @@ How would your oc react to seeing a duplicate of themselves. Not an evil clone, 
 
 What would your oc be canceled for if they were real?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -174,7 +148,8 @@ What would your oc be canceled for if they were real?
 
 What is an adorable fact about your oc?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -182,7 +157,8 @@ What is an adorable fact about your oc?
 
 What would your oc do if they were held hostage?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -190,7 +166,8 @@ What would your oc do if they were held hostage?
 
 How would your oc fare being charged with their crimes?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -198,7 +175,8 @@ How would your oc fare being charged with their crimes?
 
 How would your oc congratulate a birthday?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -206,7 +184,8 @@ How would your oc congratulate a birthday?
 
 What is something legal in your ocs world or timeline that is not legal on earth modern day?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -214,7 +193,8 @@ What is something legal in your ocs world or timeline that is not legal on earth
 
 If your oc was a famous serial killer, how would they mark their victims to show it off?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -222,7 +202,8 @@ If your oc was a famous serial killer, how would they mark their victims to show
 
 What is something your oc could sit and do for hours?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -230,7 +211,8 @@ What is something your oc could sit and do for hours?
 
 Your oc is sitting at home with the blinds closed when they hear everyone start screaming bloody murder outside. What does your oc do?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -238,7 +220,8 @@ Your oc is sitting at home with the blinds closed when they hear everyone start 
 
 Glass half empty or glass half full?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -246,7 +229,8 @@ Glass half empty or glass half full?
 
 What would your characters be like without their Canon Event, if applicable?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -254,7 +238,8 @@ What would your characters be like without their Canon Event, if applicable?
 
 What would your oc do if locked in a smallish box with no exit?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -262,7 +247,8 @@ What would your oc do if locked in a smallish box with no exit?
 
 What is your oc's relationship with their family like?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -270,7 +256,8 @@ What is your oc's relationship with their family like?
 
 What is a phrase your oc lives by/would quote/would come up with?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -278,7 +265,8 @@ What is a phrase your oc lives by/would quote/would come up with?
 
 When or where was the first place you started role-playing?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -286,7 +274,8 @@ When or where was the first place you started role-playing?
 
 What's the best and worst thing your oc's have done?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -294,7 +283,8 @@ What's the best and worst thing your oc's have done?
 
 Waffles or pancakes: why?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -302,7 +292,8 @@ Waffles or pancakes: why?
 
 Any big plans for your oc's in the works?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -310,7 +301,8 @@ Any big plans for your oc's in the works?
 
 How well could they rob a bank?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -318,7 +310,8 @@ How well could they rob a bank?
 
 What's the worst injury they've ever had?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -326,7 +319,8 @@ What's the worst injury they've ever had?
 
 How do they replace the toilet paper roll (forwards backwards, not at all, etc.)?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -334,7 +328,8 @@ How do they replace the toilet paper roll (forwards backwards, not at all, etc.)
 
 Do they have a wish they want granted? How many? What is it?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -342,7 +337,8 @@ Do they have a wish they want granted? How many? What is it?
 
 How would your oc react to an NPC giving them an annoying quest?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -358,7 +354,8 @@ If your character was an NPC, what quest would they give?
 
 What is their romantic taste/ interest?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -366,7 +363,8 @@ What is their romantic taste/ interest?
 
 5 dollars, take it, or double it and give it to the next person?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -374,7 +372,8 @@ What is their romantic taste/ interest?
 
 How would your oc respond to being told to ‘get over it’ during an emotional time in their life?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -382,7 +381,8 @@ How would your oc respond to being told to ‘get over it’ during an emotional
 
 What are your ocs morals like?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -390,7 +390,8 @@ What are your ocs morals like?
 
 Is the law, law, or more of a guideline for your oc?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -398,7 +399,8 @@ Is the law, law, or more of a guideline for your oc?
 
 How would they comfort you?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -406,7 +408,8 @@ How would they comfort you?
 
 What is their room like?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -414,7 +417,8 @@ What is their room like?
 
 What is their personal/followed philosophy?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -422,7 +426,8 @@ What is their personal/followed philosophy?
 
 Can they cook?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -430,7 +435,8 @@ Can they cook?
 
 What would their bossfight music be?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -438,7 +444,8 @@ What would their bossfight music be?
 
 For you and/or your characters, what's the biggest/most dangerous animal you could fight bare handed?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -446,7 +453,8 @@ For you and/or your characters, what's the biggest/most dangerous animal you cou
 
 What's a game you've been playing recently that you enjoy?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -455,7 +463,8 @@ What's a game you've been playing recently that you enjoy?
 What genre of game, movie, or TV show would your character be apart of?
 -# (Fantasy, rpg, reality TV, mystery, etc)
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -464,7 +473,8 @@ What genre of game, movie, or TV show would your character be apart of?
 How has your day been thus far, any plans? 
 Anything interesting happen?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -472,7 +482,8 @@ Anything interesting happen?
 
 What's a topic(s) you happen to know a lot about?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -480,7 +491,8 @@ What's a topic(s) you happen to know a lot about?
 
 Can your oc read?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
@@ -488,7 +500,8 @@ Can your oc read?
 
 What is/are your most like book/series and extended media?
 
--# Q by Fraud
+-# `Q by Fraud`
+> -# Send your responses in #qotd-response 
 
 #######################################
 
