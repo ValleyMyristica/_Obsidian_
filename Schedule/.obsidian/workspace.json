@@ -37,12 +37,14 @@
             "id": "10666a8939cf37c0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/5.71.pdf"
+                "file": "Hobby/QOTD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "5.71"
+              "icon": "lucide-file",
+              "title": "QOTD"
             }
           },
           {
@@ -120,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 347.1000061035156
   },
   "right": {
     "id": "452ec383a19d7fb3",
@@ -224,10 +226,18 @@
   },
   "active": "10666a8939cf37c0",
   "lastOpenFiles": [
-    "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/7.17.pdf",
-    "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/19.5.pdf",
-    "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/18.20.pdf",
-    "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/8.38.pdf",
+    "1. School/Gamla tentor/E0013E 251030 Lösning.pdf",
+    "1. School/Later/Signals.md",
+    "1. School/Gamla tentor/Tenta_E0013E_251030.docx",
+    "1. School/Gamla tentor/E0013E_240314_Lösning.pdf",
+    "1. School/Gamla tentor/Tenta_E0013E_240314.pdf",
+    "1. School/Gamla tentor/Tenta E0013E 240110 lösning.pdf",
+    "1. School/Gamla tentor/Tenta_E0013E_240110.pdf",
+    "1. School/Gamla tentor/Tenta E0013E 231027 Lösning.pdf",
+    "1. School/Gamla tentor/Tenta_231027_Lösning.pdf",
+    "1. School/Gamla tentor/E0013E_230817_Lösning.pdf",
+    "1. School/Gamla tentor/Tenta_E0013E_230817.pdf",
+    "1. School/Electronics/Exercises Electronics.md",
     "Hobby/IMPORTANT SKILLS.md",
     "Hobby/QOTD.md",
     "Hobby/Advice.md",
@@ -241,23 +251,14 @@
     "2. Study/wM_Documents/Coming/Module 8.md",
     "2. Study/wM_Documents/Coming/Module 7.md",
     "2. Study/wM_Documents/Module 6.md",
-    "2. Study/wM_Documents/Books/(C) Janet Burroway - Imaginative writing.pdf",
-    "2. Study/wM_Documents/Coming",
-    "1. School/Electronics/Material till 6e upplagan/Kursbok/Kap3.pdf",
-    "1. School/Electronics/Material till 6e upplagan/Lösningar 6e upplagan/3.58.pdf",
-    "1. School/Electronics/Material till 6e upplagan/Svar_Rizzoni_6e_20211013.pdf",
     "- Tasks -.md",
-    "2. Study/wM_Documents/Done/A curious cat.pdf",
-    "2. Study/wM_Documents/Done/Feedback - M5 - Title.pdf",
     "2. Study/wLuleå.md",
     "3. Hobby/Programing/DailyPrograming.md",
     "2. Study/wM_Documents/Done/Module 4.md",
-    "1. School/Electronics/Exercises Electronics.md",
     "3. Hobby/DailyPrograming.md",
     "TODAY/Week 38.md",
     "3. Hobby/Celestial Shards.md",
     "Welcome.md",
-    "1. School/Later/Signals.md",
     "1. School/Later/Java/D0018D - U1.md",
     "1. School/Later/Java/Java Software.md"
   ]

@@ -26,15 +26,6 @@ If your character had a nightmare, what would it be about?
 
 @QOTD
 
-Your OC stands before their beloved person they really care about who is about to do something terrible either to themself or others, how will your OC make them stand down? Or will there be an alternative outcome?
-
--# `Q by Drey`
-> -# Send your responses in #qotd-response 
-
-#######################################
-
-@QOTD
-
 Your OC went to a restaurant. Where would they sit? In a corner? In the middle of the room? Would they sit facing the exit? Away from it? Would they take the seat near the kitchen door? The restroom door? By the wall? Or by the window?
 
 -# `Q by Drey`
