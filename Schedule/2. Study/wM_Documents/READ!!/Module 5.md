@@ -95,34 +95,67 @@ For letting me read this pretty delight
 
 
 ## Feedback 2
-It's a sweet short story with a nice little message of spreading kindness. 
-Everyone deserves some happiness to their day. 
+What a sweet story with a lovely message of spreading kindness. It be true, everyone deserves a little happiness to their day. 
 
-I do enjoy how it feels more like a recounting of something you remember, instead of a story.
-It has an interesting charm to it
+It's charming how it all seems more like a memory, instead of a story. Being such a small action, you don't often see it displayed in big grand stories. Still, it's often all the little things that add up and bring joy to all our days.
 
+For feedback, I do think there are ways you can expand the story. One way could be to somewhat *show* all those 16 times she's been passed. Like, what was the first thoughts? And how did they change after each time passed?
 
+On the first pass, one might not fully note that she's there. At that point, she's just "one of many". But, as it repeats, she slowly starts to become a constant. 
 
-I pass by her for the seventh time this month, standing outside the grocery store, as though
-waiting for someone. Her sunken face and ragged clothes are adorned only with an intricately
-designed brooch depicting a rose, pinned to her chest.
-Near the end of my grocery shopping, I check my monthly budget: £10 left. I pick up a small
-bouquet of roses before checking out.
-Exiting the store, I approach her. She lifts her gaze as I hand over the flowers, gently
-accepting them with tears in her eyes. Nodding with appreciation, she smiles. I smile back.
+In a way, a presence you can trust to be there. And, even if it's small, it's... nice
 
+So, there is kindness in turn. 
+Wanting to bring a smile to someone who seems to always wait. 
+
+I wonder...
+Did you ever see her again?
+
+And, what did you do after smiling back?
+Was there any talking? A verbal thank you? Or... did you just leave? 
+
+How did it feel?
+
+How did it feel to give her the flowers? How did it feel when she gave that smile, tears still glistening in her eyes? 
+
+Was there joy and happiness?
+Did it feel awkward?
+Are you glad you did it?
+Did it feel worth it?
+
+I think it would be lovely if the story delved deeper into the emotions of it all, making us *feel* the story instead of just getting an overview. Especially at the end. 
+
+Tell us, how does it feel to extend a hand?
+(Make us believe it's something worth doing.)
+
+Overall, it's such a sweet one
+It's simple in its mundanity, but powerful in its meaning. I really like that
+
+Well done!
+
+Makes one look forward to what more lovely creations you may hold, just waiting to be put to paper
+
+Thank you so dearly for this sweet softness of a story ᵔᵜᵔ
+(And, apologies for being so late on this...)
 
 
 # <font color="#05b5c5">People Watching</font>
-- [ ] 7 Oct, Assignment (People watching)
+- [x] 7 Oct, Assignment (People watching)
 
-In the fall, the cold start to creep in, some wear warm jackets, others wear shorts.
+### The person
+It be fall, the leaves are changing, so many colors to see. And it was the color we took note of first.
 
-This one?
+A clear and pretty purple, with light pinks as highlights at the end. It's eye-catching hair, highlighted even more by the with jacket she wears. 
+
+Her steps feel confident and steady, as if it's not just a leisurely strolled, there is a destination in mind.
+
+And yet, someone greets her, and she stops to take some time for them. A short and simple conversation, before they both part.
 
 
-Colorful purple hair, confident, steady steps and a kind demeanor
+### Reflection
+There are so many to see, all walking to the rhythm of their own heart. There is always something to tell them apart, yet many look same if you don't know the name. It's so easy to forget all whom you see, so it's always interesting when there is one you know will stand out in your memory.
 
+All that to say, there is something interesting in simply *watching* people taking note of how they take their steps. Some dragging along the ground, others looking as if they're walking with intent. Or how they hold themself, back straight, focus clear, or looking down to the ground letting the spine bend like a flower who hasn't gotten enough water.
 
 # <font color="#05b5c5">Reading v.41</font> 
 - [ ] 11 Oct, Comment

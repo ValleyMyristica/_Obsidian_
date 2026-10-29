@@ -13,10 +13,9 @@
 ### Module 3
 - [x] 17 Sep, workshop signup
 
-- [ ] Writing v.38
-	- [ ] 16 Sep, Comment
-	- [ ] 20 Sep, Feedback
-	- [ ] 20 Sep, Feedback
+- [x] Writing v.38
+	- [x] 16 Sep, Comment
+	- [x] 20 Sep, Feedback
 - [x] Reading v.38
 	- [x] 20 Sep, Comment
 	- [x] 23 Sep, Feedback
@@ -45,15 +44,14 @@
 	- [x] 4 Sep, Feedback
 
 ### Module 5
-- [ ] Writing v.41
+- [x] Writing v.41
 	- [x] 5 Oct, Assignment (Act of kindness)
 	- [x] 7 Oct, Feedback
-	- [ ] 7 Oct, Feedback
+	- [x] 7 Oct, Feedback
 	- [x] (8 Oct, Submit to exhibition: martin.cathcart-froden@mau.se)
 	
-	- [ ] 7 Oct, Assignment (People watching)
-	- [ ] 11 Oct, Feedback
-	- [ ] 11 Oct, Feedback
+	- [x] 7 Oct, Assignment (People watching)
+	- [x] 11 Oct, Feedback
 	
 - [ ] Reading v.41
 	- [ ] 11 Oct, Comment
@@ -71,16 +69,16 @@
 
 
 ### Module 6
-- [ ] Writing v.43
-	- [ ] 21 Oct, Assignment
-	- [ ] 25 Oct, Feedback
-	- [ ] 25 Oct, Feedback
+- [x] Writing v.43
+	- [x] 21 Oct, Assignment
+	- [x] 25 Oct, Feedback
+	- [x] 25 Oct, Feedback
 - [ ] Reading v.43
 	- [ ] 25 Oct, Comment
 	- [ ] 28 Sep, Feedback
 ### Module 7
 - [ ] Writing v.44
-	- [ ] 28 Oct, Comment, Self-reflection
+	- [x] 28 Oct, Comment, Self-reflection
 	- [ ] 1 Nov, Feedback
 	- [ ] 1 Nov, Feedback
 
